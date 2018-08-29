@@ -6,7 +6,7 @@ The TODO Group is proud to have run the first open source programs survey in the
 
 The 2018 Open Source Program Management Survey revealed that more than half (53%) of the companies surveyed say their organization has an open source software program or has plans to establish one within the next year.
 
-TODO insert picture
+![2018 Open Source Program Management Survey Summary](2018/summary.png)
 
 Key findings include:
 * Open source use has become commonplace among tech and non-tech companies alike with 72% of companies frequently using open source for non-commercial or internal reasons and 55% using open source for commercial products. 
@@ -17,3 +17,7 @@ Key findings include:
 * The benefits of an open source program are widely known, with 70% of those without a program believing it would have a positive impact in their company, despite any barriers to creating it.
 
 The full results and data of the survey can be found [here](https://github.com/todogroup/survey/blob/master/2018/results.csv).
+
+## License
+
+The survey results are licensed under [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
