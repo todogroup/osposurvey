@@ -44,9 +44,6 @@ The full results and data of the survey can be found [here](https://github.com/t
 #### Companies with an Open Source Program More Likely to Contribute
 ![Companies with an Open Source Program More Likely to Contribute](2018/chart-companies-with-os-programs-more-likely-to-contribute.png)
 
-#### Challenges in Establishing Open Source Programs
-![Challenges in Establishing Open Source Programs](2018/chart-challenges-in-establishing-programs.png)
-
 ## License
 
 The survey results are licensed under [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
