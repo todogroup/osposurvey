@@ -5,7 +5,7 @@ The raw data from the survey is loated here [results.csv](2018/results.csv)
 ## Charts
 
 ### Open Source Programs Summary
-![2018 Open Source Program Management Survey Summary](2018/chart-large-companies.png)
+![2018 Open Source Program Management Survey Summary](chart-large-companies.png)
 
 ### Benefits of Open Source Programs
 ![Benefits of Open Source Programs](2018/chart-benefits-of-open-source-programs.png)
