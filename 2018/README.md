@@ -8,25 +8,25 @@ The raw data from the survey is loated here [results.csv](2018/results.csv)
 ![2018 Open Source Program Management Survey Summary](chart-large-companies.png)
 
 ### Benefits of Open Source Programs
-![Benefits of Open Source Programs](2018/chart-benefits-of-open-source-programs.png)
+![Benefits of Open Source Programs](chart-benefits-of-open-source-programs.png)
 
 ### Open Source Program Metrics of Success
-![Open Source Program Metrics of Success](2018/chart-metrics-of-success.png)
+![Open Source Program Metrics of Success](chart-metrics-of-success.png)
 
 ### Frequency of Companies Open Source Activities
-![Frequency of Companies Open Source Activities](2018/chart-frequency.png)
+![Frequency of Companies Open Source Activities](chart-frequency.png)
 
 ### Survey Demographics
-![Survey Demographics](2018/chart-demographics.png)
+![Survey Demographics](chart-demographics.png)
 
 ### Consensus About Role of Open Source Programs
-![Survey Demographics](2018/chart-consensus-role-of-open-source-programs.png)
+![Survey Demographics](chart-consensus-role-of-open-source-programs.png)
 
 ### Challenges of Establishing an Open Source Program
-![Challenges of Establishing an Open Source Program](2018/chart-challenges-in-establishing-programs.png)
+![Challenges of Establishing an Open Source Program](chart-challenges-in-establishing-programs.png)
 
 ### Companies with an Open Source Program More Likely to Contribute
-![Companies with an Open Source Program More Likely to Contribute](2018/chart-companies-with-os-programs-more-likely-to-contribute.png)
+![Companies with an Open Source Program More Likely to Contribute](chart-companies-with-os-programs-more-likely-to-contribute.png)
 
 ### Challenges in Establishing Open Source Programs
-![Challenges in Establishing Open Source Programs](2018/chart-challenges-in-establishing-programs.png)
+![Challenges in Establishing Open Source Programs](chart-challenges-in-establishing-programs.png)
