@@ -562,11 +562,37 @@
 
 * Other
 
-35. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
+35. Are you in the business of developing or selling software applications?
+* Yes
+* No
 
-36. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+36. If you use open source software, how do you use consume open source software?
+* Do-it-Yourself (DIY)
+* DIY with support from an open source software vendor
+* Through an open source software vendor, with support
+* Through an open source software vendor, without support
+* Through a managed service provider/ or a consultant
+
+37. If you are using open source and you are not selling software applications, why do you use open source software?
+* To save on licensing costs
+* To provide flexibility and choice on software vendors
+* Because my managed service provider recommended so
+* As a negotiation tactic while dealing with software vendors
+* Other
+
+
+38. If you are NOT using open source, why are you NOT using open source software?
+* Lack of stability in the software
+* Lack of required features
+* Lack of support
+* Lack of expertise
+* Unpredictability in TCO estimates
+* Other
+
+39. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
+
+40. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 
 * Name
-
 * Enterprise or Organization
 
