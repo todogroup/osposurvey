@@ -200,6 +200,10 @@
 
 * Time to market with new products
 
+* Project code quality
+
+* Cost Savings
+
 * Other (please specify)
 
 13. What are the top three challenges your open source program faces? (Choose three) *
@@ -214,7 +218,7 @@
 
 * Internal awareness of the program
 
-* External awareness (marketing and communcations)
+* External awareness (marketing and communications)
 
 * License compliance overhead
 
@@ -242,7 +246,33 @@
 
 * Don't know
 
-16. When does your company plan to start a program?
+16. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
+
+* Yes
+
+* No
+
+* Don't Know
+
+17. What is the preferred license for your company's open source projects?
+
+* MIT
+
+* BSD 3-clause
+
+* BSD 2-clause
+
+* Apache 2.0
+
+* GPL
+
+* LGPL
+
+* No license
+
+* Other (please specify)
+
+18. When does your company plan to start a program?
 
 * Next 6 months
 
@@ -252,13 +282,13 @@
 
 * 24+ months
 
-17. How will the program or initiative be structured? *
+19. How will the program or initiative be structured? *
 
 * Formal: dedicated person-hours, reporting structure and/or job titles
 
 * Informal: working groups, mailing lists and/or channels (e.g., Slack) managed by job roles not formally defined as "open source"
 
-18. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
+20. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
 
 * Legal
 
@@ -274,7 +304,7 @@
 
 * Other (please specify)
 
-19. What will be your role in the open source program?
+21. What will be your role in the open source program?
 
 * Executive leadership or oversight (program manager reports to me)
 
@@ -292,7 +322,7 @@
 
 * No formal role
 
-20. What does your company aim to accomplish by starting an open source program? (Check all that apply)
+22. What does your company aim to accomplish by starting an open source program? (Check all that apply)
 
 * Increased developer recruitment and retention
 
@@ -324,7 +354,7 @@
 
 * Other (please specify)
 
-21. What are top three ways your open source program will quantify success? (Choose three) Fewer license violations
+23. What are top three ways your open source program will quantify success? (Choose three) Fewer license violations
 
 * Faster compliance process
 
@@ -346,9 +376,13 @@
 
 * Time to market with new products
 
+* Project code quality
+
+* Cost savings
+
 * Other (please specify)
 
-22. What have been the top three biggest challenges in establishing an open source program? (Choose three)
+24. What have been the top three biggest challenges in establishing an open source program? (Choose three)
 
 * Strategy: planning or knowing how to approach it
 
@@ -374,7 +408,7 @@
 
 * Other (please specify)
 
-23. Why doesn’t your company have an open source program? (Check all that apply)
+25. Why doesn’t your company have an open source program? (Check all that apply)
 
 * Used to have one, but ended it
 
@@ -398,13 +432,13 @@
 
 * Other (please specify)
 
-24. Would your company benefit from an open source program?
+26. Would your company benefit from an open source program?
 
 * Yes
 
 * No
 
-25. What are the top three ways your company would benefit from an open source program? (Choose three)
+27. What are the top three ways your company would benefit from an open source program? (Choose three)
 
 * Increased developer recruitment and retention
 
@@ -436,9 +470,9 @@
 
 * Other (please specify)
 
-26. How would you approach creating an open source program within your organization?
+28. How would you approach creating an open source program within your organization?
 
-27. Why not?
+29. Why not?
 
 * Used to have one, but ended it
 
@@ -460,13 +494,13 @@
 
 * Other (please specify)
 
-28. If yes, please provide one or two specific examples.
+30. If yes, please provide one or two specific examples.
 
 * Example 1
 
 * Example 2
 
-29. How many open source projects does your company maintain?
+31. How many open source projects does your company maintain?
 
 * 0
 
@@ -480,7 +514,7 @@
 
 * 1,000+
 
-30. How often does your average application development team release code into production?
+32. How often does your average application development team release code into production?
 
 * Hourly
 
@@ -494,7 +528,7 @@
 
 * Don’t know
 
-31. What is the average time between major product releases?
+33. What is the average time between major product releases?
 
 * < 1 month
 
@@ -506,7 +540,7 @@
 
 * 12+ months
 
-32. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
+34. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 
 * GitHub paid version
 
@@ -518,7 +552,7 @@
 
 * Other (please specify)
 
-33. Which category most closely defines your role?
+35. Which category most closely defines your role?
 
 * Developer or Software Engineer
 
@@ -534,7 +568,7 @@
 
 * Other
 
-34. What industry vertical is your company in?
+36. What industry vertical is your company in?
 
 * Defense
 
@@ -562,18 +596,18 @@
 
 * Other
 
-35. Are you in the business of developing or selling software applications?
+37. Are you in the business of developing or selling software applications?
 * Yes
 * No
 
-36. If you use open source software, how do you use consume open source software?
+38. If you use open source software, how do you use consume open source software?
 * Do-it-Yourself (DIY)
 * DIY with support from an open source software vendor
 * Through an open source software vendor, with support
 * Through an open source software vendor, without support
 * Through a managed service provider/ or a consultant
 
-37. If you are using open source and you are not selling software applications, why do you use open source software?
+39. If you are using open source and you are not selling software applications, why do you use open source software?
 * To save on licensing costs
 * To provide flexibility and choice on software vendors
 * Because my managed service provider recommended so
@@ -581,7 +615,7 @@
 * Other
 
 
-38. If you are NOT using open source, why are you NOT using open source software?
+40. If you are NOT using open source, why are you NOT using open source software?
 * Lack of stability in the software
 * Lack of required features
 * Lack of support
@@ -589,9 +623,9 @@
 * Unpredictability in TCO estimates
 * Other
 
-39. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
+41. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 
-40. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+42. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 
 * Name
 * Enterprise or Organization
