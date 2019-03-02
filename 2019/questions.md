@@ -56,6 +56,8 @@
 
 * Yes No Don't know
 
+6. What are the primary responsibilities of the open source program? (Check all that apply)
+
 * Use of open source code in products (dependencies)
 
 * Releasing open source code or projects
@@ -65,8 +67,6 @@
 * Contributing upstream to open source projects
 
 * Sponsoring open source projects, events or foundations
-
-6. What are the primary responsibilities of the open source program? (Check all that apply)
 
 * Owning and overseeing the execution of open source strategy
 
@@ -629,4 +629,3 @@
 
 * Name
 * Enterprise or Organization
-
