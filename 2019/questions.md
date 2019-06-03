@@ -143,9 +143,14 @@
 * Yes
 * No
 * Don't know
->ROUTING: "Yes" goes to Part 2b; "No" and "Don't know" go to Part 3
+>ROUTING: "Yes" goes to Part 2b; "No" and "Don't know" go to Part 5
 
-##
+### Part 2b
+16. If yes, please provide one or two specific examples.
+* Example 1
+* Example 2
+
+## Part 3
 
 18. When does your company plan to start a program?
 * Next 6 months
@@ -273,9 +278,8 @@
 * I don’t know
 * Other (please specify)
 
-30. If yes, please provide one or two specific examples.
-* Example 1
-* Example 2
+
+
 
 31. How many open source projects does your company maintain?
 * 0
@@ -384,6 +388,6 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTMxNDI4NSwtMTUwNjcwNjUzOCwtMz
+eyJoaXN0b3J5IjpbLTcwNTM0MjM4NywtMTUwNjcwNjUzOCwtMz
 UzNjI4Nzc5XX0=
 -->
