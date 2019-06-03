@@ -25,12 +25,14 @@
 * Train developers to contribute to open source projects
 * Create its own open source projects
 * Attend and speak at open source events or conferences
+>ROUTING: "Survey ends if "Never" is answered for everything
 
 4. Does your company have a formal policy governing use and contribution to open source projects in the following areas?
 * Yes
 * No, but planning one
 * No
 
+## Part 2
 5. Does your company have an open source program (either formal or informal) or management initiative? *
 >{Yes No Don't know}
 * Use of open source code in products (dependencies)
@@ -377,5 +379,5 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzYyODc3OSw1MDY5MzUxXX0=
+eyJoaXN0b3J5IjpbLTE1MDY3MDY1MzhdfQ==
 -->
