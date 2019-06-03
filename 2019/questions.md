@@ -100,6 +100,7 @@
 * Other (please specify)
 
 12. What are the ways your open source program quantifies success? (Check all that apply)
+>LH Note: "Project code quality and Cost savings are new choices in 2019
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -114,7 +115,7 @@
 * Project code quality
 * Cost savings
 * Other (please specify)
-<!--added in 2019 survey-->
+
 13. What are the top three challenges your open source program faces? (Choose three) *
 * Talent: finding and recruiting open source developers
 * Ability to influence open source projects
@@ -200,6 +201,7 @@
 * Other (please specify)
 
 23. What are top three ways your open source program will quantify success? (Choose three) 
+>LH Note: "Project code quality and Cost savings are new choices in 2019
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -367,4 +369,3 @@
 42. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
 * Enterprise or Organization
-<!--added in 2019 survey-->
