@@ -31,6 +31,7 @@
 * Yes
 * No, but planning one
 * No
+>ROUTING: "Yes" goes to Part 2; "No, but planning one" goes to Part 3; "No" goes to Part 4
 
 ## Part 2
 5. Does your company have an open source program (either formal or informal) or management initiative? *
@@ -141,6 +142,7 @@
 * Yes
 * No
 * Don't know
+>RO
 
 16. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
 * Yes
@@ -379,5 +381,6 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY3MDY1MzhdfQ==
+eyJoaXN0b3J5IjpbLTE1MjUwMTg2ODMsLTE1MDY3MDY1MzhdfQ
+==
 -->
