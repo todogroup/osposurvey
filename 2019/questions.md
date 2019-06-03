@@ -1,4 +1,3 @@
-
 1. Where is your company or organization on its open source journey? (Check all that apply) 
 * Consuming open source code in products or services
 * Contributing to upstream open source projects
@@ -368,5 +367,5 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTMxMTQwM119
+eyJoaXN0b3J5IjpbNTA2OTM1MV19
 -->
