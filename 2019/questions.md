@@ -16,6 +16,7 @@
 * Don't know
 
 3. How often does your company do the following activities?
+
 {Never Rarely Sometimes Frequently Don't know}
 * Contribute code upstream
 * Use open source code for noncommercial or internal reasons
@@ -31,7 +32,7 @@
 * No
 
 5. Does your company have an open source program (either formal or informal) or management initiative? *
-* Yes No Don't know
+{Yes No Don't know}
 * Use of open source code in products (dependencies)
 * Releasing open source code or projects
 * List of acceptable licenses
@@ -112,9 +113,9 @@
 * Open source culture within the company
 * Time to market with new products
 * Project code quality
-* Cost Savings
+* Cost savings
 * Other (please specify)
-
+<!--added in 2019 survey-->
 13. What are the top three challenges your open source program faces? (Choose three) *
 * Talent: finding and recruiting open source developers
 * Ability to influence open source projects
@@ -137,7 +138,7 @@
 * Yes
 * No
 * Don't know
-* 
+
 16. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
 * Yes
 * No
@@ -152,6 +153,7 @@
 * LGPL
 * No license
 * Other (please specify)
+
 18. When does your company plan to start a program?
 * Next 6 months
 * 6-12 months
@@ -366,6 +368,4 @@
 42. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
 * Enterprise or Organization
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2OTM1MV19
--->
+<!--added in 2019 survey-->
