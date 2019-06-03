@@ -34,6 +34,7 @@
 >ROUTING: "Yes" goes to Part 2; "No, but planning one" goes to Part 3; "No" goes to Part 4
 
 ## Part 2
+### Part 2a
 5. Does your company have an open source program (either formal or informal) or management initiative? *
 >{Yes No Don't know}
 * Use of open source code in products (dependencies)
@@ -142,24 +143,9 @@
 * Yes
 * No
 * Don't know
->Rout
+>ROUTING: "Yes" goes to Part 2b; "No" and "Don't know" go to Part 3
 
-16. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
-* Yes
-* No
-* Don't know
->LH Note: New question in 2019
-
-17. What is the preferred license for your company's open source projects?
-* MIT
-* BSD 3-clause
-* BSD 2-clause
-* Apache 2.0
-* GPL
-* LGPL
-* No license
-* Other (please specify)
->LH Note: New question in 2019
+##
 
 18. When does your company plan to start a program?
 * Next 6 months
@@ -345,6 +331,23 @@
 * Utilities
 * Other
 
+16. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
+* Yes
+* No
+* Don't know
+>LH Note: New question in 2019
+
+17. What is the preferred license for your company's open source projects?
+* MIT
+* BSD 3-clause
+* BSD 2-clause
+* Apache 2.0
+* GPL
+* LGPL
+* No license
+* Other (please specify)
+>LH Note: New question in 2019
+
 37. Are you in the business of developing or selling software applications?
 * Yes
 * No
@@ -381,6 +384,6 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDE5MjMyNCwtMTUwNjcwNjUzOCwtMz
+eyJoaXN0b3J5IjpbLTI5MTMxNDI4NSwtMTUwNjcwNjUzOCwtMz
 UzNjI4Nzc5XX0=
 -->
