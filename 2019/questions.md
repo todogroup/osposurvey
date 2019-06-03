@@ -1,3 +1,4 @@
+## Part 1
 1. Where is your company or organization on its open source journey? (Check all that apply) 
 * Consuming open source code in products or services
 * Contributing to upstream open source projects
@@ -12,7 +13,7 @@
 * 51-250
 * 251-1,000
 * 1,000-10,000
-* 10,000+
+* 10,000 or more
 * Don't know
 
 3. How often does your company do the following activities?
@@ -100,7 +101,6 @@
 * Other (please specify)
 
 12. What are the ways your open source program quantifies success? (Check all that apply)
->LH Note: "Project code quality" and "Cost savings" are new choices in 2019
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -115,6 +115,7 @@
 * Project code quality
 * Cost savings
 * Other (please specify)
+>LH Note: "Project code quality" and "Cost savings" are new choices in 2019
 
 13. What are the top three challenges your open source program faces? (Choose three) *
 * Talent: finding and recruiting open source developers
@@ -146,7 +147,6 @@
 >LH Note: New question in 2019
 
 17. What is the preferred license for your company's open source projects?
->LH Note: New question in 2019
 * MIT
 * BSD 3-clause
 * BSD 2-clause
@@ -155,6 +155,7 @@
 * LGPL
 * No license
 * Other (please specify)
+>LH Note: New question in 2019
 
 18. When does your company plan to start a program?
 * Next 6 months
@@ -203,7 +204,6 @@
 * Other (please specify)
 
 23. What are top three ways your open source program will quantify success? (Choose three) 
->LH Note: "Project code quality" and "Cost savings" are new choices in 2019
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -218,6 +218,7 @@
 * Project code quality
 * Cost savings
 * Other (please specify)
+>LH Note: "Project code quality" and "Cost savings" are new choices in 2019
 
 24. What have been the top three biggest challenges in establishing an open source program? (Choose three)
 * Strategy: planning or knowing how to approach it
@@ -303,11 +304,11 @@
 * Don’t know
 
 33. What is the average time between major product releases?
-* < 1 month
+* Less than 1 month
 * 1-2 months
 * 3-6 months
 * 6-12 months
-* 12+ months
+* 12 or more months
 
 34. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
@@ -343,6 +344,7 @@
 37. Are you in the business of developing or selling software applications?
 * Yes
 * No
+>LH Note: New question in 2019
 
 38. If you use open source software, how do you use consume open source software?
 * Do-it-Yourself (DIY)
@@ -350,6 +352,7 @@
 * Through an open source software vendor, with support
 * Through an open source software vendor, without support
 * Through a managed service provider/ or a consultant
+>LH Note: New question in 2019
 
 39. If you are using open source and you are not selling software applications, why do you use open source software?
 * To save on licensing costs
@@ -357,6 +360,7 @@
 * Because my managed service provider recommended so
 * As a negotiation tactic while dealing with software vendors
 * Other
+>LH Note: New question in 2019
 
 40. If you are NOT using open source, why are you NOT using open source software?
 * Lack of stability in the software
@@ -365,6 +369,7 @@
 * Lack of expertise
 * Unpredictability in TCO estimates
 * Other
+>LH Note: New question in 2019
 
 41. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 
