@@ -314,6 +314,7 @@
 * Homegrown solution
 * Other (please specify)
 
+## Part 5
 33. Which category most closely defines your role?
 * Developer or Software Engineer
 * Other IT
@@ -323,7 +324,7 @@
 * Marketing / PR
 * Other
 
-36. What industry vertical is your company in?
+34. What industry vertical is your company in?
 * Defense
 * Education
 * Financial Services
@@ -338,13 +339,15 @@
 * Utilities
 * Other
 
-16. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
+## Part 6
+>LH Note: these are all the questions that Chris and company added since the last survey was completed
+
+35. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
 * Yes
 * No
 * Don't know
->LH Note: New question in 2019
 
-17. What is the preferred license for your company's open source projects?
+36. What is the preferred license for your company's open source projects?
 * MIT
 * BSD 3-clause
 * BSD 2-clause
@@ -353,12 +356,10 @@
 * LGPL
 * No license
 * Other (please specify)
->LH Note: New question in 2019
 
-37. Are you in the business of developing or selling software applications?
+36. Are you in the business of developing or selling software applications?
 * Yes
 * No
->LH Note: New question in 2019
 
 38. If you use open source software, how do you use consume open source software?
 * Do-it-Yourself (DIY)
@@ -366,7 +367,6 @@
 * Through an open source software vendor, with support
 * Through an open source software vendor, without support
 * Through a managed service provider/ or a consultant
->LH Note: New question in 2019
 
 39. If you are using open source and you are not selling software applications, why do you use open source software?
 * To save on licensing costs
@@ -391,6 +391,6 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDYzNzgwLC0xNTA2NzA2NTM4LC0zNT
-M2Mjg3NzldfQ==
+eyJoaXN0b3J5IjpbMTIyMjk4NTE5NywtMTUwNjcwNjUzOCwtMz
+UzNjI4Nzc5XX0=
 -->
