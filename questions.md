@@ -229,6 +229,8 @@
 * Tool selection
 * Other (please specify)
 
+## Part 4
+### Part 4a
 25. Why doesn’t your company have an open source program? (Check all that apply)
 * Used to have one, but ended it
 * Have never heard of an open source program
@@ -245,7 +247,9 @@
 26. Would your company benefit from an open source program?
 * Yes
 * No
+>Routing: "Yes" goes to Part 4b, "No" goes to Part 4c
 
+## Part 4b
 27. What are the top three ways your company would benefit from an open source program? (Choose three)
 * Increased developer recruitment and retention
 * Increased speed and agility in development cycle
@@ -266,6 +270,7 @@
 28. How would you approach creating an open source program within your organization?
 {open ended}
     
+### Part 4c
 29. Why not?
 * Used to have one, but ended it
 * Have never heard of an open source program
@@ -388,5 +393,5 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTM0MjM4NywtMTUwNjcwNjUzOF19
+eyJoaXN0b3J5IjpbMTMxNjk1NDQwNCwtMTUwNjcwNjUzOF19
 -->
