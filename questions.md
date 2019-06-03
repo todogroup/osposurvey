@@ -152,17 +152,17 @@
 
 ## Part 3
 
-18. When does your company plan to start a program?
+17. When does your company plan to start a program?
 * Next 6 months
 * 6-12 months
 * 13-24 months
 * 24 or more months
 
-19. How will the program or initiative be structured? *
+18. How will the program or initiative be structured? *
 * Formal: dedicated person-hours, reporting structure and/or job titles
 * Informal: working groups, mailing lists and/or channels (e.g., Slack) managed by job roles not formally defined as "open source"
 
-20. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
+19. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
 * Legal
 * Software Engineering and Development
 * IT
@@ -171,7 +171,7 @@
 * Don't know
 * Other (please specify)
 
-21. What will be your role in the open source program?
+20. What will be your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
 * Program manager
 * Legal compliance
@@ -181,7 +181,7 @@
 * Committee member
 * No formal role
 
-22. What does your company aim to accomplish by starting an open source program? (Check all that apply)
+21. What does your company aim to accomplish by starting an open source program? (Check all that apply)
 * Increased developer recruitment and retention
 * Increased speed and agility in development cycle
 * Better license compliance
@@ -198,7 +198,7 @@
 * Better security testing and vulnerability management
 * Other (please specify)
 
-23. What are top three ways your open source program will quantify success? (Choose three) 
+22. What are top three ways your open source program will quantify success? (Choose three) 
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -215,7 +215,7 @@
 * Other (please specify)
 >LH Note: "Project code quality" and "Cost savings" are new choices in 2019
 
-24. What have been the top three biggest challenges in establishing an open source program? (Choose three)
+23. What have been the top three biggest challenges in establishing an open source program? (Choose three)
 * Strategy: planning or knowing how to approach it
 * Finding an open source program manager
 * Finding legal staff with open source expertise
@@ -231,7 +231,7 @@
 
 ## Part 4
 ### Part 4a
-25. Why doesn’t your company have an open source program? (Check all that apply)
+24. Why doesn’t your company have an open source program? (Check all that apply)
 * Used to have one, but ended it
 * Have never heard of an open source program
 * Haven’t considered it
@@ -244,13 +244,13 @@
 * Want one but can’t justify it
 * Other (please specify)
 
-26. Would your company benefit from an open source program?
+25. Would your company benefit from an open source program?
 * Yes
 * No
 >Routing: "Yes" goes to Part 4b, "No" goes to Part 4c
 
 ## Part 4b
-27. What are the top three ways your company would benefit from an open source program? (Choose three)
+26. What are the top three ways your company would benefit from an open source program? (Choose three)
 * Increased developer recruitment and retention
 * Increased speed and agility in development cycle
 * Better license compliance
@@ -267,11 +267,11 @@
 * Better security testing and vulnerability management
 * Other (please specify)
 
-28. How would you approach creating an open source program within your organization?
+27. How would you approach creating an open source program within your organization?
 {open ended}
     
 ### Part 4c
-29. Why not?
+28. Why not?
 * Used to have one, but ended it
 * Have never heard of an open source program
 * Haven’t considered it
@@ -283,10 +283,8 @@
 * I don’t know
 * Other (please specify)
 
-
-
-
-31. How many open source projects does your company maintain?
+## Part 5
+29. How many open source projects does your company maintain?
 * 0
 * 1-10
 * 11-50
@@ -294,7 +292,7 @@
 * 101-1,000
 * More than 1,000
 
-32. How often does your average application development team release code into production?
+30. How often does your average application development team release code into production?
 * Hourly
 * Daily
 * Weekly
@@ -302,21 +300,21 @@
 * Less than once a month
 * Don’t know
 
-33. What is the average time between major product releases?
+31. What is the average time between major product releases?
 * Less than 1 month
 * 1-2 months
 * 3-6 months
 * 6-12 months
 * 12 or more months
 
-34. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
+32. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
 * Other vendor’s paid version (e.g., GitLab, Bitbucket)
 * Free version of vendor solution (e.g., GitHub, GitLab)
 * Homegrown solution
 * Other (please specify)
 
-35. Which category most closely defines your role?
+33. Which category most closely defines your role?
 * Developer or Software Engineer
 * Other IT
 * Community Manager or Developer Advocate
@@ -393,5 +391,5 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjk1NDQwNCwtMTUwNjcwNjUzOF19
+eyJoaXN0b3J5IjpbLTg1NDYzNzgwLC0xNTA2NzA2NTM4XX0=
 -->
