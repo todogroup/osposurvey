@@ -16,8 +16,7 @@
 * Don't know
 
 3. How often does your company do the following activities?
-
-{Never Rarely Sometimes Frequently Don't know}
+>{Never Rarely Sometimes Frequently Don't know}
 * Contribute code upstream
 * Use open source code for noncommercial or internal reasons
 * Use open source code in commercial products
@@ -32,7 +31,7 @@
 * No
 
 5. Does your company have an open source program (either formal or informal) or management initiative? *
-{Yes No Don't know}
+>{Yes No Don't know}
 * Use of open source code in products (dependencies)
 * Releasing open source code or projects
 * List of acceptable licenses
@@ -80,7 +79,7 @@
 * 0-2 years
 * 3-5 years
 * 5-10 years
-* > 10 years
+* 10 or more years
 * Don't know
 
 11. What are the areas where your company has most benefited from the open source program? (Check all that apply)
