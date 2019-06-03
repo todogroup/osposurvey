@@ -100,7 +100,7 @@
 * Other (please specify)
 
 12. What are the ways your open source program quantifies success? (Check all that apply)
->LH Note: "Project code quality and Cost savings are new choices in 2019
+>LH Note: "Project code quality" and "Cost savings" are new choices in 2019
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -142,9 +142,11 @@
 16. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
 * Yes
 * No
-* Don't Know
+* Don't know
+>LH Note: New question in 2019
 
 17. What is the preferred license for your company's open source projects?
+>LH Note: New question in 2019
 * MIT
 * BSD 3-clause
 * BSD 2-clause
@@ -158,7 +160,7 @@
 * Next 6 months
 * 6-12 months
 * 13-24 months
-* 24+ months
+* 24 or more months
 
 19. How will the program or initiative be structured? *
 * Formal: dedicated person-hours, reporting structure and/or job titles
@@ -201,7 +203,7 @@
 * Other (please specify)
 
 23. What are top three ways your open source program will quantify success? (Choose three) 
->LH Note: "Project code quality and Cost savings are new choices in 2019
+>LH Note: "Project code quality" and "Cost savings" are new choices in 2019
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -290,7 +292,7 @@
 * 11-50
 * 51-100
 * 101-1,000
-* 1,000+
+* More than 1,000
 
 32. How often does your average application development team release code into production?
 * Hourly
