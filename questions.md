@@ -1,3 +1,4 @@
+## Part 1
 1. Where is your company or organization on its open source journey? (Check all that apply) 
 * Consuming open source code in products or services
 * Contributing to upstream open source projects
@@ -12,11 +13,11 @@
 * 51-250
 * 251-1,000
 * 1,000-10,000
-* 10,000+
+* 10,000 or more
 * Don't know
 
 3. How often does your company do the following activities?
-{Never Rarely Sometimes Frequently Don't know}
+>{Never Rarely Sometimes Frequently Don't know}
 * Contribute code upstream
 * Use open source code for noncommercial or internal reasons
 * Use open source code in commercial products
@@ -31,7 +32,7 @@
 * No
 
 5. Does your company have an open source program (either formal or informal) or management initiative? *
-* Yes No Don't know
+>{Yes No Don't know}
 * Use of open source code in products (dependencies)
 * Releasing open source code or projects
 * List of acceptable licenses
@@ -79,7 +80,7 @@
 * 0-2 years
 * 3-5 years
 * 5-10 years
-* > 10 years
+* 10 or more years
 * Don't know
 
 11. What are the areas where your company has most benefited from the open source program? (Check all that apply)
@@ -112,8 +113,9 @@
 * Open source culture within the company
 * Time to market with new products
 * Project code quality
-* Cost Savings
+* Cost savings
 * Other (please specify)
+>LH Note: "Project code quality" and "Cost savings" are new choices in 2019
 
 13. What are the top three challenges your open source program faces? (Choose three) *
 * Talent: finding and recruiting open source developers
@@ -137,11 +139,12 @@
 * Yes
 * No
 * Don't know
-* 
+
 16. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
 * Yes
 * No
-* Don't Know
+* Don't know
+>LH Note: New question in 2019
 
 17. What is the preferred license for your company's open source projects?
 * MIT
@@ -152,11 +155,13 @@
 * LGPL
 * No license
 * Other (please specify)
+>LH Note: New question in 2019
+
 18. When does your company plan to start a program?
 * Next 6 months
 * 6-12 months
 * 13-24 months
-* 24+ months
+* 24 or more months
 
 19. How will the program or initiative be structured? *
 * Formal: dedicated person-hours, reporting structure and/or job titles
@@ -213,6 +218,7 @@
 * Project code quality
 * Cost savings
 * Other (please specify)
+>LH Note: "Project code quality" and "Cost savings" are new choices in 2019
 
 24. What have been the top three biggest challenges in establishing an open source program? (Choose three)
 * Strategy: planning or knowing how to approach it
@@ -287,7 +293,7 @@
 * 11-50
 * 51-100
 * 101-1,000
-* 1,000+
+* More than 1,000
 
 32. How often does your average application development team release code into production?
 * Hourly
@@ -298,11 +304,11 @@
 * Don’t know
 
 33. What is the average time between major product releases?
-* < 1 month
+* Less than 1 month
 * 1-2 months
 * 3-6 months
 * 6-12 months
-* 12+ months
+* 12 or more months
 
 34. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
@@ -338,6 +344,7 @@
 37. Are you in the business of developing or selling software applications?
 * Yes
 * No
+>LH Note: New question in 2019
 
 38. If you use open source software, how do you use consume open source software?
 * Do-it-Yourself (DIY)
@@ -345,6 +352,7 @@
 * Through an open source software vendor, with support
 * Through an open source software vendor, without support
 * Through a managed service provider/ or a consultant
+>LH Note: New question in 2019
 
 39. If you are using open source and you are not selling software applications, why do you use open source software?
 * To save on licensing costs
@@ -352,6 +360,7 @@
 * Because my managed service provider recommended so
 * As a negotiation tactic while dealing with software vendors
 * Other
+>LH Note: New question in 2019
 
 40. If you are NOT using open source, why are you NOT using open source software?
 * Lack of stability in the software
@@ -360,6 +369,7 @@
 * Lack of expertise
 * Unpredictability in TCO estimates
 * Other
+>LH Note: New question in 2019
 
 41. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 
@@ -367,5 +377,5 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2OTM1MV19
+eyJoaXN0b3J5IjpbLTM1MzYyODc3OSw1MDY5MzUxXX0=
 -->
