@@ -357,7 +357,7 @@
 * No license
 * Other (please specify)
 
-36. Are you in the business of developing or selling software applications?
+37. Are you in the business of developing or selling software applications?
 * Yes
 * No
 
@@ -374,7 +374,7 @@
 * Because my managed service provider recommended so
 * As a negotiation tactic while dealing with software vendors
 * Other
->LH Note: New question in 2019
+>LH Note: who is supposed to get this question?
 
 40. If you are NOT using open source, why are you NOT using open source software?
 * Lack of stability in the software
@@ -383,14 +383,14 @@
 * Lack of expertise
 * Unpredictability in TCO estimates
 * Other
->LH Note: New question in 2019
+>LH Note: who is supposed to get this question?
 
 41. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
-
+* Email
 42. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjk4NTE5NywtMTUwNjcwNjUzOCwtMz
-UzNjI4Nzc5XX0=
+eyJoaXN0b3J5IjpbNzQzODUyMTc2LC0xNTA2NzA2NTM4LC0zNT
+M2Mjg3NzldfQ==
 -->
