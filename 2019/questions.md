@@ -37,13 +37,13 @@
 ### Part 2a
 5. Does your company have an open source program (either formal or informal) or management initiative? *
 >{Yes No Don't know}
+
+6. What are the primary responsibilities of the open source program? (Check all that apply)
 * Use of open source code in products (dependencies)
 * Releasing open source code or projects
 * List of acceptable licenses
 * Contributing upstream to open source projects
 * Sponsoring open source projects, events or foundations
-
-6. What are the primary responsibilities of the open source program? (Check all that apply)
 * Owning and overseeing the execution of open source strategy
 * Clearly communicating the open source strategy within and outside the company
 * Facilitating the effective use of open source in commercial products and services
@@ -247,6 +247,7 @@
 25. Would your company benefit from an open source program?
 * Yes
 * No
+* Unknown
 >Routing: "Yes" goes to Part 4b, "No" goes to Part 4c
 
 ## Part 4b
