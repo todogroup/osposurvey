@@ -399,7 +399,8 @@
 * HPE
 * Salesforce.com
 
-42. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions? [again, recommend a standard likert scale from NONE to EXTREMELY/ESSENTIAL]
+42. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
+*Extremely  [again, recommend a standard likert scale from NONE to EXTREMELY/ESSENTIAL]
 
 44. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 * Email
@@ -407,6 +408,6 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDcyNzMxNTQsNzQzODUyMTc2LC0xNT
-A2NzA2NTM4LC0zNTM2Mjg3NzldfQ==
+eyJoaXN0b3J5IjpbLTQzODczNDY3NSwtMTIwNzI3MzE1NCw3ND
+M4NTIxNzYsLTE1MDY3MDY1MzgsLTM1MzYyODc3OV19
 -->
