@@ -388,10 +388,11 @@
 
 42.  To what degree do you perceive the following companies as “good open source community citizens” – contributing, collaborating and leading open source projects and initiatives within the CNCF ecosystem?
 * Excellent
-* Very Good
-* Fair
+* Above Average
+* Average
 * Below Average
-* Poor (
+* Very Poor 
+* Don't
 * use a likert scale from “Not at all” to “Excellent, Outstanding”) [include the TODO group of companies alongside VMware]
 
 44. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
@@ -400,6 +401,6 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDI3MTQ2OSw3NDM4NTIxNzYsLTE1MD
-Y3MDY1MzgsLTM1MzYyODc3OV19
+eyJoaXN0b3J5IjpbLTEzOTQ2NDcyNzMsNzQzODUyMTc2LC0xNT
+A2NzA2NTM4LC0zNTM2Mjg3NzldfQ==
 -->
