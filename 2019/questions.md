@@ -385,7 +385,7 @@
 * Other
 >LH Note: who is supposed to get this question?
 
-41. To what degree do you perceive the following companies to be “good open source community citizens” – contributing, collaborating and leading open source projects and initiatives within the CNCF ecosystem? 
+41. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open projects initiatives within the CNCF ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
 * VMware
@@ -412,7 +412,7 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjE1NTI4Myw2NDc4Njc3NjEsLTQzOD
-czNDY3NSwtMTIwNzI3MzE1NCw3NDM4NTIxNzYsLTE1MDY3MDY1
-MzgsLTM1MzYyODc3OV19
+eyJoaXN0b3J5IjpbMTYxNzU5NzcwNCwtNzUyMTU1MjgzLDY0Nz
+g2Nzc2MSwtNDM4NzM0Njc1LC0xMjA3MjczMTU0LDc0Mzg1MjE3
+NiwtMTUwNjcwNjUzOCwtMzUzNjI4Nzc5XX0=
 -->
