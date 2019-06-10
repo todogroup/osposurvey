@@ -385,14 +385,40 @@
 * Other
 >LH Note: who is supposed to get this question?
 
-41.  To what degree do you perceive the following companies to be “good open source community citizens” – contributing, collaborating and leading open source projects and initiatives within the CNCF ecosystem?
-* Excellent
+41.  To what degree do you perceive the following companies to be “good open source community citizens” – contributing, collaborating and leading open source projects and initiatives within the CNCF ecosystem? 
+>
+[Excellent, 
 * Above Average
 * Average
 * Below Average
 * Very Poor 
 * Don't know
-* use a likert scale from “Not at all” to “Excellent, Outstanding”) [include the TODO group of companies alongside VMware]
+
+
+
+AWS
+
+VMware
+
+RedHat
+
+Google
+
+IBM
+
+Microsoft
+
+Intel
+
+COMCAST
+
+SAP
+
+Pivotal
+
+HPE
+
+SalesForce* use a likert scale from “Not at all” to “Excellent, Outstanding”) [include the TODO group of companies alongside VMware]
 
 44. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 * Email
@@ -400,6 +426,6 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzg3NDY1OSw3NDM4NTIxNzYsLTE1MD
+eyJoaXN0b3J5IjpbMTgwNTIxMDY5MSw3NDM4NTIxNzYsLTE1MD
 Y3MDY1MzgsLTM1MzYyODc3OV19
 -->
