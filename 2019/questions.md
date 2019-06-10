@@ -386,14 +386,18 @@
 >LH Note: who is supposed to get this question?
 41. <![endif]-->
 
-1.  To what degree do you perceive the following companies as “good open source community citizens” – contributing, collaborating and leading open source projects and initiatives within the CNCF ecosystem (use a likert scale from “Not at all” to “Excellent, Outstanding”) [include the TODO group of companies alongside VMware]
+42.  To what degree do you perceive the following companies as “good open source community citizens” – contributing, collaborating and leading open source projects and initiatives within the CNCF ecosystem?
+* Excellent
+* * Very Good
+* * Average
+* ** (use a likert scale from “Not at all” to “Excellent, Outstanding”) [include the TODO group of companies alongside VMware]
 
-41. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
+44. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 * Email
-42. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+45. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTU2NjA0LDc0Mzg1MjE3NiwtMTUwNj
-cwNjUzOCwtMzUzNjI4Nzc5XX0=
+eyJoaXN0b3J5IjpbLTIxNDcwMTQ4MTQsNzQzODUyMTc2LC0xNT
+A2NzA2NTM4LC0zNTM2Mjg3NzldfQ==
 -->
