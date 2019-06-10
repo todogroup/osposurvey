@@ -386,21 +386,10 @@
 >LH Note: who is supposed to get this question?
 
 41.  To what degree do you perceive the following companies to be “good open source community citizens” – contributing, collaborating and leading open source projects and initiatives within the CNCF ecosystem? 
->
-[Excellent, 
-* Above Average
-* Average
-* Below Average
-* Very Poor 
-* Don't know
-
-
-
+>{Excellent Above Average Average Below Average Very Poor Don't know}
 AWS
-
 VMware
-
-RedHat
+Red Hat
 
 Google
 
@@ -426,6 +415,6 @@ SalesForce* use a likert scale from “Not at all” to “Excellent, Outstandin
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTIxMDY5MSw3NDM4NTIxNzYsLTE1MD
+eyJoaXN0b3J5IjpbMTQ2OTc1OTg3Miw3NDM4NTIxNzYsLTE1MD
 Y3MDY1MzgsLTM1MzYyODc3OV19
 -->
