@@ -366,7 +366,7 @@
 * DIY with support from an open source software vendor
 * Through an open source software vendor, with support
 * Through an open source software vendor, without support
-* Through a managed service provider/ or a consultant
+* Through a managed service provider or a consultant
 
 39. If you are using open source and you are not selling software applications, why do you use open source software?
 * To save on licensing costs
@@ -384,6 +384,9 @@
 * Unpredictability in TCO estimates
 * Other
 >LH Note: who is supposed to get this question?
+41. <![endif]-->
+
+1.  To what degree do you perceive the following companies as “good open source community citizens” – contributing, collaborating and leading open source projects and initiatives within the CNCF ecosystem (use a likert scale from “Not at all” to “Excellent, Outstanding”) [include the TODO group of companies alongside VMware]
 
 41. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 * Email
@@ -391,6 +394,6 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzODUyMTc2LC0xNTA2NzA2NTM4LC0zNT
-M2Mjg3NzldfQ==
+eyJoaXN0b3J5IjpbMTQwNTU2NjA0LDc0Mzg1MjE3NiwtMTUwNj
+cwNjUzOCwtMzUzNjI4Nzc5XX0=
 -->
