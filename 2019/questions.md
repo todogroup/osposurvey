@@ -400,8 +400,9 @@
 * Salesforce.com
 
 42. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
-*Extremely important
-*   [again, recommend a standard likert scale from NONE to EXTREMELY/ESSENTIAL]
+* Extremely influential
+* Very influential 
+* ModeraSlightly Not at all*   [again, recommend a standard likert scale from NONE to EXTREMELY/ESSENTIAL]
 * Extremely influential
 * Moderately influential
 *  not at all concerned
@@ -419,7 +420,7 @@
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3ODY3NzYxLC00Mzg3MzQ2NzUsLTEyMD
-cyNzMxNTQsNzQzODUyMTc2LC0xNTA2NzA2NTM4LC0zNTM2Mjg3
-NzldfQ==
+eyJoaXN0b3J5IjpbLTczMDA5NzAxNiw2NDc4Njc3NjEsLTQzOD
+czNDY3NSwtMTIwNzI3MzE1NCw3NDM4NTIxNzYsLTE1MDY3MDY1
+MzgsLTM1MzYyODc3OV19
 -->
