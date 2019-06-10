@@ -315,7 +315,7 @@
 * Homegrown solution
 * Other (please specify)
 
-## Part 5
+## Part 6
 33. Which category most closely defines your role?
 * Developer or Software Engineer
 * Other IT
@@ -340,7 +340,7 @@
 * Utilities
 * Other
 
-## Part 6
+## Part 7
 >LH Note: these are all the questions that Chris and company added since the last survey was completed
 
 35. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
@@ -391,7 +391,3 @@
 42. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
 * Enterprise or Organization
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzODUyMTc2LC0xNTA2NzA2NTM4LC0zNT
-M2Mjg3NzldfQ==
--->
