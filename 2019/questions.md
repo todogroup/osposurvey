@@ -385,7 +385,7 @@
 * Other
 >LH Note: who is supposed to get this question?
 
-41.  To what degree do you perceive the following companies to be “good open source community citizens” – contributing, collaborating and leading open source projects and initiatives within the CNCF ecosystem? 
+41. To what degree do you perceive the following companies to be “good open source community citizens” – contributing, collaborating and leading open source projects and initiatives within the CNCF ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
 * VMware
@@ -397,9 +397,9 @@
 * SAP
 * Pivotal
 * HPE
-* Salk
+* Salesforce.com
 
-SalesForce* use a likert scale from “Not at all” to “Excellent, Outstanding”) [include the TODO group of companies alongside VMware]
+42. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions? [again, recommend a standard likert scale from NONE to EXTREMELY/ESSENTIAL]
 
 44. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 * Email
@@ -407,6 +407,6 @@ SalesForce* use a likert scale from “Not at all” to “Excellent, Outstandin
 * Name
 * Enterprise or Organization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTkwNzIzNSw3NDM4NTIxNzYsLTE1MD
-Y3MDY1MzgsLTM1MzYyODc3OV19
+eyJoaXN0b3J5IjpbLTEyMDcyNzMxNTQsNzQzODUyMTc2LC0xNT
+A2NzA2NTM4LC0zNTM2Mjg3NzldfQ==
 -->
