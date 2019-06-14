@@ -358,35 +358,15 @@
 * No license
 * Other (please specify)
 
-37. Are you in the business of developing or selling software applications?
-* Yes
-* No
-
-38. If you use open source software, how do you use consume open source software?
-* Do-it-Yourself (DIY)
-* DIY with support from an open source software vendor
-* Through an open source software vendor, with support
-* Through an open source software vendor, without support
-* Through a managed service provider or a consultant
-
-39. If you are using open source and you are not selling software applications, why do you use open source software?
+37. Why do you use open source software?
 * To save on licensing costs
 * To provide flexibility and choice on software vendors
 * Because my managed service provider recommended so
 * As a negotiation tactic while dealing with software vendors
+* All the above
 * Other
->LH Note: who is supposed to get this question?
 
-40. If you are NOT using open source, why are you NOT using open source software?
-* Lack of stability in the software
-* Lack of required features
-* Lack of support
-* Lack of expertise
-* Unpredictability in TCO estimates
-* Other
->LH Note: who is supposed to get this question?
-
-41. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
+38. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
 * VMware
@@ -397,10 +377,10 @@
 * COMCAST
 * SAP
 * Pivotal
-* HPE
-* Salesforce.com
+* Facebook
+* Salesforce
 
-42. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
+39. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
 * Very influential 
 * Moderately influential
@@ -408,9 +388,9 @@
 * Not at all influential 
 * Don't know
 
-43. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
+40. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 * Email
 
-44. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+41. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
 * Enterprise or Organization
