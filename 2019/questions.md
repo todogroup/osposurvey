@@ -309,39 +309,14 @@
 * Other (please specify)
 
 ## Part 6
-32. Which category most closely defines your role?
-* Developer or Software Engineer
-* Other IT
-* Community Manager or Developer Advocate
-* IT management, including CIO, CISO, CTO
-* C-level (non-technology) management
-* Marketing / PR
-* Other
-
-33. What industry vertical is your company in?
-* Defense
-* Education
-* Financial Services
-* Government
-* Healthcare
-* Insurance
-* Manufacturing and raw materials
-* Retail
-* Technology (software or IT)
-* Telecom, communications, or media
-* Transportation and automotive
-* Utilities
-* Other
-
-## Part 7
 >LH Note: these are all the questions that Chris and company added since the last survey was completed
 
-34. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
+32. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
 * Yes
 * No
 * Don't know
 
-35. What is the preferred license for your company's open source projects?
+33. What is the preferred license for your company's open source projects?
 * MIT
 * BSD 3-clause
 * BSD 2-clause
@@ -351,7 +326,7 @@
 * No license
 * Other (please specify)
 
-36. Of the following options, what are the top three benefits your company receives by using open source software?
+34. Of the following options, what are the top three benefits your company receives by using open source software?
 * Developer satisfaction
 * Development speed
 * Functionality
@@ -362,7 +337,7 @@
 * Technology flexibility and extensibility
 * Total cost of ownership (licenses and developer time)
 
-37. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
+35. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
 * VMware
@@ -376,13 +351,38 @@
 * Facebook
 * Salesforce
 
-38. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
+36. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
 * Very influential 
 * Moderately influential
 * Slightly influential
 * Not at all influential 
 * Don't know
+
+## Part 7
+37. Which category most closely defines your role?
+* Developer or Software Engineer
+* Other IT
+* Community Manager or Developer Advocate
+* IT management, including CIO, CISO, CTO
+* C-level (non-technology) management
+* Marketing / PR
+* Other
+
+38. What industry vertical is your company in?
+* Defense
+* Education
+* Financial Services
+* Government
+* Healthcare
+* Insurance
+* Manufacturing and raw materials
+* Retail
+* Technology (software or IT)
+* Telecom, communications, or media
+* Transportation and automotive
+* Utilities
+* Other
 
 39. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 * Email
