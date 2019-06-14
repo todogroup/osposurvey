@@ -301,7 +301,7 @@
 * Less than once a month
 * Don’t know
 
-32. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
+31. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
 * Other vendor’s paid version (e.g., GitLab, Bitbucket)
 * Free version of vendor solution (e.g., GitHub, GitLab)
@@ -309,7 +309,7 @@
 * Other (please specify)
 
 ## Part 6
-33. Which category most closely defines your role?
+32. Which category most closely defines your role?
 * Developer or Software Engineer
 * Other IT
 * Community Manager or Developer Advocate
@@ -318,7 +318,7 @@
 * Marketing / PR
 * Other
 
-34. What industry vertical is your company in?
+33. What industry vertical is your company in?
 * Defense
 * Education
 * Financial Services
@@ -336,12 +336,12 @@
 ## Part 7
 >LH Note: these are all the questions that Chris and company added since the last survey was completed
 
-35. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
+34. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
 * Yes
 * No
 * Don't know
 
-36. What is the preferred license for your company's open source projects?
+35. What is the preferred license for your company's open source projects?
 * MIT
 * BSD 3-clause
 * BSD 2-clause
@@ -351,7 +351,7 @@
 * No license
 * Other (please specify)
 
-37. Of the following options, what are the top three benefits your company receives by using open source software?
+36. Of the following options, what are the top three benefits your company receives by using open source software?
 * Developer satisfaction
 * Development speed
 * Functionality
@@ -362,7 +362,7 @@
 * Technology flexibility and extensibility
 * Total cost of ownership (licenses and developer time)
 
-38. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
+37. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
 * VMware
@@ -376,7 +376,7 @@
 * Facebook
 * Salesforce
 
-39. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
+38. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
 * Very influential 
 * Moderately influential
@@ -384,9 +384,9 @@
 * Not at all influential 
 * Don't know
 
-40. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
+39. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 * Email
 
-41. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+40. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
 * Enterprise or Organization
