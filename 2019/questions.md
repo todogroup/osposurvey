@@ -139,7 +139,7 @@
 * 4 – Not so critical
 * 5 – Not at all critical
 
-15. Has the open source program had a specific impact on your company's DevOps practices or software architecture?
+15. Has the open source program had a positive impact on your company's software practices?
 * Yes
 * No
 * Don't know
@@ -301,13 +301,6 @@
 * Less than once a month
 * Don’t know
 
-31. What is the average time between major product releases?
-* Less than 1 month
-* 1-2 months
-* 3-6 months
-* 6-12 months
-* 12 or more months
-
 32. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
 * Other vendor’s paid version (e.g., GitLab, Bitbucket)
@@ -358,13 +351,16 @@
 * No license
 * Other (please specify)
 
-37. Why do you use open source software?
-* To save on licensing costs
-* To provide flexibility and choice on software vendors
-* Because my managed service provider recommended so
-* As a negotiation tactic while dealing with software vendors
-* All the above
-* Other
+37. Of the following options, what are the top three benefits your company receives by using open source software?
+* Developer satisfaction
+* Development speed
+* Functionality
+* Performance and stability 
+* Quality of code
+* Reliable support and/or consulting services
+* Security
+* Technology flexibility and extensibility
+* Total cost of ownership (licenses and developer time)
 
 38. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
