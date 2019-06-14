@@ -35,7 +35,7 @@
 
 ## Part 2
 ### Part 2a
-5. Does your company have an open source program (either formal or informal) or management initiative? *
+5. Does your company have an open source program (either formal or informal) or management initiative?
 >{Yes No Don't know}
 
 6. What are the primary responsibilities of the open source program? (Check all that apply)
