@@ -326,7 +326,28 @@
 * No license
 * Other (please specify)
 
-34. Of the following options, what are the top three benefits your company receives by using open source software?
+34. Which of the following open source compliance methodologies and initiatives does your organization utilize or participate in?
+* ClearlyDefined
+* Fossology
+* OpenChain
+* Software Package Data Exchange (SPDX)
+* Other (please specify)
+
+35. Which of the following software scanning and software composition analysis tools does your organization use?
+* Eclipse Oscano
+* Flexera
+* FOSSA
+* GitLab
+* JFrog
+* Snyk
+* Sonatype
+* Synopsys
+* Veracode
+* WhiteHat Security
+* WhiteSource
+* Other (please specify)
+
+36. Of the following options, what are the top three benefits your company receives by using open source software?
 * Developer satisfaction
 * Development speed
 * Functionality
@@ -337,7 +358,7 @@
 * Technology flexibility and extensibility
 * Total cost of ownership (licenses and developer time)
 
-35. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
+37. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
 * VMware
@@ -351,7 +372,7 @@
 * Facebook
 * Salesforce
 
-36. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
+38. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
 * Very influential 
 * Moderately influential
@@ -360,7 +381,7 @@
 * Don't know
 
 ## Part 7
-37. Which category most closely defines your role?
+39. Which category most closely defines your role?
 * Developer or Software Engineer
 * Other IT
 * Community Manager or Developer Advocate
@@ -369,7 +390,7 @@
 * Marketing / PR
 * Other
 
-38. What industry vertical is your company in?
+40. What industry vertical is your company in?
 * Defense
 * Education
 * Financial Services
@@ -384,9 +405,9 @@
 * Utilities
 * Other
 
-39. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
+41. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 * Email
 
-40. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+42. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
 * Enterprise or Organization
