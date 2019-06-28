@@ -395,8 +395,13 @@
 * Extremely low value
 * Don't know
 
+41. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization (e.g., Google's Open Source Peer Bonus Program, Comcast Open Source Innovation Fund)
+* Yes
+* No
+* Don't know
+
 ## Part 8
-41. Which category most closely defines your role?
+42. Which category most closely defines your role?
 * Developer or Software Engineer
 * Other IT
 * Community Manager or Developer Advocate
@@ -405,7 +410,7 @@
 * Marketing / PR
 * Other
 
-42. What industry vertical is your company in?
+43. What industry vertical is your company in?
 * Defense
 * Education
 * Financial Services
@@ -420,9 +425,9 @@
 * Utilities
 * Other
 
-43. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
+44. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 * Email
 
-44. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+45. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
 * Enterprise or Organization
