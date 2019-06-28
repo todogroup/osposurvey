@@ -395,13 +395,21 @@
 * Extremely low value
 * Don't know
 
-41. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization (e.g., Google's Open Source Peer Bonus Program, Comcast Open Source Innovation Fund)
+40. How many developers does your organization have contributing to open source projects you depend on (full time or part time)?
+* 0
+* 1-5
+* 5-10
+* 10-20
+* 20-100
+* More than 100
+
+42. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization (e.g., Google's Open Source Peer Bonus Program, Comcast Open Source Innovation Fund)
 * Yes
 * No
 * Don't know
 
 ## Part 8
-42. Which category most closely defines your role?
+43. Which category most closely defines your role?
 * Developer or Software Engineer
 * Other IT
 * Community Manager or Developer Advocate
@@ -410,7 +418,7 @@
 * Marketing / PR
 * Other
 
-43. What industry vertical is your company in?
+44. What industry vertical is your company in?
 * Defense
 * Education
 * Financial Services
@@ -425,9 +433,9 @@
 * Utilities
 * Other
 
-44. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
+45. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 * Email
 
-45. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+46. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
 * Enterprise or Organization
