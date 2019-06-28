@@ -381,13 +381,13 @@
 * Not at all influential 
 * Don't know
 
-39. Is your company a member or sponsor of an open source foundations? (e.g., Linux Foundation, Apache Foundation, NodeJS Foundation)
+39. Is your company a member or sponsor of an open source foundations? (e.g., Linux Foundation, Apache Foundation, Eclipse Foundation, OpenJS Foundation)
 * Yes
 * No
 * Don't know
 >Routing "Yes" goes to the next question; "No" and "Don't know" skip to Part 8.
 
-40. How valuable is the support you have received from these open source foundations?"
+40. How valuable is the support and return on your investment you have received from these open source foundations?"
 * Extremely high value
 * High value
 * Average value
