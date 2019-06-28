@@ -358,6 +358,7 @@
 * Technology flexibility and extensibility
 * Total cost of ownership (licenses and developer time)
 
+## Part 7
 37. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
@@ -380,8 +381,22 @@
 * Not at all influential 
 * Don't know
 
-## Part 7
-39. Which category most closely defines your role?
+39. Is your company a member or sponsor of an open source foundations? (e.g., Linux Foundation, Apache Foundation, Eclipse Foundation, OpenJS Foundation)
+* Yes
+* No
+* Don't know
+>Routing "Yes" goes to the next question; "No" and "Don't know" skip to Part 8.
+
+40. How valuable is the support and return on your investment you have received from these open source foundations?"
+* Extremely high value
+* High value
+* Average value
+* Low value
+* Extremely low value
+* Don't know
+
+## Part 8
+41. Which category most closely defines your role?
 * Developer or Software Engineer
 * Other IT
 * Community Manager or Developer Advocate
@@ -390,7 +405,7 @@
 * Marketing / PR
 * Other
 
-40. What industry vertical is your company in?
+42. What industry vertical is your company in?
 * Defense
 * Education
 * Financial Services
@@ -405,9 +420,9 @@
 * Utilities
 * Other
 
-41. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
+43. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 * Email
 
-42. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+44. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
 * Enterprise or Organization
