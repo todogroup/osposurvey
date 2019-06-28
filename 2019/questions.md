@@ -417,7 +417,7 @@
 * Technology (software or IT)
 * Telecom, communications, or media
 * Transportation and automotive
-* Utilitie
+* Utilities
 * Other
 
 43. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
