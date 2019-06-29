@@ -12,8 +12,8 @@
 * 2-50
 * 51-250
 * 251-1,000
-* 1,000-10,000
-* 10,000 or more
+* 1,001-10,000
+* More than 10,000
 * Don't know
 
 3. How often does your company do the following activities?
@@ -103,6 +103,7 @@
 * Culture change toward faster digital transformation, openness and agility
 * Better security testing and vulnerability management
 * Other (please specify)
+>LH Note (6/29/19): "Faster time to market with new products"; "Increased innovation"; "Culture change toward faster digital transformation, openness and agility"; and "Better security testing and vulnerability management" are new choices in 2019. Also with such a long list, we will need to randomize.
 
 12. What are the ways your open source program quantifies success? (Check all that apply)
 * Fewer license violations
@@ -197,6 +198,7 @@
 * Culture change toward faster digital transformation, openness and agility
 * Better security testing and vulnerability management
 * Other (please specify)
+>LH Note (6/29/19): "Faster time to market with new products"; "Increased innovation"; "Culture change toward faster digital transformation, openness and agility"; and "Better security testing and vulnerability management" are new choices in 2019. Also with such a long list, we will need to randomize.
 
 22. What are top three ways your open source program will quantify success? (Choose three) 
 * Fewer license violations
@@ -395,15 +397,14 @@
 * Extremely low value
 * Don't know
 
-40. How many developers does your organization have contributing to open source projects you depend on (full time or part time)?
+41. How many developers does your organization have contributing to open source projects you depend on (full time or part time)?
 * 0
 * 1-5
-* 5-10
-* 10-20
-* 20-100
+* 6-10
+* 11-100
 * More than 100
 
-42. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization (e.g., Google's Open Source Peer Bonus Program, Comcast Open Source Innovation Fund)
+42. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization (e.g., Google's Open Source Peer Bonus Program, Comcast Open Source Innovation Fund)?
 * Yes
 * No
 * Don't know
