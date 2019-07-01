@@ -103,7 +103,7 @@
 * Culture change improving interaction among departments
 * Better security testing and vulnerability management
 * Other (please specify)
->LH Note (6/29/19): "Faster time to market with new products"; "Increased innovation"; "ulture change improving interaction among departments"; and "Better security testing and vulnerability management" are new choices in 2019. Also with such a long list, we will need to randomize.
+>LH Note (6/29/19): "Faster time to market with new products"; "Increased innovation"; "culture change improving interaction among departments"; and "Better security testing and vulnerability management" are new choices in 2019. Also with such a long list, we will need to randomize.
 
 12. What are the ways your open source program quantifies success? (Check all that apply)
 * Fewer license violations
