@@ -100,10 +100,10 @@
 * Increased participation in external open source projects
 * Faster time to market with new products
 * Increased innovation
-* Culture change toward faster digital transformation, openness and agility
+* Culture change improving interaction among departments
 * Better security testing and vulnerability management
 * Other (please specify)
->LH Note (6/29/19): "Faster time to market with new products"; "Increased innovation"; "Culture change toward faster digital transformation, openness and agility"; and "Better security testing and vulnerability management" are new choices in 2019. Also with such a long list, we will need to randomize.
+>LH Note (6/29/19): "Faster time to market with new products"; "Increased innovation"; "ulture change improving interaction among departments"; and "Better security testing and vulnerability management" are new choices in 2019. Also with such a long list, we will need to randomize.
 
 12. What are the ways your open source program quantifies success? (Check all that apply)
 * Fewer license violations
@@ -195,10 +195,10 @@
 * Increased participation in external open source projects
 * Faster time to market with new products
 * Increased innovation
-* Culture change toward faster digital transformation, openness and agility
+* Culture change improving interaction among departments
 * Better security testing and vulnerability management
 * Other (please specify)
->LH Note (6/29/19): "Faster time to market with new products"; "Increased innovation"; "Culture change toward faster digital transformation, openness and agility"; and "Better security testing and vulnerability management" are new choices in 2019. Also with such a long list, we will need to randomize.
+>LH Note (6/29/19): "Faster time to market with new products"; "Increased innovation"; "Culture change improving interaction among departments"; and "Better security testing and vulnerability management" are new choices in 2019. Also with such a long list, we will need to randomize.
 
 22. What are top three ways your open source program will quantify success? (Choose three) 
 * Fewer license violations
@@ -387,7 +387,7 @@
 * Yes
 * No
 * Don't know
->Routing "Yes" goes to the next question; "No" and "Don't know" skip to Part 8.
+>Routing "Yes" goes to the next question; "No" and "Don't know" skip to Question 40.
 
 40. How valuable is the support and return on your investment you have received from these open source foundations?"
 * Extremely high value
@@ -397,12 +397,13 @@
 * Extremely low value
 * Don't know
 
-41. How many developers does your organization have contributing to open source projects you depend on (full time or part time)?
+41. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
 * 0
 * 1-5
 * 6-10
 * 11-100
 * More than 100
+* Don't know
 
 42. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization (e.g., Google's Open Source Peer Bonus Program, Comcast Open Source Innovation Fund)?
 * Yes
