@@ -25,25 +25,23 @@
 * Train developers to contribute to open source projects
 * Create its own open source projects
 * Attend and speak at open source events or conferences
->ROUTING: "Survey ends if "Never" is answered for everything
 
 4. Does your company have a formal policy governing use and contribution to open source projects in the following areas?
-* Yes
-* No, but planning one
-* No
->ROUTING: "Yes" goes to Part 2; "No, but planning one" goes to Part 3; "No" goes to Part 4
-
-## Part 2
-### Part 2a
-5. Does your company have an open source program (either formal or informal) or management initiative? *
 >{Yes No Don't know}
-
-6. What are the primary responsibilities of the open source program? (Check all that apply)
 * Use of open source code in products (dependencies)
 * Releasing open source code or projects
 * List of acceptable licenses
 * Contributing upstream to open source projects
 * Sponsoring open source projects, events or foundations
+
+5. Does your company have an open source program (either formal or informal) or management initiative? *
+>{Yes No Don't know}
+>ROUTING: "Yes" goes to Part 2; "No, but planning one" goes to Part 3; "No" goes to Part 4
+
+## Part 2
+### Part 2a
+
+6. What are the primary responsibilities of the open source program? (Check all that apply)
 * Owning and overseeing the execution of open source strategy
 * Clearly communicating the open source strategy within and outside the company
 * Facilitating the effective use of open source in commercial products and services
@@ -56,16 +54,16 @@
 * Developing and delivering open source training, resources and documentation
 * Other (please explain)
 
-7. How is the program or initiative structured?
+7. How is the program or initiative structured? *
 * Formal: dedicated person-hours, reporting structure and/or job titles
 * Informal: working groups, mailing lists and/or channels (e.g., Slack) managed by job roles not formally defined as "open source"
 
 8. Where is the open source program or initiative located within the organization? If the effort is informal, answer based on or who the primary organizers report to.
 * Legal
-* Software Engineering and Development
+* Software engineering and development
 * IT
 * Office of the CTO
-* Developer Relations, Marketing or Communications
+* Developer relations, marketing or communications
 * Don't know
 * Other (please specify)
 
@@ -74,7 +72,7 @@
 * Program manager
 * Legal compliance
 * Engineering compliance
-* Developer relations, advocacy, and evangelists
+* Developer relations, advocacy and evangelists
 * Open source developer or engineer (reporting to the open source office)
 * Committee member
 * No formal role
@@ -84,12 +82,12 @@
 * 0-2 years
 * 3-5 years
 * 5-10 years
-* 10 or more years
+* More than 10 years
 * Don't know
 
 11. What are the areas where your company has most benefited from the open source program? (Check all that apply)
 * Increased developer recruitment and retention
-* Increased speed and agility in development cycle
+* Increased speed and agility in the development cycle
 * Better license compliance
 * Lower licensing fees
 * Lower support costs
@@ -100,10 +98,10 @@
 * Increased participation in external open source projects
 * Faster time to market with new products
 * Increased innovation
-* Culture change improving interaction among departments
+* Culture change with improved interaction among departments
 * Better security testing and vulnerability management
 * Other (please specify)
->LH Note (6/29/19): "Faster time to market with new products"; "Increased innovation"; "culture change improving interaction among departments"; and "Better security testing and vulnerability management" are new choices in 2019. Also with such a long list, we will need to randomize.
+>LH Note (7/2/19): "Faster time to market with new products"; "Increased innovation"; "Culture change toward faster digital transformation, openness and agility"; and "Better security testing and vulnerability management" were not reported upon in the 2018 survey new choices in 2019. The "culture" choice has been changed to "Culture change with improved interaction among departments". Also with such a long list, we will need to randomize.
 
 12. What are the ways your open source program quantifies success? (Check all that apply)
 * Fewer license violations
