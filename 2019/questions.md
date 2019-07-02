@@ -35,7 +35,7 @@
 * Sponsoring open source projects, events or foundations
 
 5. Does your company have an open source program (either formal or informal) or management initiative? *
->{Yes No Don't know}
+>{Yes No, but planning one No}
 >ROUTING: "Yes" goes to Part 2; "No, but planning one" goes to Part 3; "No" goes to Part 4
 
 ## Part 2
@@ -98,10 +98,10 @@
 * Increased participation in external open source projects
 * Faster time to market with new products
 * Increased innovation
-* Culture change with improved interaction among departments
+* Culture change, with improved interaction among departments
 * Better security testing and vulnerability management
 * Other (please specify)
->LH Note (7/2/19): "Faster time to market with new products"; "Increased innovation"; "Culture change toward faster digital transformation, openness and agility"; and "Better security testing and vulnerability management" were not reported upon in the 2018 survey new choices in 2019. The "culture" choice has been changed to "Culture change with improved interaction among departments". Also with such a long list, we will need to randomize.
+>LH Note (7/2/19): "Faster time to market with new products"; "Increased innovation"; "Culture change toward faster digital transformation, openness and agility"; and "Better security testing and vulnerability management" were not reported upon in the 2018 survey new choices in 2019. The "culture" choice has been changed to "Culture change, with improved interaction among departments". Also new in 2019, we randomized the answers in this question.
 
 12. What are the ways your open source program quantifies success? (Check all that apply)
 * Fewer license violations
@@ -143,19 +143,21 @@
 * No
 * Don't know
 >ROUTING: "Yes" goes to Part 2b; "No" and "Don't know" go to Part 5
+LH Note (7/2/19): New question in 2019
 
 ### Part 2b
 16. If yes, please provide one or two specific examples.
 * Example 1
 * Example 2
+>Routing: Go to Part 5
 
 ## Part 3
 
 17. When does your company plan to start a program?
-* Next 6 months
-* 6-12 months
-* 13-24 months
-* 24 or more months
+* In the next 6 months
+* In the next year
+* 1-2 years from now
+* Over 2 years from now
 
 18. How will the program or initiative be structured? *
 * Formal: dedicated person-hours, reporting structure and/or job titles
@@ -163,10 +165,10 @@
 
 19. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
 * Legal
-* Software Engineering and Development
+* Software engineering and development
 * IT
 * Office of the CTO
-* Developer Relations, Marketing or Communications
+* Developer relations, marketing or communications
 * Don't know
 * Other (please specify)
 
@@ -175,7 +177,7 @@
 * Program manager
 * Legal compliance
 * Engineering compliance
-* Developer relations, advocacy, and evangelists
+* Developer relations, advocacy and evangelists
 * Open source developer or engineer (reporting to the open source office)
 * Committee member
 * No formal role
@@ -198,7 +200,7 @@
 * Other (please specify)
 >LH Note (6/29/19): "Faster time to market with new products"; "Increased innovation"; "Culture change improving interaction among departments"; and "Better security testing and vulnerability management" are new choices in 2019. Also with such a long list, we will need to randomize.
 
-22. What are top three ways your open source program will quantify success? (Choose three) 
+22. What are the top three ways your open source program will quantify success? (Choose three) 
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -232,7 +234,7 @@
 ## Part 4
 ### Part 4a
 24. Why doesn’t your company have an open source program? (Check all that apply)
-* Used to have one, but ended it
+* Used to have one, but it ended
 * Have never heard of an open source program
 * Haven’t considered it
 * Don’t use or participate in open source
@@ -273,7 +275,7 @@
     
 ### Part 4c
 28. Why not?
-* Used to have one, but ended it
+* Used to have one, but it ended
 * Have never heard of an open source program
 * Haven’t considered it
 * Don’t use or participate in open source
@@ -292,8 +294,19 @@
 * 51-100
 * 101-1,000
 * More than 1,000
+* Don't know
+>LH Note (7/2/19): Added "Don't know" in 2019.
 
-30. How often does your average application development team release code into production?
+30. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
+* 0
+* 1-5
+* 6-10
+* 11-100
+* More than 100
+* Don't know
+>LH Note (7/2/19): New question in 2019
+
+31. How often does your average application development team release code into production?
 * Hourly
 * Daily
 * Weekly
@@ -301,20 +314,12 @@
 * Less than once a month
 * Don’t know
 
-31. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
-* GitHub paid version
-* Other vendor’s paid version (e.g., GitLab, Bitbucket)
-* Free version of vendor solution (e.g., GitHub, GitLab)
-* Homegrown solution
-* Other (please specify)
-
 ## Part 6
->LH Note: these are all the questions that Chris and company added since the last survey was completed
-
-32. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects?
+32. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? * 
 * Yes
 * No
 * Don't know
+>LH Note (7/2/19): New question in 2019
 
 33. What is the preferred license for your company's open source projects?
 * MIT
@@ -325,13 +330,15 @@
 * LGPL
 * No license
 * Other (please specify)
+LH Note (7/2/19): New question in 2019
 
 34. Which of the following open source compliance methodologies and initiatives does your organization utilize or participate in?
 * ClearlyDefined
-* Fossology
+* FOSSology
 * OpenChain
 * Software Package Data Exchange (SPDX)
 * Other (please specify)
+>LH Note (7/2/19): New question in 2019
 
 35. Which of the following software scanning and software composition analysis tools does your organization use?
 * Eclipse Oscano
@@ -346,19 +353,17 @@
 * WhiteHat Security
 * WhiteSource
 * Other (please specify)
+>LH Note (7/2/19): New question in 2019
 
-36. Of the following options, what are the top three benefits your company receives by using open source software?
-* Developer satisfaction
-* Development speed
-* Functionality
-* Performance and stability 
-* Quality of code
-* Reliable support and/or consulting services
-* Security
-* Technology flexibility and extensibility
-* Total cost of ownership (licenses and developer time)
+36. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
+* GitHub paid version
+* Other vendor’s paid version (e.g., GitLab, Bitbucket)
+* Free version of vendor solution (e.g., GitHub, GitLab)
+* Homegrown solution
+* Other (please specify)
 
 ## Part 7
+### Part 7a
 37. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
@@ -372,6 +377,7 @@
 * Pivotal
 * Facebook
 * Salesforce
+>LH Note (7/2/19): New question in 2019
 
 38. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
@@ -380,39 +386,49 @@
 * Slightly influential
 * Not at all influential 
 * Don't know
+>LH Note (7/2/19): New question in 2019
 
-39. Is your company a member or sponsor of an open source foundations? (e.g., Linux Foundation, Apache Foundation, Eclipse Foundation, OpenJS Foundation)
+39. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization (e.g., Google's Open Source Peer Bonus Program, Comcast Innovation Fund)?
 * Yes
 * No
 * Don't know
->Routing "Yes" goes to the next question; "No" and "Don't know" skip to Question 40.
+>LH Note (7/2/19): New question in 2019
 
-40. How valuable is the support and return on your investment you have received from these open source foundations?"
+40. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
+* Yes
+* No
+* Don't know
+>Routing "Yes" goes to the next question; "No" and "Don't know" skip to Part 8.
+>LH Note (7/2/19): New question in 2019
+
+### Part 7b
+41. How valuable is the support and return on your investment you have received from these open source foundations?"
 * Extremely high value
 * High value
 * Average value
 * Low value
 * Extremely low value
 * Don't know
-
-41. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
-* 0
-* 1-5
-* 6-10
-* 11-100
-* More than 100
-* Don't know
-
-42. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization (e.g., Google's Open Source Peer Bonus Program, Comcast Open Source Innovation Fund)?
-* Yes
-* No
-* Don't know
+>LH Note (7/2/19): New question in 2019
 
 ## Part 8
+42. Of the following options, what are the top three benefits your company receives by using open source software?
+* Developer satisfaction
+* Development speed
+* Functionality
+* Performance and stability 
+* Quality of code
+* Reliable support and/or consulting services
+* Security
+* Technology flexibility and extensibility
+* Total cost of ownership (licenses and developer time)
+>LH Note (7/2/19): New question in 2019
+
+## Part 9
 43. Which category most closely defines your role?
-* Developer or Software Engineer
+* Developer or software engineer
 * Other IT
-* Community Manager or Developer Advocate
+* Community manager or developer advocate
 * IT management, including CIO, CISO, CTO
 * C-level (non-technology) management
 * Marketing / PR
@@ -421,14 +437,14 @@
 44. What industry vertical is your company in?
 * Defense
 * Education
-* Financial Services
+* Financial services
 * Government
 * Healthcare
 * Insurance
 * Manufacturing and raw materials
 * Retail
 * Technology (software or IT)
-* Telecom, communications, or media
+* Telecom, communications or media
 * Transportation and automotive
 * Utilities
 * Other
