@@ -4,6 +4,7 @@
 * Contributing to upstream open source projects
 * Influencing open source projects via leadership or maintainer roles
 * Initiating or releasing open source projects
+* Collaborating with peers across open source projects and/or foundations
 * Not involved in open source
 * Don’t know
 
