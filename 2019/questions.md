@@ -149,7 +149,7 @@ LH Note (7/2/19): New question in 2019
 16. If yes, please provide one or two specific examples.
 * Example 1
 * Example 2
->Routing: Go to Part 5
+>Routing: go to Part 5a
 
 ## Part 3
 
@@ -230,6 +230,7 @@ LH Note (7/2/19): New question in 2019
 * Finding commercial dependencies
 * Tool selection
 * Other (please specify)
+>Routing: go to Part 5a
 
 ## Part 4
 ### Part 4a
@@ -253,7 +254,10 @@ LH Note (7/2/19): New question in 2019
 >Routing: "Yes" goes to Part 4b, "No" goes to Part 4c
 
 ## Part 4b
-26. What are the top three ways your company would benefit from an open source program? (Choose three)
+26. How would you approach creating an open source program within your organization?
+{open ended}
+
+27. What are the top three ways your company would benefit from an open source program? (Choose three)
 * Increased developer recruitment and retention
 * Increased speed and agility in development cycle
 * Better license compliance
@@ -269,10 +273,8 @@ LH Note (7/2/19): New question in 2019
 * Culture change toward faster digital transformation, openness and agility
 * Better security testing and vulnerability management
 * Other (please specify)
+>Routing: go to Part 5a
 
-27. How would you approach creating an open source program within your organization?
-{open ended}
-    
 ### Part 4c
 28. Why not?
 * Used to have one, but it ended
@@ -285,22 +287,59 @@ LH Note (7/2/19): New question in 2019
 * Don’t want to regulate or standardize open source practices
 * I don’t know
 * Other (please specify)
+>Routing: go to Part 5a
 
 ## Part 5
-29. Of the following options, what are the top three benefits your company receives by using open source software?
-* Developer satisfaction
-* Development speed
-* Functionality
-* Performance and stability 
-* Quality of code
-* Reliable support and/or consulting services
-* Security
-* Technology flexibility and extensibility
-* Total cost of ownership (licenses and developer time)
+### Part 5a
+29. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
+>{Excellent Above Average Average Below Average Very Poor Don't know}
+* AWS
+* Comcast
+* Facebook
+* Google
+* IBM
+* Intel
+* Microsoft
+* Pivotal
+* Salesforce
+* SAP
+* VMware
+>LH Note (7/2/19): New question in 2019
+
+30. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
+* Extremely influential
+* Very influential 
+* Moderately influential
+* Slightly influential
+* Not at all influential 
+* Don't know
+>LH Note (7/2/19): New question in 2019
+
+31. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization?
+* Yes
+* No
+* Don't know
+>LH Note (7/2/19): New question in 2019
+
+32. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
+* Yes
+* No
+* Don't know
+>Routing "Yes" goes to the next question; "No" and "Don't know" skip to Part 8.
+>LH Note (7/2/19): New question in 2019
+
+### Part 5b
+33. How valuable is the support and return on your investment you have received from these open source foundations?"
+* Extremely high value
+* High value
+* Average value
+* Low value
+* Extremely low value
+* Don't know
 >LH Note (7/2/19): New question in 2019
 
 ## Part 6
-30. How many open source projects does your company maintain?
+34. How many open source projects does your company maintain?
 * 0
 * 1-10
 * 11-50
@@ -310,7 +349,7 @@ LH Note (7/2/19): New question in 2019
 * Don't know
 >LH Note (7/2/19): Added "Don't know" in 2019.
 
-31. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
+35. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
 * 0
 * 1-5
 * 6-10
@@ -319,7 +358,7 @@ LH Note (7/2/19): New question in 2019
 * Don't know
 >LH Note (7/2/19): New question in 2019
 
-32. How often does your average application development team release code into production?
+36. How often does your average application development team release code into production?
 * Hourly
 * Daily
 * Weekly
@@ -328,13 +367,13 @@ LH Note (7/2/19): New question in 2019
 * Don’t know
 
 ## Part 7
-33. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? * 
+37. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? * 
 * Yes
 * No
 * Don't know
 >LH Note (7/2/19): New question in 2019
 
-34. What is the preferred license for your company's open source projects?
+38. What is the preferred license for your company's open source projects?
 * MIT
 * BSD 3-clause
 * BSD 2-clause
@@ -345,7 +384,7 @@ LH Note (7/2/19): New question in 2019
 * Other (please specify)
 LH Note (7/2/19): New question in 2019
 
-35. Which of the following open source compliance methodologies and initiatives does your organization utilize or participate in?
+39. Which of the following open source compliance methodologies and initiatives does your organization utilize or participate in?
 * ClearlyDefined
 * FOSSology
 * OpenChain
@@ -353,7 +392,7 @@ LH Note (7/2/19): New question in 2019
 * Other (please specify)
 >LH Note (7/2/19): New question in 2019
 
-36. Which of the following software scanning and software composition analysis tools does your organization use?
+40. Which of the following software scanning and software composition analysis tools does your organization use?
 * Eclipse Oscano
 * Flexera
 * FOSSA
@@ -368,7 +407,7 @@ LH Note (7/2/19): New question in 2019
 * Other (please specify)
 >LH Note (7/2/19): New question in 2019
 
-37. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
+41. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
 * Other vendor’s paid version (e.g., GitLab, Bitbucket)
 * Free version of vendor solution (e.g., GitHub, GitLab)
@@ -376,52 +415,16 @@ LH Note (7/2/19): New question in 2019
 * Other (please specify)
 
 ## Part 8
-### Part 8a
-38. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
->{Excellent Above Average Average Below Average Very Poor Don't know}
-* AWS
-* VMware
-* Google
-* IBM
-* Microsoft
-* Intel
-* COMCAST
-* SAP
-* Pivotal
-* Facebook
-* Salesforce
->LH Note (7/2/19): New question in 2019
-
-39. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
-* Extremely influential
-* Very influential 
-* Moderately influential
-* Slightly influential
-* Not at all influential 
-* Don't know
->LH Note (7/2/19): New question in 2019
-
-40. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization (e.g., Google's Open Source Peer Bonus Program, Comcast Innovation Fund)?
-* Yes
-* No
-* Don't know
->LH Note (7/2/19): New question in 2019
-
-41. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
-* Yes
-* No
-* Don't know
->Routing "Yes" goes to the next question; "No" and "Don't know" skip to Part 8.
->LH Note (7/2/19): New question in 2019
-
-### Part 8b
-42. How valuable is the support and return on your investment you have received from these open source foundations?"
-* Extremely high value
-* High value
-* Average value
-* Low value
-* Extremely low value
-* Don't know
+42. Of the following options, what are the top three benefits your company receives by using open source software?
+* Developer satisfaction
+* Development speed
+* Functionality
+* Performance and stability 
+* Quality of code
+* Reliable support and/or consulting services
+* Security
+* Technology flexibility and extensibility
+* Total cost of ownership (licenses and developer time)
 >LH Note (7/2/19): New question in 2019
 
 ## Part 9
