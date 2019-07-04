@@ -7,6 +7,7 @@
 * Collaborating with peers across open source projects and/or foundations
 * Not involved in open source
 * Don’t know
+>LH Note (7/4/19): "Collaborating with peers across open source projects and/or foundations" in 2019
 
 2. How many people work for your company or organization?
 * Self-employed or not working
