@@ -466,5 +466,4 @@ LH Note (7/2/19): New question in 2019
 * First and last name
 * Email address
 
-In concert with our sponsor survey, The New Stack is giving away five $100 Visa gift cards. Anyone may enter the sweepstakes starting on Monday, July 8, 2019 and ending when the survey closes or no later than Aug. 15, 2019. The New Stack will never share your personal information and will only use your email and address for the purposes of contacting the winner. See the [official rules](https://thenewstack.io/take-our-survey-managing-open-source-2) for more details.
-
+The New Stack is conducting a survey with the TODO Group, sponsored by The Linux Foundation and VMware, on the prevalence and outcomes of open source programs among enterprises across the globe. Personally identifiable information will not be used without your explicit permission. To enter our random drawing for one of five $100 Visa gift cards, please add your email at the end of the survey. See the [official rules](https://thenewstack.io/take-our-survey-managing-open-source-2), for more details.
