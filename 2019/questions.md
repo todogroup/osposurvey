@@ -457,6 +457,14 @@ LH Note (7/2/19): New question in 2019
 45. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
 * Email
 
-46. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+46. If you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
-* Enterprise or Organization
+* Enterprise or organization
+
+**Enter to win a $100 Visa gift card from The New Stack**
+47. Finally, if you want to participate in the sweepstakes, please enter your name and email address.
+* First and last name
+* Email address
+
+In concert with our sponsor survey, The New Stack is giving away five $100 Visa gift cards. Anyone may enter the sweepstakes starting on Monday, July 8, 2019 and ending when the survey closes or no later than Aug. 15, 2019. The New Stack will never share your personal information and will only use your email and address for the purposes of contacting the winner. See the [official rules](https://thenewstack.io/take-our-survey-managing-open-source-2) for more details.
+
