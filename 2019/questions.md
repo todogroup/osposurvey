@@ -454,7 +454,9 @@ LH Note (7/2/19): New question in 2019
 * Utilities
 * Other
 
-45. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
+45. If you would like to receive email about upcoming surveys and to receive a copy of these results, please provide your contact information.
+* First name
+* Last name
 * Email
 
 46. If you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
@@ -463,7 +465,8 @@ LH Note (7/2/19): New question in 2019
 
 **Enter to win a $100 Visa gift card from The New Stack**
 47. Finally, if you want to participate in the sweepstakes, please enter your name and email address.
-* First and last name
+* First name
+* Last name
 * Email address
 
 The New Stack is conducting a survey with the TODO Group, sponsored by The Linux Foundation and VMware, on the prevalence and outcomes of open source programs among enterprises across the globe. Personally identifiable information will not be used without your explicit permission. To enter our random drawing for one of five $100 Visa gift cards, please add your email at the end of the survey. See the [official rules](https://thenewstack.io/take-our-survey-managing-open-source-2), for more details.
