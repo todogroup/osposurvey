@@ -1,6 +1,6 @@
 # 2018 Open Source Program Survey Results
 
-The raw data from the survey is loated here [results.csv](2018/results.csv)
+The raw data from the survey is loated here [results.csv](results.csv)
 
 ## Charts
 
