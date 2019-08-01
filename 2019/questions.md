@@ -331,7 +331,7 @@ LH Note (7/2/19): New question in 2019
 >LH Note (7/2/19): New question in 2019
 
 ### Part 5b
-33. How valuable is the support and return on your investment you have received from these open source foundations?"
+33. How valuable is the support and return on your investment you have received from these open source foundations?
 * Extremely high value
 * High value
 * Average value
