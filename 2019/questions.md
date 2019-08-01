@@ -120,7 +120,7 @@
 * Project code quality
 * Cost savings
 * Other (please specify)
->LH Note: "Project code quality" and "Cost savings" are new choices in 2019
+>LH Note: "Project code quality" and "Cost savings" were supposed to be new choices in 2019 but were never added to the online survey instrument.
 
 13. What are the top three challenges your open source program faces? (Choose three) *
 * Talent: finding and recruiting open source developers
@@ -217,7 +217,7 @@ LH Note (7/2/19): New question in 2019
 * Project code quality
 * Cost savings
 * Other (please specify)
->LH Note: "Project code quality" and "Cost savings" are new choices in 2019
+>LH Note: "Project code quality" and "Cost savings" were supposed to be new choices in 2019 but were never added to the online survey instrument.
 
 23. What have been the top three biggest challenges in establishing an open source program? (Choose three)
 * Strategy: planning or knowing how to approach it
