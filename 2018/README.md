@@ -27,6 +27,3 @@ The raw data from the survey is loated here [results.csv](results.csv)
 
 ### Companies with an Open Source Program More Likely to Contribute
 ![Companies with an Open Source Program More Likely to Contribute](chart-companies-with-os-programs-more-likely-to-contribute.png)
-
-### Challenges in Establishing Open Source Programs
-![Challenges in Establishing Open Source Programs](chart-challenges-in-establishing-programs.png)
