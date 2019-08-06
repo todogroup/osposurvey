@@ -20,7 +20,7 @@ The raw data from the survey is loated here [results.csv](results.csv)
 ![Survey Demographics](chart-demographics.png)
 
 ### Consensus About Role of Open Source Programs
-![Survey Demographics](chart-consensus-role-of-open-source-programs.png)
+![Consensus About Role of Open Source Programs](chart-consensus-role-of-open-source-programs.png)
 
 ### Challenges of Establishing an Open Source Program
 ![Challenges of Establishing an Open Source Program](chart-challenges-in-establishing-programs.png)
@@ -28,5 +28,5 @@ The raw data from the survey is loated here [results.csv](results.csv)
 ### Companies with an Open Source Program More Likely to Contribute
 ![Companies with an Open Source Program More Likely to Contribute](chart-companies-with-os-programs-more-likely-to-contribute.png)
 
-### Challenges in Establishing Open Source Programs
-![Challenges in Establishing Open Source Programs](chart-challenges-in-establishing-programs.png)
+### Reasons for not Creating an Open Source Program
+![Reasons for not Creating an Open Source Program](chart-reasons-for-no-open-source-program.png)
