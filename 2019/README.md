@@ -17,4 +17,58 @@ More than three times as many people participated in the 2019 survey as compared
 
 ## Charts
 
-TODO
+### Open Source Remains Commonplace in the Enterprise
+
+<img src="chart1.svg" width="500">
+
+### Open Source Programs More Likely to Exist at Companies That Recruit Open Source Developers
+
+<img src="chart2.svg" width="500">
+
+### Tech and Telecom Firms Most Likely to Have an OSPO
+
+<img src="chart3.svg" width="500">
+
+### Benefits of Open Source Programs
+
+<img src="chart4.svg" width="500">
+
+### Responsibilities of Open Source Programs
+
+<img src="chart5.svg" width="500">
+
+### Open Source Programs Are Beneficial
+
+<img src="chart6.svg" width="500">
+
+### Recruiting Is Increasingly a Challenge Facing Open Source Programs
+
+<img src="chart7.svg" width="500">
+
+### Time to Market No Longer a Top Metric of Success for OSPOs
+
+<img src="chart8.svg" width="500">
+
+### Lack of Resources Less Likely to be Reason for No Open Source Program
+
+<img src="chart9.svg" width="500">
+
+### Responsibilities of Open Source Programs Have Crystalized
+
+<img src="chart9.svg" width="500">
+
+### Speed, Flexibility and Lower Costs Are Top Open Source Benefits
+
+<img src="chart10.svg" width="500">
+
+### Companies High Value their Open Source Foundatinon Memberships
+
+<img src="chart11.svg" width="500">
+
+### Hiring Open Source Developers is Top of Mind for Open Source Programs
+
+<img src="chart12.svg" width="500">
+
+### No Consensus on Impact of Open Source Citizenship on Buying Decisions
+
+<img src="chart13.svg" width="500">
