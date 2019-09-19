@@ -53,10 +53,6 @@ More than three times as many people participated in the 2019 survey as compared
 
 <img src="chart9.svg" width="800">
 
-### Responsibilities of Open Source Programs Have Crystalized
-
-<img src="chart9.svg" width="800">
-
 ### Speed, Flexibility and Lower Costs Are Top Open Source Benefits
 
 <img src="chart10.svg" width="800">
