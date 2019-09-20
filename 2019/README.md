@@ -25,7 +25,7 @@ More than three times as many people participated in the 2019 survey as compared
 
 <img src="chart2.svg" width="800">
 
-### Tech and Telecom Firms Most Likely to Have an OSPO
+### Tech and Telecom Firms Most Likely to Have an Open Source Program
 
 <img src="chart3.svg" width="800">
 
