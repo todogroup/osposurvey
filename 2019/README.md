@@ -1,6 +1,6 @@
 # 2019 Open Source Program Survey Results
 
-The raw data from the survey is loated here [results.csv](results.csv)
+The raw data from the survey is located here [results.csv](results.csv)
 
 Over 2,700 people participated in the survey. Company size was broadly represented, with 21% of respondents working at large companies with more than 10,000 employees, and 39% from small and mid-size companies with 250 or fewer employees. Developers and software engineers represented 43% of respondents, with at least another 36% holding an IT-related role.  
 
@@ -68,3 +68,7 @@ More than three times as many people participated in the 2019 survey as compared
 ### No Consensus on Impact of Open Source Citizenship on Buying Decisions
 
 <img src="chart13.svg" width="800">
+
+## License
+
+The survey results are licensed under [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
