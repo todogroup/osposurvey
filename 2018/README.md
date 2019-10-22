@@ -5,7 +5,7 @@ The 2018 Open Source Program Management Survey revealed that more than half (53%
 
 ![2018 Open Source Program Management Survey Summary](chart-large-companies.png)
 
-Key findings include:
+### Key findings include:
 * Open source use has become commonplace among tech and non-tech companies alike with 72% of companies frequently using open source for non-commercial or internal reasons and 55% using open source for commercial products. 
 * Open source programs are very critical or extremely critical to the success of engineering and product teams according to 59% of respondents. 
 * The top three benefits of managing an open source program are awareness of open source usage/dependencies, increased developer agility/speed, and better license compliance.
