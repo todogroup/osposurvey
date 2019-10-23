@@ -2,9 +2,9 @@
 
 The TODO Group is proud to have run the first open source programs survey in the industry. Formal open source programs are quickly becoming an emerging best practice for all organizations. The TODO Group is committed to running this survey on an annual basis moving forward and sharing the results with the wider community
 
-## [2018 Results](https://github.com/todogroup/survey/tree/master/2018)
-## [2019 Results](https://github.com/todogroup/survey/tree/master/2019)
-## [2020 Planning](https://github.com/todogroup/survey/blob/master/2020/README.md)
+* [2018 Results](https://github.com/todogroup/survey/tree/master/2018)
+* [2019 Results](https://github.com/todogroup/survey/tree/master/2019)
+* [2020 Planning](https://github.com/todogroup/survey/blob/master/2020/README.md)
 
 ## License
 
