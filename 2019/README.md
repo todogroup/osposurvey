@@ -57,7 +57,7 @@ More than three times as many people participated in the 2019 survey as compared
 
 <img src="chart10.svg" width="800">
 
-### Companies High Value their Open Source Foundatinon Memberships
+### Companies High Value their Open Source Foundation Memberships
 
 <img src="chart11.svg" width="800">
 
