@@ -384,7 +384,8 @@ LH Note (7/2/19): New question in 2019
 * LGPL
 * No license
 * Other (please specify)
-LH Note (7/2/19): New question in 2019
+>LH Note (7/2/19): New question in 2019
+>LH Note (10/31/19): Clarify whether "no license" means "no preference" or a preference not have a license. If included in 2020, make this question required.
 
 39. Which of the following open source compliance methodologies and initiatives does your organization utilize or participate in?
 * ClearlyDefined
@@ -393,6 +394,7 @@ LH Note (7/2/19): New question in 2019
 * Software Package Data Exchange (SPDX)
 * Other (please specify)
 >LH Note (7/2/19): New question in 2019
+>LH Note (10/31/19): If included in 2020, make this question required. Change question so that it asks whether or not they have any methodology or initiatives besides "homegrown", manual, etc.
 
 40. Which of the following software scanning and software composition analysis tools does your organization use?
 * Eclipse Oscano
