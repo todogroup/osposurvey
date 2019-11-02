@@ -71,20 +71,19 @@ More than three times as many people participated in the 2019 survey as compared
 
 ### 72% Think Google is an Above Average Open Source Citizen
 
-<img src="chart14.svg" width="800">	<img src="chart14.svg" width="800">
+<img src="chart14.svg" width="800">
 
 ### The Most Actively Contributing Code Upstream View Microsoft and Intel More Positively. The Opposite is True for AWS.	
 
-<img src="chart15.svg" width="800">	<img src="chart15.svg" width="800">
+<img src="chart15.svg" width="800">
 
 ### Large Tech Companies Excel in Open Source Citizenship Metrics
 
-<img src="chart16.svg" width="800">	<img src="chart16.svg" width="800">
+<img src="chart16.svg" width="800">
 
 ### Open Source Citizenship is Very Influential in Buying Decisions Among Companies Deeply Involved with the Community
 
-<img src="chart17.svg" width="800">	<img src="chart17.svg" width="800">
-
+<img src="chart17.svg" width="800">
 
 
 ## License
