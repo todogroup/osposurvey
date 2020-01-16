@@ -85,7 +85,15 @@ More than three times as many people participated in the 2019 survey as compared
 
 <img src="chart17.svg" width="800">
 
+### Deployment Frequency Higher for Organization That Regularly Use and Contribute to OSS ###
+<img src="chart18.svg" width="800">
 
+### 46% of Retail Firms Deploy Continuously. Less than 10% of Manufacturing, Insurance, Healthcare, and Utilities Deploy At Least Daily ###
+<img src="chart19.svg" width="800">
+
+### Financial, Utilities, Retail, Healthcare Use Open Source Code in Commercial Products, But Less Likely to Contribute Upstream ###
+
+<img src="chart20.svg" width="800">
 ## License
 
 The survey results are licensed under [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
