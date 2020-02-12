@@ -464,6 +464,7 @@ LH Note (7/2/19): New question in 2019
 * Enterprise or organization
 
 **Enter to win a $100 Visa gift card from The New Stack**
+
 47. Finally, if you want to participate in the sweepstakes, please enter your name and email address.
 * First name
 * Last name
