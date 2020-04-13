@@ -307,6 +307,7 @@
 * SAP
 * Uber
 * VMware
+>LH,4/13/20  - IBM changed to IBM / Red Hat; Uber added.
 
 31. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
@@ -368,7 +369,7 @@
 * No
 * Don't know
 
-39. What is the preferred license for your company's open source projects?
+39. What is the preferred license for your company's open source projects?*
 * MIT
 * BSD 3-clause
 * BSD 2-clause
@@ -378,6 +379,7 @@
 * AGPL
 * No preference
 * Other (please specify)
+>LH,4/13/20  - In 2020, changed No license to No preference and made this question required.
 
 40. Which of the following open source compliance methodologies and initiatives does your organization utilize or participate in?
 * ClearlyDefined
