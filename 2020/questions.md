@@ -307,7 +307,7 @@
 * SAP
 * Uber
 * VMware
->LH,4/13/20  - IBM changed to IBM / Red Hat; Uber added.
+>LH, note for survey coding, 4/13/20 - IBM changed to IBM / Red Hat; Uber added.
 
 31. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
@@ -379,7 +379,7 @@
 * AGPL
 * No preference
 * Other (please specify)
->LH,4/13/20  - In 2020, changed No license to No preference and made this question required.
+>LH,4/13/20  - In 2020, changed No license to No preference and made this question required. Make this question required.
 
 40. Does your company allow open source contributions in their spare time?
 * I am free to contribute without permission
