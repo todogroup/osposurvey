@@ -381,14 +381,21 @@
 * Other (please specify)
 >LH,4/13/20  - In 2020, changed No license to No preference and made this question required.
 
-40. Which of the following open source compliance methodologies and initiatives does your organization utilize or participate in?
+40. Does your company allow open source contributions in their spare time?
+* I am free to contribute without permission
+* My employer doesn't have a clear policy on this
+* I am permitted to contribute but need to ask permission
+* I am not permitted to contribute 
+* I'm not sure
+
+41. Which of the following open source compliance methodologies and initiatives does your organization utilize or participate in?
 * ClearlyDefined
 * FOSSology
 * OpenChain
 * Software Package Data Exchange (SPDX)
 * Other (please specify)
 
-41. Which of the following software scanning and software composition analysis tools does your organization use?
+42. Which of the following software scanning and software composition analysis tools does your organization use?
 * Eclipse Oscano
 * Flexera
 * FOSSA
@@ -402,7 +409,7 @@
 * WhiteSource
 * Other (please specify)
 
-42. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
+43. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
 * Other vendor’s paid version (e.g., GitLab, Bitbucket)
 * Free version of vendor solution (e.g., GitHub, GitLab)
@@ -410,7 +417,7 @@
 * Other (please specify)
 
 ## Part 8
-43. Of the following options, what are the top three benefits your company receives by using open source software?
+44. Of the following options, what are the top three benefits your company receives by using open source software?
 * Developer satisfaction
 * Development speed
 * Functionality
@@ -422,7 +429,7 @@
 * Total cost of ownership (licenses and developer time)
 
 ## Part 9
-44. Which category most closely defines your role?
+45. Which category most closely defines your role?
 * Developer or software engineer
 * Other IT
 * Community manager or developer advocate
@@ -431,7 +438,7 @@
 * Marketing / PR
 * Other
 
-45. What industry vertical is your company in?
+46. What industry vertical is your company in?
 * Defense
 * Education
 * Financial services
@@ -446,18 +453,18 @@
 * Utilities
 * Other
 
-46. If you would like to receive email about upcoming surveys and to receive a copy of these results, please provide your contact information.
+47. If you would like to receive email about upcoming surveys and to receive a copy of these results, please provide your contact information.
 * First name
 * Last name
 * Email
 
-47. If you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+48. If you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
 * Enterprise or organization
 
 **Enter to win a $100 Visa gift card from The New Stack**
 
-48. Finally, if you want to participate in the sweepstakes, please enter your name and email address.
+49. Finally, if you want to participate in the sweepstakes, please enter your name and email address.
 * First name
 * Last name
 * Email address
