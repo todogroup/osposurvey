@@ -396,6 +396,8 @@
 * FOSSology
 * OpenChain
 * Software Package Data Exchange (SPDX)
+* We utilize a homegrown or ad hoc methodology for open source compliance
+* We do not utilize or participate in any methodology or initiative
 * Other (please specify)
 
 42. Which of the following software scanning and software composition analysis tools does your organization use?
