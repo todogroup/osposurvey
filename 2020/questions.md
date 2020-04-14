@@ -34,15 +34,24 @@
 * List of acceptable licenses
 * Contributing upstream to open source projects
 * Sponsoring open source projects, events or foundations
+* Employees are permitted to contribute to non-work-related open source projects in their spare time without conditions
+* Employees are permitted to contribute to non-work-related open source projects in their spare time but require permission to do so
 
-5. Does your company have an open source program (either formal or informal) or management initiative? *
+5. What percentage of your products are built using open source components?
+* 0-20%
+* 20-40%
+* 40-60%
+* 60-80%
+* 80-100%
+
+6. Does your company have an open source program (either formal or informal) or management initiative? *
 >{Yes No, but planning one No}
 >ROUTING: "Yes" goes to Part 2; "No, but planning one" goes to Part 3; "No" goes to Part 4
 
 ## Part 2
 ### Part 2a
 
-6. What are the primary responsibilities of the open source program? (Check all that apply)
+7. What are the primary responsibilities of the open source program? (Check all that apply)
 * Owning and overseeing the execution of open source strategy
 * Clearly communicating the open source strategy within and outside the company
 * Facilitating the effective use of open source in commercial products and services
@@ -55,11 +64,11 @@
 * Developing and delivering open source training, resources and documentation
 * Other (please explain)
 
-7. How is the program or initiative structured? *
+8. How is the program or initiative structured? *
 * Formal: dedicated person-hours, reporting structure and/or job titles
 * Informal: working groups, mailing lists and/or channels (e.g., Slack) managed by job roles not formally defined as "open source"
 
-8. Where is the open source program or initiative located within the organization? If the effort is informal, answer based on or who the primary organizers report to.
+9. Where is the open source program or initiative located within the organization? If the effort is informal, answer based on or who the primary organizers report to.
 * Legal
 * Software engineering and development
 * IT
@@ -68,7 +77,7 @@
 * Don't know
 * Other (please specify)
 
-9. What is your role in the open source program?
+10. What is your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
 * Program manager
 * Legal compliance
@@ -79,21 +88,21 @@
 * No formal role
 * Other (please specify)
 
-10. How long ago was the program established?
+11. How long ago was the program established?
 * 0-2 years
 * 3-5 years
 * 6-10 years
 * More than 10 years
 * Don't know
 
-11. How many employees are part of your open source program?
+12. How many employees are part of your open source program?
 * 0 (no dedicated staff yet)
 * 1
 * 2-4
 * 5-9
 * 10+
 
-12. What are the areas where your company has most benefited from the open source program? (Check all that apply)
+13. What are the areas where your company has most benefited from the open source program? (Check all that apply)
 * Increased developer recruitment and retention
 * Increased speed and agility in the development cycle
 * Better license compliance
@@ -110,7 +119,7 @@
 * Better security testing and vulnerability management
 * Other (please specify)
 
-13. What are the ways your open source program quantifies success? (Check all that apply)
+14. What are the ways your open source program quantifies success? (Check all that apply)
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -126,7 +135,7 @@
 * Cost savings
 * Other (please specify)
 
-14. What are the top three challenges your open source program faces? (Choose three) *
+15. What are the top three challenges your open source program faces? (Choose three) *
 * Talent: finding and recruiting open source developers
 * Ability to influence open source projects
 * Executive awareness and support
@@ -137,38 +146,38 @@
 * Tracking metrics and performance
 * Tool selection and adoption
 
-15. On a scale of 1-5, how business-critical is your open source program to the success of your engineering or product teams? (1= extremely critical, 5 = not at all critical)
+16. On a scale of 1-5, how business-critical is your open source program to the success of your engineering or product teams? (1= extremely critical, 5 = not at all critical)
 * 1 – Extremely critical
 * 2 – Very critical
 * 3 – Somewhat critical
 * 4 – Not so critical
 * 5 – Not at all critical
 
-16. Has the open source program had a positive impact on your company's software practices?
+17. Has the open source program had a positive impact on your company's software practices?
 * Yes
 * No
 * Don't know
 >ROUTING: "Yes" goes to Part 2b; "No" and "Don't know" go to Part 5
 
 ### Part 2b
-17. If yes, please provide one or two specific examples.
+18. If yes, please provide one or two specific examples.
 * Example 1
 * Example 2
 >Routing: go to Part 5a
 
 ## Part 3
 
-18. When does your company plan to start a program?
+19. When does your company plan to start a program?
 * In the next 6 months
 * In the next year
 * 1-2 years from now
 * Over 2 years from now
 
-19. How will the program or initiative be structured? *
+20. How will the program or initiative be structured? *
 * Formal: dedicated person-hours, reporting structure and/or job titles
 * Informal: working groups, mailing lists and/or channels (e.g., Slack) managed by job roles not formally defined as "open source"
 
-20. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
+21. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
 * Legal
 * Software engineering and development
 * IT
@@ -177,7 +186,7 @@
 * Don't know
 * Other (please specify)
 
-21. What will be your role in the open source program?
+22. What will be your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
 * Program manager
 * Legal compliance
@@ -187,7 +196,7 @@
 * Committee member
 * No formal role
 
-22. What does your company aim to accomplish by starting an open source program? (Check all that apply)
+23. What does your company aim to accomplish by starting an open source program? (Check all that apply)
 * Increased developer recruitment and retention
 * Increased speed and agility in development cycle
 * Better license compliance
@@ -204,7 +213,7 @@
 * Better security testing and vulnerability management
 * Other (please specify)
 
-23. What are the top three ways your open source program will quantify success? (Choose three) 
+24. What are the top three ways your open source program will quantify success? (Choose three) 
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -220,7 +229,7 @@
 * Cost savings
 * Other (please specify)
 
-24. What have been the top three biggest challenges in establishing an open source program? (Choose three)
+25. What have been the top three biggest challenges in establishing an open source program? (Choose three)
 * Strategy: planning or knowing how to approach it
 * Finding an open source program manager
 * Finding legal staff with open source expertise
@@ -237,7 +246,7 @@
 
 ## Part 4
 ### Part 4a
-25. Why doesn’t your company have an open source program? (Check all that apply)
+26. Why doesn’t your company have an open source program? (Check all that apply)
 * Used to have one, but it ended
 * Have never heard of an open source program
 * Haven’t considered it
@@ -250,17 +259,17 @@
 * Want one but can’t justify it
 * Other (please specify)
 
-26. Would your company benefit from an open source program?
+27. Would your company benefit from an open source program?
 * Yes
 * No
 * Unknown
 >Routing: "Yes" goes to Part 4b, "No" goes to Part 4c
 
 ## Part 4b
-27. How would you approach creating an open source program within your organization?
+28. How would you approach creating an open source program within your organization?
 {open ended}
 
-28. What are the top three ways your company would benefit from an open source program? (Choose three)
+29. What are the top three ways your company would benefit from an open source program? (Choose three)
 * Increased developer recruitment and retention
 * Increased speed and agility in development cycle
 * Better license compliance
@@ -279,7 +288,7 @@
 >Routing: go to Part 5a
 
 ### Part 4c
-29. Why not?
+30. Why not?
 * Used to have one, but it ended
 * Have never heard of an open source program
 * Haven’t considered it
@@ -294,7 +303,7 @@
 
 ## Part 5
 ### Part 5a
-30. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
+31. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
 * Comcast
@@ -309,7 +318,7 @@
 * VMware
 >LH, note for survey coding, 4/13/20 - IBM changed to IBM / Red Hat; Uber added.
 
-31. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
+32. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
 * Very influential 
 * Moderately influential
@@ -317,19 +326,19 @@
 * Not at all influential 
 * Don't know
 
-32. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization?
+33. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization?
 * Yes
 * No
 * Don't know
 
-33. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
+34. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
 * Yes
 * No
 * Don't know
 >Routing "Yes" goes to the next question; "No" and "Don't know" skip to Part 8.
 
 ### Part 5b
-34. How valuable is the support and return on your investment you have received from these open source foundations?
+35. How valuable is the support and return on your investment you have received from these open source foundations?
 * Extremely high value
 * High value
 * Average value
@@ -338,7 +347,7 @@
 * Don't know
 
 ## Part 6
-35. How many open source projects does your company maintain?
+36. How many open source projects does your company maintain?
 * 0
 * 1-10
 * 11-50
@@ -347,7 +356,7 @@
 * More than 1,000
 * Don't know
 
-36. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
+37. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
 * 0
 * 1-5
 * 6-10
@@ -355,7 +364,7 @@
 * More than 100
 * Don't know
 
-37. How often does your average application development team release code into production?
+38. How often does your average application development team release code into production?
 * Hourly
 * Daily
 * Weekly
@@ -364,12 +373,12 @@
 * Don’t know
 
 ## Part 7
-38. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? * 
+39. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? * 
 * Yes
 * No
 * Don't know
 
-39. What is the preferred license for your company's open source projects?*
+40. What is the preferred license for your company's open source projects?*
 * MIT
 * BSD 3-clause
 * BSD 2-clause
@@ -381,12 +390,6 @@
 * Other (please specify)
 >LH,4/13/20  - In 2020, changed No license to No preference and made this question required. Make this question required.
 
-40. Does your company allow open source contributions in their spare time?
-* I am free to contribute without permission
-* My employer doesn't have a clear policy on this
-* I am permitted to contribute but need to ask permission
-* I am not permitted to contribute 
-* I'm not sure
 
 41. Which of the following open source compliance methodologies and initiatives does your organization utilize or participate in?
 * ClearlyDefined
