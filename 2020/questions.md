@@ -1,3 +1,11 @@
+## Introduction
+The New Stack is conducting a survey with the TODO Group, sponsored by The Linux Foundation and VMware, on the prevalence and outcomes of open source programs among enterprises across the globe. Personally identifiable information will not be used without your explicit permission. To enter our random drawing for one of five $100 Visa gift cards, please add your email at the end of the survey. See the official rules, for more details.
+
+The information collected in this survey will be used as part of a study. Only one response per company will be included in the study's results. Prior to analyzing the data, personally identifiable information and data represented in the published results will be aggregated and summarized at a group level.
+
+Address questions about the survey to research@thenewstack.io
+
+
 ## Part 1
 1. Where is your company or organization on its open source journey? (Check all that apply) 
 * Consuming open source code in products or services
