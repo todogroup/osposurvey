@@ -402,6 +402,7 @@
 * Eclipse Oscano
 * Flexera
 * FOSSA
+* GitHub
 * GitLab
 * JFrog
 * Snyk
