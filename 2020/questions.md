@@ -52,13 +52,12 @@ Address questions about the survey to research@thenewstack.io
 * 60-80%
 * 80-100%
 
-6. Does your company have an open source program (either formal or informal) or management initiative? *
+6. Does your company have an open source program (either formal or informal) or management initiative?
 >{Yes No, but planning one No}
 >ROUTING: "Yes" goes to Part 2; "No, but planning one" goes to Part 3; "No" goes to Part 4
 
 ## Part 2
-### Part 2a
-
+### Part 2a: Have Open Source Program
 7. What are the primary responsibilities of the open source program? (Check all that apply)
 * Owning and overseeing the execution of open source strategy
 * Clearly communicating the open source strategy within and outside the company
@@ -167,21 +166,20 @@ Address questions about the survey to research@thenewstack.io
 * Don't know
 >ROUTING: "Yes" goes to Part 2b; "No" and "Don't know" go to Part 5
 
-### Part 2b
+### Part 2b: Have Program - yes, specific impact
 18. If yes, please provide one or two specific examples.
 * Example 1
 * Example 2
 >Routing: go to Part 5a
 
-## Part 3
-
+## Part 3: Planning an Open Source Program
 19. When does your company plan to start a program?
 * In the next 6 months
 * In the next year
 * 1-2 years from now
 * Over 2 years from now
 
-20. How will the program or initiative be structured? *
+20. How will the program or initiative be structured?
 * Formal: dedicated person-hours, reporting structure and/or job titles
 * Informal: working groups, mailing lists and/or channels (e.g., Slack) managed by job roles not formally defined as "open source"
 
@@ -253,7 +251,7 @@ Address questions about the survey to research@thenewstack.io
 >Routing: go to Part 5a
 
 ## Part 4
-### Part 4a
+### Part 4a: Do Not Have an Open Source Program
 26. Why doesn’t your company have an open source program? (Check all that apply)
 * Used to have one, but it ended
 * Have never heard of an open source program
@@ -273,7 +271,7 @@ Address questions about the survey to research@thenewstack.io
 * Unknown
 >Routing: "Yes" goes to Part 4b, "No" goes to Part 4c
 
-## Part 4b
+## Part 4b: Not Using - Yes, employer would benefit
 28. How would you approach creating an open source program within your organization?
 {open ended}
 
@@ -295,7 +293,7 @@ Address questions about the survey to research@thenewstack.io
 * Other (please specify)
 >Routing: go to Part 5a
 
-### Part 4c
+### Part 4c: Not Using - No, employer would not benefit
 30. Why not?
 * Used to have one, but it ended
 * Have never heard of an open source program
@@ -310,7 +308,7 @@ Address questions about the survey to research@thenewstack.io
 >Routing: go to Part 5a
 
 ## Part 5
-### Part 5a
+### Part 5a: Value of Companies and Foundations
 31. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
@@ -345,7 +343,7 @@ Address questions about the survey to research@thenewstack.io
 * Don't know
 >Routing "Yes" goes to the next question; "No" and "Don't know" skip to Part 8.
 
-### Part 5b
+### Part 5b: Foundation Value Follow-up
 35. How valuable is the support and return on your investment you have received from these open source foundations?
 * Extremely high value
 * High value
@@ -354,7 +352,7 @@ Address questions about the survey to research@thenewstack.io
 * Extremely low value
 * Don't know
 
-## Part 6
+## Part 6: Metrics for Everybody
 36. How many open source projects does your company maintain?
 * 0
 * 1-10
