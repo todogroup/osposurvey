@@ -7,6 +7,7 @@ Address questions about the survey to research@thenewstack.io
 
 
 ## Part 1
+### Part 1a
 1. Where is your company or organization on its open source journey? (Check all that apply) 
 * Consuming open source code in products or services
 * Contributing to upstream open source projects
@@ -34,8 +35,20 @@ Address questions about the survey to research@thenewstack.io
 * Train developers to contribute to open source projects
 * Create its own open source projects
 * Attend and speak at open source events or conferences
+>ROUTING: "Never" or "Don't know for "Use of open source code in commercial products" goes to Part 1c. Everyone else skips goes to Part 1b.
 
-4. Does your company have a formal policy governing use and contribution to open source projects in the following areas?
+### Part 1b
+4. What percentage of your products are built using open source components?
+* 1-20%
+* 21-40%
+* 41-60%
+* 61-80%
+* 81-100%
+* Our products do not have any software components
+* Don't know
+
+### Part 1c
+5. Does your company have a formal policy governing use and contribution to open source projects in the following areas?
 >{Yes No Don't know}
 * Use of open source code in products (dependencies)
 * Releasing open source code or projects
@@ -45,20 +58,21 @@ Address questions about the survey to research@thenewstack.io
 * Employees are permitted to contribute to non-work-related open source projects in their spare time without conditions
 * Employees are permitted to contribute to non-work-related open source projects in their spare time but require permission to do so
 
-5. What percentage of your products are built using open source components?
-* 0-20%
-* 20-40%
-* 40-60%
-* 60-80%
-* 80-100%
-
 6. Does your company have an open source program (either formal or informal) or management initiative?
 >{Yes No, but planning one No}
 >ROUTING: "Yes" goes to Part 2; "No, but planning one" goes to Part 3; "No" goes to Part 4
 
 ## Part 2
 ### Part 2a: Have Open Source Program
-7. What are the primary responsibilities of the open source program? (Check all that apply)
+7. If your company or organization reevaluates budgets in light of recent macroeconomic conditions, what is the likelihood that open source initiatives will have funding reduced in the upcoming fiscal year?
+* Very likely
+* Somewhat likely
+* Neutral
+* Somewhat unlikely
+* Very unlikely
+* Don't know
+
+8. What are the primary responsibilities of the open source program? (Check all that apply)
 * Owning and overseeing the execution of open source strategy
 * Clearly communicating the open source strategy within and outside the company
 * Facilitating the effective use of open source in commercial products and services
@@ -71,11 +85,11 @@ Address questions about the survey to research@thenewstack.io
 * Developing and delivering open source training, resources and documentation
 * Other (please explain)
 
-8. How is the program or initiative structured? *
+9. How is the program or initiative structured?
 * Formal: dedicated person-hours, reporting structure and/or job titles
 * Informal: working groups, mailing lists and/or channels (e.g., Slack) managed by job roles not formally defined as "open source"
 
-9. Where is the open source program or initiative located within the organization? If the effort is informal, answer based on or who the primary organizers report to.
+10. Where is the open source program or initiative located within the organization? If the effort is informal, answer based on or who the primary organizers report to.
 * Legal
 * Software engineering and development
 * IT
@@ -84,7 +98,7 @@ Address questions about the survey to research@thenewstack.io
 * Don't know
 * Other (please specify)
 
-10. What is your role in the open source program?
+11. What is your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
 * Program manager
 * Legal compliance
@@ -95,21 +109,22 @@ Address questions about the survey to research@thenewstack.io
 * No formal role
 * Other (please specify)
 
-11. How long ago was the program established?
+12. How long ago was the program established?
 * 0-2 years
 * 3-5 years
 * 6-10 years
 * More than 10 years
 * Don't know
 
-12. How many employees are part of your open source program?
+13. How many employees are part of your open source program?
 * 0 (no dedicated staff yet)
 * 1
 * 2-4
 * 5-9
 * 10+
+* Don't know
 
-13. What are the areas where your company has most benefited from the open source program? (Check all that apply)
+14. What are the areas where your company has most benefited from the open source program? (Check all that apply)
 * Increased developer recruitment and retention
 * Increased speed and agility in the development cycle
 * Better license compliance
@@ -126,7 +141,7 @@ Address questions about the survey to research@thenewstack.io
 * Better security testing and vulnerability management
 * Other (please specify)
 
-14. What are the ways your open source program quantifies success? (Check all that apply)
+15. What are the ways your open source program quantifies success? (Check all that apply)
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -142,7 +157,7 @@ Address questions about the survey to research@thenewstack.io
 * Cost savings
 * Other (please specify)
 
-15. What are the top three challenges your open source program faces? (Choose three) *
+16. What are the top three challenges your open source program faces? (Choose three) *
 * Talent: finding and recruiting open source developers
 * Ability to influence open source projects
 * Executive awareness and support
@@ -153,37 +168,37 @@ Address questions about the survey to research@thenewstack.io
 * Tracking metrics and performance
 * Tool selection and adoption
 
-16. On a scale of 1-5, how business-critical is your open source program to the success of your engineering or product teams? (1= extremely critical, 5 = not at all critical)
+17. On a scale of 1-5, how business-critical is your open source program to the success of your engineering or product teams? (1= extremely critical, 5 = not at all critical)
 * 1 – Extremely critical
 * 2 – Very critical
 * 3 – Somewhat critical
 * 4 – Not so critical
 * 5 – Not at all critical
 
-17. Has the open source program had a positive impact on your company's software practices?
+18. Has the open source program had a positive impact on your company's software practices?
 * Yes
 * No
 * Don't know
 >ROUTING: "Yes" goes to Part 2b; "No" and "Don't know" go to Part 5
 
 ### Part 2b: Have Program - yes, specific impact
-18. If yes, please provide one or two specific examples.
+19. If yes, please provide one or two specific examples.
 * Example 1
 * Example 2
 >Routing: go to Part 5a
 
 ## Part 3: Planning an Open Source Program
-19. When does your company plan to start a program?
+20. When does your company plan to start a program?
 * In the next 6 months
 * In the next year
 * 1-2 years from now
 * Over 2 years from now
 
-20. How will the program or initiative be structured?
+21. How will the program or initiative be structured?
 * Formal: dedicated person-hours, reporting structure and/or job titles
 * Informal: working groups, mailing lists and/or channels (e.g., Slack) managed by job roles not formally defined as "open source"
 
-21. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
+22. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
 * Legal
 * Software engineering and development
 * IT
@@ -192,7 +207,7 @@ Address questions about the survey to research@thenewstack.io
 * Don't know
 * Other (please specify)
 
-22. What will be your role in the open source program?
+23. What will be your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
 * Program manager
 * Legal compliance
@@ -202,7 +217,7 @@ Address questions about the survey to research@thenewstack.io
 * Committee member
 * No formal role
 
-23. What does your company aim to accomplish by starting an open source program? (Check all that apply)
+24. What does your company aim to accomplish by starting an open source program? (Check all that apply)
 * Increased developer recruitment and retention
 * Increased speed and agility in development cycle
 * Better license compliance
@@ -219,7 +234,7 @@ Address questions about the survey to research@thenewstack.io
 * Better security testing and vulnerability management
 * Other (please specify)
 
-24. What are the top three ways your open source program will quantify success? (Choose three) 
+25. What are the top three ways your open source program will quantify success? (Choose three) 
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -235,7 +250,7 @@ Address questions about the survey to research@thenewstack.io
 * Cost savings
 * Other (please specify)
 
-25. What have been the top three biggest challenges in establishing an open source program? (Choose three)
+26. What have been the top three biggest challenges in establishing an open source program? (Choose three)
 * Strategy: planning or knowing how to approach it
 * Finding an open source program manager
 * Finding legal staff with open source expertise
@@ -252,7 +267,7 @@ Address questions about the survey to research@thenewstack.io
 
 ## Part 4
 ### Part 4a: Do Not Have an Open Source Program
-26. Why doesn’t your company have an open source program? (Check all that apply)
+27. Why doesn’t your company have an open source program? (Check all that apply)
 * Used to have one, but it ended
 * Have never heard of an open source program
 * Haven’t considered it
@@ -265,17 +280,17 @@ Address questions about the survey to research@thenewstack.io
 * Want one but can’t justify it
 * Other (please specify)
 
-27. Would your company benefit from an open source program?
+28. Would your company benefit from an open source program?
 * Yes
 * No
 * Unknown
 >Routing: "Yes" goes to Part 4b, "No" goes to Part 4c
 
 ## Part 4b: Not Using - Yes, employer would benefit
-28. How would you approach creating an open source program within your organization?
+29. How would you approach creating an open source program within your organization?
 {open ended}
 
-29. What are the top three ways your company would benefit from an open source program? (Choose three)
+30. What are the top three ways your company would benefit from an open source program? (Choose three)
 * Increased developer recruitment and retention
 * Increased speed and agility in development cycle
 * Better license compliance
@@ -294,7 +309,7 @@ Address questions about the survey to research@thenewstack.io
 >Routing: go to Part 5a
 
 ### Part 4c: Not Using - No, employer would not benefit
-30. Why not?
+31. Why not?
 * Used to have one, but it ended
 * Have never heard of an open source program
 * Haven’t considered it
@@ -309,7 +324,7 @@ Address questions about the survey to research@thenewstack.io
 
 ## Part 5
 ### Part 5a: Value of Companies and Foundations
-31. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
+32. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
 * Comcast
@@ -324,7 +339,7 @@ Address questions about the survey to research@thenewstack.io
 * VMware
 >LH, note for survey coding, 4/13/20 - IBM changed to IBM / Red Hat; Uber added.
 
-32. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
+33. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
 * Very influential 
 * Moderately influential
@@ -332,19 +347,27 @@ Address questions about the survey to research@thenewstack.io
 * Not at all influential 
 * Don't know
 
-33. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization?
+34. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization?
 * Yes
 * No
 * Don't know
 
-34. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
+35. In response to the COVID-19 pandemic, what is the likelihood that your organization will reallocate funds from in-person events to  recruiting and training actvities produced by an open source project, association or foundation?
+* Very likely
+* Somewhat likely
+* Neutral
+* Somewhat unlikely
+* Very unlikely
+* Don't know
+
+36. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
 * Yes
 * No
 * Don't know
 >Routing "Yes" goes to the next question; "No" and "Don't know" skip to Part 8.
 
 ### Part 5b: Foundation Value Follow-up
-35. How valuable is the support and return on your investment you have received from these open source foundations?
+37. How valuable is the support and return on your investment you have received from these open source foundations?
 * Extremely high value
 * High value
 * Average value
@@ -353,7 +376,8 @@ Address questions about the survey to research@thenewstack.io
 * Don't know
 
 ## Part 6: Metrics for Everybody
-36. How many open source projects does your company maintain?
+
+38. How many open source projects does your company maintain?
 * 0
 * 1-10
 * 11-50
@@ -362,15 +386,14 @@ Address questions about the survey to research@thenewstack.io
 * More than 1,000
 * Don't know
 
-37. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
+39. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
 * 0
 * 1-5
 * 6-10
 * 11-100
 * More than 100
 * Don't know
-
-38. How often does your average application development team release code into production?
+40. How often does your average application development team release code into production?
 * Hourly
 * Daily
 * Weekly
@@ -378,13 +401,13 @@ Address questions about the survey to research@thenewstack.io
 * Less than once a month
 * Don’t know
 
-## Part 7
-39. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? * 
+## Part 7: Licensing, Compliance and Repos
+41. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? 
 * Yes
 * No
 * Don't know
 
-40. What is the preferred license for your company's open source projects?*
+42. What is the preferred license for your company's open source projects?
 * MIT
 * BSD 3-clause
 * BSD 2-clause
@@ -396,8 +419,7 @@ Address questions about the survey to research@thenewstack.io
 * Other (please specify)
 >LH,4/13/20  - In 2020, changed No license to No preference and made this question required. Make this question required.
 
-
-41. Which of the following open source compliance methodologies and initiatives does your organization utilize or participate in?
+43. Which of the following open source compliance methodologies and initiatives does your organization utilize or participate in?
 * ClearlyDefined
 * FOSSology
 * OpenChain
@@ -406,7 +428,7 @@ Address questions about the survey to research@thenewstack.io
 * We do not utilize or participate in any methodology or initiative
 * Other (please specify)
 
-42. Which of the following software scanning and software composition analysis tools does your organization use?
+44. Which of the following software scanning and software composition analysis tools does your organization use?
 * Eclipse Oscano
 * Flexera
 * FOSSA
@@ -421,15 +443,15 @@ Address questions about the survey to research@thenewstack.io
 * WhiteSource
 * Other (please specify)
 
-43. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
+45. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
 * Other vendor’s paid version (e.g., GitLab, Bitbucket)
 * Free version of vendor solution (e.g., GitHub, GitLab)
 * Homegrown solution
 * Other (please specify)
 
-## Part 8
-44. Of the following options, what are the top three benefits your company receives by using open source software?
+## Part 8: Everybody
+46. Of the following options, what are the top three benefits your company receives by using open source software?
 * Developer satisfaction
 * Development speed
 * Functionality
@@ -440,8 +462,8 @@ Address questions about the survey to research@thenewstack.io
 * Technology flexibility and extensibility
 * Total cost of ownership (licenses and developer time)
 
-## Part 9
-45. Which category most closely defines your role?
+## Part 9: Audience
+47. Which category most closely defines your role?
 * Developer or software engineer
 * Other IT
 * Community manager or developer advocate
@@ -450,7 +472,7 @@ Address questions about the survey to research@thenewstack.io
 * Marketing / PR
 * Other
 
-46. What industry vertical is your company in?
+48. What industry vertical is your company in?
 * Defense
 * Education
 * Financial services
@@ -465,18 +487,18 @@ Address questions about the survey to research@thenewstack.io
 * Utilities
 * Other
 
-47. If you would like to receive email about upcoming surveys and to receive a copy of these results, please provide your contact information.
+49. If you would like to receive email about upcoming surveys and to receive a copy of these results, please provide your contact information.
 * First name
 * Last name
 * Email
 
-48. If you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+50. If you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
 * Name
 * Enterprise or organization
 
 **Enter to win a $100 Visa gift card from The New Stack**
 
-49. Finally, if you want to participate in the sweepstakes, please enter your name and email address.
+51. Finally, if you want to participate in the sweepstakes, please enter your name and email address.
 * First name
 * Last name
 * Email address
