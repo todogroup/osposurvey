@@ -39,6 +39,7 @@ Address questions about the survey to research@thenewstack.io
 
 ### Part 1b
 NEW question
+
 4. What percentage of your products are built using open source components?
 * 1-20%
 * 21-40%
@@ -50,6 +51,7 @@ NEW question
 
 ### Part 1c
 NEW choices about employee contributions
+
 5. Does your company have a formal policy governing use and contribution to open source projects in the following areas?
 >{Yes No Don't know}
 * Use of open source code in products (dependencies)
@@ -120,6 +122,7 @@ NEW QUESTION
 * Don't know
 
 NEW question 
+
 13. How many employees are part of your open source program?
 * 0 (no dedicated staff yet)
 * 1
@@ -357,6 +360,7 @@ NEW question
 * Don't know
 
 NEW question
+
 35. In response to the COVID-19 pandemic, what is the likelihood that your organization will reallocate funds from in-person events to  recruiting and training actvities produced by an open source project, association or foundation?
 * Very likely
 * Somewhat likely
