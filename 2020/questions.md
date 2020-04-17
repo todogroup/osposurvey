@@ -38,6 +38,7 @@ Address questions about the survey to research@thenewstack.io
 >ROUTING: "Never" or "Don't know for "Use of open source code in commercial products" goes to Part 1c. Everyone else skips goes to Part 1b.
 
 ### Part 1b
+NEW question
 4. What percentage of your products are built using open source components?
 * 1-20%
 * 21-40%
@@ -48,6 +49,7 @@ Address questions about the survey to research@thenewstack.io
 * Don't know
 
 ### Part 1c
+NEW choices about employee contributions
 5. Does your company have a formal policy governing use and contribution to open source projects in the following areas?
 >{Yes No Don't know}
 * Use of open source code in products (dependencies)
@@ -64,6 +66,7 @@ Address questions about the survey to research@thenewstack.io
 
 ## Part 2
 ### Part 2a: Have Open Source Program
+NEW QUESTION
 7. If your company or organization reevaluates budgets in light of recent macroeconomic conditions, what is the likelihood that open source initiatives will have funding reduced in the upcoming fiscal year?
 * Very likely
 * Somewhat likely
@@ -116,6 +119,7 @@ Address questions about the survey to research@thenewstack.io
 * More than 10 years
 * Don't know
 
+NEW question 
 13. How many employees are part of your open source program?
 * 0 (no dedicated staff yet)
 * 1
@@ -157,7 +161,7 @@ Address questions about the survey to research@thenewstack.io
 * Cost savings
 * Other (please specify)
 
-16. What are the top three challenges your open source program faces? (Choose three) *
+16. What are the top three challenges your open source program faces? (Choose three)
 * Talent: finding and recruiting open source developers
 * Ability to influence open source projects
 * Executive awareness and support
@@ -352,6 +356,7 @@ Address questions about the survey to research@thenewstack.io
 * No
 * Don't know
 
+NEW question
 35. In response to the COVID-19 pandemic, what is the likelihood that your organization will reallocate funds from in-person events to  recruiting and training actvities produced by an open source project, association or foundation?
 * Very likely
 * Somewhat likely
