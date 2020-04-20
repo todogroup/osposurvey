@@ -334,17 +334,19 @@ NEW question
 32. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
-* Comcast
-* Facebook
 * Google
-* IBM / Red Hat
-* Intel
 * Microsoft
-* Salesforce
+
+* IBM
+* Red Hat
 * SAP
-* Uber
 * VMware
->LH, note for survey coding, 4/13/20 - IBM changed to IBM / Red Hat; Uber added.
+
+* Comcast 
+* Facebook
+* Uber
+* Verizon
+>LH, note for survey coding, 4/20/20 - see new companies in the list 
 
 33. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
