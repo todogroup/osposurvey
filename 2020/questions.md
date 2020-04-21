@@ -102,10 +102,10 @@ NEW QUESTION
 * IT
 * Office of the CTO
 * Developer relations, marketing or communications
-* Security, compliance, risk management
+* Security, compliance and risk management
 * Don't know
 * Other (please specify)
->LH, note for survey coding, 4/20/20 - added "Security and risk compliance"
+>LH, note for survey coding, 4/20/20 - added "Security, compliance and risk management"
 
 11. What is your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
@@ -215,10 +215,10 @@ NEW question
 * IT
 * Office of the CTO
 * Developer relations, marketing or communications
-* Security and risk compliance
+* Security, compliance and risk management
 * Don't know
 * Other (please specify)
->LH, note for survey coding, 4/20/20 - added "Security and risk compliance"
+>LH, note for survey coding, 4/20/20 - added "Security, compliance and risk management"
 
 23. What will be your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
