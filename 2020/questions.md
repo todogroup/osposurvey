@@ -56,11 +56,9 @@ NEW choices about employee contributions
 >{Yes No Don't know}
 * Use of open source code in products (dependencies)
 * Releasing open source code or projects
-* List of acceptable licenses
 * Contributing upstream to open source projects
 * Sponsoring open source projects, events or foundations
-* Employees are permitted to contribute to non-work-related open source projects in their personal time without conditions
-* Employees are permitted to contribute to non-work-related open source projects in their personal time but require permission to do so
+* Allowing employees to contribute to non work-related open source projects in their personal time
 
 6. Does your company have a formal or informal management initiative or program around open source?
 >LH, note for survey coding, 4/20/20 - question wording improved. Make a note of it in chart, but the change does not impact the meaning of the question.
@@ -71,15 +69,7 @@ NEW choices about employee contributions
 ### Part 2a: Have Open Source Program
 NEW QUESTION
 
-7. In light of recent macroeconomic conditions, what is the likelihood that funding for your company's open source initiatives will increase or decrease in the upcoming fiscal year?
-* Very likely to increase
-* Somewhat likely to increase
-* Neutral
-* Somewhat likely to decrease
-* Very likely to decrease
-* Don't know
-
-8. What are the primary responsibilities of the open source program? (Check all that apply)
+7. What are the primary responsibilities of the open source program? (Check all that apply)
 * Owning and overseeing the execution of open source strategy
 * Clearly communicating the open source strategy within and outside the company
 * Facilitating the effective use of open source in commercial products and services
@@ -92,11 +82,11 @@ NEW QUESTION
 * Developing and delivering open source training, resources and documentation
 * Other (please explain)
 
-9. How is the program or initiative structured?
+8. How is the program or initiative structured?
 * Formal: dedicated person-hours, reporting structure and/or job titles
 * Informal: working groups, mailing lists and/or channels (e.g., Slack) managed by job roles not formally defined as "open source"
 
-10. Where is the open source program or initiative located within the organization? If the effort is informal, answer based on or who the primary organizers report to.
+9. Where is the open source program or initiative located within the organization? If the effort is informal, answer based on or who the primary organizers report to.
 * Legal
 * Software engineering and development
 * IT
@@ -107,16 +97,25 @@ NEW QUESTION
 * Other (please specify)
 >LH, note for survey coding, 4/20/20 - added "Security, compliance and risk management"
 
-11. What is your role in the open source program?
+10. What is your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
 * Program manager
 * Legal compliance
 * Engineering compliance
+* Security team
 * Developer relations, advocacy and evangelists
 * Open source developer or engineer (reporting to the open source office)
 * Committee member
 * No formal role
 * Other (please specify)
+
+11. In light of recent macroeconomic conditions, what is the likelihood that funding for your company's open source initiatives will increase or decrease in the upcoming fiscal year?
+* Very likely to increase
+* Somewhat likely to increase
+* Neutral
+* Somewhat likely to decrease
+* Very likely to decrease
+* Don't know
 
 12. How long ago was the program established?
 * 0-2 years
@@ -169,13 +168,15 @@ NEW question
 * Other (please specify)
 
 16. What are the top three challenges your open source program faces? (Choose three)
-* Talent: finding and recruiting open source developers
+* Finding and recruiting open source developers
 * Ability to influence open source projects
 * Executive awareness and support
 * Insufficient budget; program costs
 * Internal awareness of the program
 * External awareness (marketing and communications)
 * License compliance overhead
+* Getting teams on board with compliance and security approaches
+* Vulnerability monitoring and remediation
 * Tracking metrics and performance
 * Tool selection and adoption
 
@@ -264,7 +265,7 @@ NEW question
 * Other (please specify)
 
 26. What have been the top three biggest challenges in establishing an open source program? (Choose three)
-* Strategy: planning or knowing how to approach it
+* Developing an open source strategy
 * Finding an open source program manager
 * Finding legal staff with open source expertise
 * Setting an open source policy
@@ -360,14 +361,14 @@ To what degree do you perceive the following companies to be “good open source
 * Not at all influential 
 * Don't know
 
-34. Does your organization have a program to reward and recognize open source contributors, inside and outside your organization?
+34. Does your organization have a program to reward and recognize open source contributors, inside or outside your organization?
 * Yes
 * No
 * Don't know
 
 NEW question
 
-35. In response to the COVID-19 pandemic, what is the likelihood that your organization will reallocate funds from in-person events to  recruiting and training actvities produced by an open source project, association or foundation?
+35. In response to the COVID-19 pandemic, what is the likelihood that your organization will reallocate funds from events to recruiting and training actvities produced by an open source project, association or foundation?
 * Very likely
 * Somewhat likely
 * Neutral
@@ -414,6 +415,8 @@ NEW question
 * Daily
 * Weekly
 * Monthly
+* Quarterly
+* Annually
 * Less than once a month
 * Don’t know
 
@@ -428,7 +431,8 @@ NEW question
 * BSD 3-clause
 * BSD 2-clause
 * Apache 2.0
-* GPL
+* GPLv2
+* GPLv3
 * LGPL
 * AGPL
 * No preference
@@ -451,6 +455,7 @@ NEW question
 * GitHub
 * GitLab
 * JFrog
+* OSS Review Toolkit
 * Snyk
 * Sonatype
 * Synopsys
