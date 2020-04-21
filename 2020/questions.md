@@ -76,7 +76,7 @@ NEW QUESTION
 * Somewhat likely to increase
 * Neutral
 * Somewhat likely to decrease
-* Very likely toi decrease
+* Very likely to decrease
 * Don't know
 
 8. What are the primary responsibilities of the open source program? (Check all that apply)
