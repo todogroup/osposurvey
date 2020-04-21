@@ -40,7 +40,7 @@ Address questions about the survey to research@thenewstack.io
 ### Part 1b
 NEW question
 
-4. What percentage of your products are built using open source components?
+4. What percentage of your products include open source components?
 * 1-20%
 * 21-40%
 * 41-60%
@@ -59,22 +59,24 @@ NEW choices about employee contributions
 * List of acceptable licenses
 * Contributing upstream to open source projects
 * Sponsoring open source projects, events or foundations
-* Employees are permitted to contribute to non-work-related open source projects in their spare time without conditions
-* Employees are permitted to contribute to non-work-related open source projects in their spare time but require permission to do so
+* Employees are permitted to contribute to non-work-related open source projects in their personal time without conditions
+* Employees are permitted to contribute to non-work-related open source projects in their personal time but require permission to do so
 
-6. Does your company have an open source program (either formal or informal) or management initiative?
+6. Does your company have a formal or informal management initiative or program around open source?
+>LH, note for survey coding, 4/20/20 - question wording improved. Make a note of it in chart, but the change does not impact the meaning of the question.
 >{Yes No, but planning one No}
 >ROUTING: "Yes" goes to Part 2; "No, but planning one" goes to Part 3; "No" goes to Part 4
 
 ## Part 2
 ### Part 2a: Have Open Source Program
 NEW QUESTION
-7. If your company or organization reevaluates budgets in light of recent macroeconomic conditions, what is the likelihood that open source initiatives will have funding reduced in the upcoming fiscal year?
-* Very likely
-* Somewhat likely
+
+7. In light of recent macroeconomic conditions, what is the likelihood that funding for your company's open source initiatives will increase or decrease in the upcoming fiscal year?
+* Very likely to increase
+* Somewhat likely to increase
 * Neutral
-* Somewhat unlikely
-* Very unlikely
+* Somewhat likely to decrease
+* Very likely to decrease
 * Don't know
 
 8. What are the primary responsibilities of the open source program? (Check all that apply)
@@ -100,8 +102,10 @@ NEW QUESTION
 * IT
 * Office of the CTO
 * Developer relations, marketing or communications
+* Security, compliance and risk management
 * Don't know
 * Other (please specify)
+>LH, note for survey coding, 4/20/20 - added "Security, compliance and risk management"
 
 11. What is your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
@@ -211,8 +215,10 @@ NEW question
 * IT
 * Office of the CTO
 * Developer relations, marketing or communications
+* Security, compliance and risk management
 * Don't know
 * Other (please specify)
+>LH, note for survey coding, 4/20/20 - added "Security, compliance and risk management"
 
 23. What will be your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
@@ -331,22 +337,20 @@ NEW question
 
 ## Part 5
 ### Part 5a: Value of Companies and Foundations
-32. To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
+32. "The following list represents a range of large companies that participate in open source communities. To what degree do you perceive each of them to be “good open source community citizens” in terms of contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem?"
+To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
-* Google
-* Microsoft
-
-* IBM
-* Red Hat
-* SAP
-* VMware
-
 * Comcast 
 * Facebook
+* Google
+* IBM
+* Microsoft
+* Red Hat
+* SAP
 * Uber
 * Verizon
->LH, note for survey coding, 4/20/20 - see new companies in the list 
+* VMware
 
 33. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
@@ -404,6 +408,7 @@ NEW question
 * 11-100
 * More than 100
 * Don't know
+
 40. How often does your average application development team release code into production?
 * Hourly
 * Daily
