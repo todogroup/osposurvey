@@ -40,7 +40,7 @@ Address questions about the survey to research@thenewstack.io
 ### Part 1b
 NEW question
 
-4. What percentage of your PRODUCTS are built using open source components?
+4. What percentage of your products include open source components?
 * 1-20%
 * 21-40%
 * 41-60%
