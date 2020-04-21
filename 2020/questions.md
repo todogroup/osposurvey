@@ -345,6 +345,7 @@ To what degree do you perceive the following companies to be “good open source
 * Facebook
 * Google
 * IBM
+* Microsoft
 * Red Hat
 * SAP
 * Uber
