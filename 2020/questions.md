@@ -1,7 +1,7 @@
 ## Introduction
 The New Stack is conducting a survey with the TODO Group, sponsored by The Linux Foundation and VMware, on the prevalence and outcomes of open source programs among enterprises across the globe. Personally identifiable information will not be used without your explicit permission. To enter our random drawing for one of five $100 Visa gift cards, please add your email at the end of the survey. See the official rules, for more details.
 
-The information collected in this survey will be used as part of a study. Only one response per company will be included in the study's results. Prior to analyzing the data, personally identifiable information and data represented in the published results will be aggregated and summarized at a group level.
+The information collected in this survey will be used as part of a study. Only one response per company will be included in the study's results. Prior to analyzing the data, personally identifiable information and data represented in the published results will be aggregated and summarized at a grouplevel.
 
 Address questions about the survey to research@thenewstack.io
 
@@ -445,38 +445,46 @@ NEW question
 * Other (please specify)
 >LH, note for survey coding, 4/22/20: Changed "No license" to "No preference", spilt GPL into two answers and made this question required.
 
-43. Which of the following open source compliance methodologies and initiatives does your organization utilize or participate in?
+43. Which of the following open source compliance tools and methodologies does your organization utilize?
 * ClearlyDefined
-* FOSSology
-* OpenChain
-* Software Package Data Exchange (SPDX)
-* We utilize a homegrown or ad hoc methodology for open source compliance
-* We do not utilize or participate in any methodology or initiative
-* Other (please specify)
-
-44. Which of the following software scanning and software composition analysis tools does your organization use?
 * Eclipse Oscano
 * Flexera
 * FOSSA
+* FOSSID
+* FOSSology
 * GitHub
 * GitLab
 * JFrog
+* OpenChain
 * OSS Review Toolkit
 * Snyk
 * Sonatype
+* SPDX Tools
 * Synopsys
+* Tern
 * Veracode
 * WhiteHat Security
 * WhiteSource
+* Verifa
+* We utilize a homegrown tool or methodology for open source compliance
+* We do not utilize or any tool or methodology for open source compliance
 * Other (please specify)
->LH, note for survey coding, 4/22/20: Added GitHub and OSS Review Tookit
+>LH, note for survey coding, 4/22/20: combined OSS compliance methodology and SW comp analysis tool questions. Added more choices. This question is requrired.
+
+44. Does the information security function within your organization access data from automated tools that are also used for open source compliance?
+* Yes
+* No
+* Don't know
+>LH, note for survey coding, 4/22/20: new question
 
 45. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
-* Other vendor’s paid version (e.g., GitLab, Bitbucket)
-* Free version of vendor solution (e.g., GitHub, GitLab)
+* GitLab paid version 
+* Other vendor’s paid version (e.g., Bitbucket)
+* Free version of a vendor solution
 * Homegrown solution
 * Other (please specify)
+>LH, note for survey coding, 4/22/20: Separated GitLab from other vendor's paid version
 
 ## Part 8: Everybody
 46. Of the following options, what are the top three benefits your company receives by using open source software?
