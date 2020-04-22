@@ -38,7 +38,6 @@ Address questions about the survey to research@thenewstack.io
 >ROUTING: "Never" or "Don't know for "Use of open source code in commercial products" goes to Part 1c. Everyone else skips goes to Part 1b.
 
 ### Part 1b
-NEW question
 
 4. What percentage of your products include open source components?
 * 1-20%
@@ -48,9 +47,10 @@ NEW question
 * 81-100%
 * Our products do not have any software components
 * Don't know
+>LH, note for coding, 4/22/20, new question
+
 
 ### Part 1c
-NEW choices about employee contributions
 
 5. Does your company have a formal policy governing use and contribution to open source projects in the following areas?
 >{Yes No Don't know}
@@ -82,11 +82,25 @@ NEW choices about employee contributions
 * Developing and delivering open source training, resources and documentation
 * Other (please explain)
 
-8. How is the program or initiative structured?
-* Formal: dedicated person-hours, reporting structure and/or job titles
-* Informal: working groups, mailing lists and/or channels (e.g., Slack) managed by job roles not formally defined as "open source"
+8. Is the program or initiative formally structured with dedicated person-hours, reporting structure and/or job titles?
+* Yes
+* No
+* Don't know
+>LH, note for survey coding, 4/22/20, "Yes" maps to "Formal" from previous years.
+>ROUTING: "Yes" goes to Part 2b; "No" and "Don't know" go to Part 2c
 
-9. Where is the open source program or initiative located within the organization? If the effort is informal, answer based on or who the primary organizers report to.
+### Part 2b: Employees in formal programs
+9. How many employees are part of your open source program?
+* 0 (no dedicated staff yet)
+* 1
+* 2-4
+* 5-9
+* 10+
+* Don't know
+>LH, note for coding, 4/22/20, new question
+
+### Part 2c
+10. Where is the open source program or initiative located within the organization? If the effort is informal, answer based on or who the primary organizers report to.
 * Legal
 * Software engineering and development
 * IT
@@ -97,7 +111,7 @@ NEW choices about employee contributions
 * Other (please specify)
 >LH, note for survey coding, 4/20/20 - added "Security, compliance and risk management"
 
-10. What is your role in the open source program?
+11. What is your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
 * Program manager
 * Legal compliance
@@ -110,31 +124,20 @@ NEW choices about employee contributions
 * Other (please specify)
 >LH, note for survey coding, 4/22/20 - added "Security". Changed word to "evangelism"
 
-NEW question 
-
-11. In light of recent macroeconomic conditions, what is the likelihood that funding for your company's open source initiatives will increase or decrease in the upcoming fiscal year?
+12. In light of recent macroeconomic conditions, what is the likelihood that funding for your company's open source initiatives will increase or decrease in the upcoming fiscal year?
 * Very likely to increase
 * Somewhat likely to increase
 * Neutral
 * Somewhat likely to decrease
 * Very likely to decrease
 * Don't know
+>LH, note for coding, 4/22/20, new question
 
-12. How long ago was the program established?
+13. How long ago was the program established?
 * 0-2 years
 * 3-5 years
 * 6-10 years
 * More than 10 years
-* Don't know
-
-NEW question 
-
-13. How many employees are part of your open source program?
-* 0 (no dedicated staff yet)
-* 1
-* 2-4
-* 5-9
-* 10+
 * Don't know
 
 14. What are the areas where your company has most benefited from the open source program? (Check all that apply)
@@ -195,9 +198,9 @@ NEW question
 * Yes
 * No
 * Don't know
->ROUTING: "Yes" goes to Part 2b; "No" and "Don't know" go to Part 5
+>ROUTING: "Yes" goes to Part 2d; "No" and "Don't know" go to Part 5
 
-### Part 2b: Have Program - yes, specific impact
+### Part 2c: Have Program - yes, specific impact
 19. If yes, please provide one or two specific examples.
 * Example 1
 * Example 2
@@ -210,9 +213,11 @@ NEW question
 * 1-2 years from now
 * Over 2 years from now
 
-21. How will the program or initiative be structured?
-* Formal: dedicated person-hours, reporting structure and/or job titles
-* Informal: working groups, mailing lists and/or channels (e.g., Slack) managed by job roles not formally defined as "open source"
+21. Will the program or initiative be formally structured with dedicated person-hours, reporting structure and/or job titles?
+* Yes
+* No
+* Don't know
+>LH, note for survey coding, 4/22/20, "Yes" maps to "Formal" from previous years.
 
 22. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
 * Legal
