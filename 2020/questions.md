@@ -424,7 +424,7 @@ NEW question
 * Quarterly
 * Annually
 * Don’t know
->LH, note for coding, 4/22/20, added "Quarterly" and Annually" and took out "Less than once a month"
+>LH, note for coding, 4/22/20, added "Quarterly" and Less than once a quarter" and took out "Less than once a month"
 
 ## Part 7: Licensing, Compliance and Repos
 41. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? 
