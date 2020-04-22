@@ -58,7 +58,8 @@ NEW choices about employee contributions
 * Releasing open source code or projects
 * Contributing upstream to open source projects
 * Sponsoring open source projects, events or foundations
-* Allowing employees to contribute to non work-related open source projects in their personal time
+* Allowing employees to contribute to non-work-related open source projects in their personal time
+>LH, 4/22/20, questions choices updated vs last year
 
 6. Does your company have a formal or informal management initiative or program around open source?
 >LH, note for survey coding, 4/20/20 - question wording improved. Make a note of it in chart, but the change does not impact the meaning of the question.
@@ -67,7 +68,6 @@ NEW choices about employee contributions
 
 ## Part 2
 ### Part 2a: Have Open Source Program
-NEW QUESTION
 
 7. What are the primary responsibilities of the open source program? (Check all that apply)
 * Owning and overseeing the execution of open source strategy
@@ -102,12 +102,15 @@ NEW QUESTION
 * Program manager
 * Legal compliance
 * Engineering compliance
-* Security team
-* Developer relations, advocacy and evangelists
+* Security
+* Developer relations, advocacy and evangelism
 * Open source developer or engineer (reporting to the open source office)
 * Committee member
 * No formal role
 * Other (please specify)
+>LH, note for survey coding, 4/22/20 - added "Security". Changed word to "evangelism"
+
+NEW question 
 
 11. In light of recent macroeconomic conditions, what is the likelihood that funding for your company's open source initiatives will increase or decrease in the upcoming fiscal year?
 * Very likely to increase
@@ -179,6 +182,7 @@ NEW question
 * Vulnerability monitoring and remediation
 * Tracking metrics and performance
 * Tool selection and adoption
+>LH, note for survey coding, 4/22/20 - "Talent..." became "Finding and recruiting:; added "Getting teams..." and "Vulnerability..."
 
 17. On a scale of 1-5, how business-critical is your open source program to the success of your engineering or product teams? (1= extremely critical, 5 = not at all critical)
 * 1 – Extremely critical
@@ -226,10 +230,12 @@ NEW question
 * Program manager
 * Legal compliance
 * Engineering compliance
-* Developer relations, advocacy and evangelists
+* Security
+* Developer relations, advocacy and evangelism
 * Open source developer or engineer (reporting to the open source office)
 * Committee member
 * No formal role
+>LH, note for survey coding, 4/22/20 - added "Security". Changed word to "evangelism"
 
 24. What does your company aim to accomplish by starting an open source program? (Check all that apply)
 * Increased developer recruitment and retention
@@ -339,7 +345,6 @@ NEW question
 ## Part 5
 ### Part 5a: Value of Companies and Foundations
 32. "The following list represents a range of large companies that participate in open source communities. To what degree do you perceive each of them to be “good open source community citizens” in terms of contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem?"
-To what degree do you perceive the following companies to be “good open source community citizens” in terms of their contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem? 
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
 * Comcast 
@@ -365,6 +370,7 @@ To what degree do you perceive the following companies to be “good open source
 * Yes
 * No
 * Don't know
+>LH, note for survey coding, 4/22/20, "inside and outside" becomes "inside or outside"
 
 NEW question
 
@@ -417,8 +423,8 @@ NEW question
 * Monthly
 * Quarterly
 * Annually
-* Less than once a month
 * Don’t know
+>LH, note for coding, 4/22/20, added "Quarterly" and Annually" and took out "Less than once a month"
 
 ## Part 7: Licensing, Compliance and Repos
 41. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? 
@@ -428,8 +434,8 @@ NEW question
 
 42. What is the preferred license for your company's open source projects?
 * MIT
-* BSD 3-clause
 * BSD 2-clause
+* BSD 3-clause
 * Apache 2.0
 * GPLv2
 * GPLv3
@@ -437,7 +443,7 @@ NEW question
 * AGPL
 * No preference
 * Other (please specify)
->LH,4/13/20  - In 2020, changed No license to No preference and made this question required. Make this question required.
+>LH, note for survey coding, 4/22/20: Changed "No license" to "No preference", spilt GPL into two answers and made this question required.
 
 43. Which of the following open source compliance methodologies and initiatives does your organization utilize or participate in?
 * ClearlyDefined
@@ -463,6 +469,7 @@ NEW question
 * WhiteHat Security
 * WhiteSource
 * Other (please specify)
+>LH, note for survey coding, 4/22/20: Added GitHub and OSS Review Tookit
 
 45. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
