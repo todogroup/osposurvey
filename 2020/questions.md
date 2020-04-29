@@ -1,13 +1,12 @@
 ## Introduction
 The New Stack is conducting a survey with the TODO Group, sponsored by The Linux Foundation and VMware, on the prevalence and outcomes of open source programs among enterprises across the globe. Personally identifiable information will not be used without your explicit permission. To enter our random drawing for one of five $100 Visa gift cards, please add your email at the end of the survey. See the official rules, for more details.
 
-The information collected in this survey will be used as part of a study. Only one response per company will be included in the study's results. Prior to analyzing the data, personally identifiable information and data represented in the published results will be aggregated and summarized at a grouplevel.
+The information collected in this survey will be used as part of a study. Only one response per company will be included in the study's results. Prior to analyzing the data, personally identifiable information and data represented in the published results will be aggregated and summarized at a group level.
 
-Address questions about the survey to research@thenewstack.io
+Address questions about the survey to research@thenewstack.io.
 
 
 ## Part 1
-### Part 1a
 1. Where is your company or organization on its open source journey? (Check all that apply) 
 * Consuming open source code in products or services
 * Contributing to upstream open source projects
@@ -35,9 +34,6 @@ Address questions about the survey to research@thenewstack.io
 * Train developers to contribute to open source projects
 * Create its own open source projects
 * Attend and speak at open source events or conferences
->ROUTING: "Never" or "Don't know for "Use of open source code in commercial products" goes to Part 1c. Everyone else skips goes to Part 1b.
-
-### Part 1b
 
 4. What percentage of your products include open source components?
 * 1-20%
@@ -47,10 +43,6 @@ Address questions about the survey to research@thenewstack.io
 * 81-100%
 * Our products do not have any software components
 * Don't know
->LH, note for coding, 4/22/20, new question
-
-
-### Part 1c
 
 5. Does your company have a formal policy governing use and contribution to open source projects in the following areas?
 >{Yes No Don't know}
@@ -61,9 +53,11 @@ Address questions about the survey to research@thenewstack.io
 * Allowing employees to contribute to non-work-related open source projects in their personal time
 >LH, 4/22/20, questions choices updated vs last year
 
-6. Does your company have a formal or informal management initiative or program around open source?
+6. Does your company have a management initiative or program (either formal or informal) around open source?
 >LH, note for survey coding, 4/20/20 - question wording improved. Make a note of it in chart, but the change does not impact the meaning of the question.
->{Yes No, but planning one No}
+* Yes
+* No, but planning one
+* No
 >ROUTING: "Yes" goes to Part 2; "No, but planning one" goes to Part 3; "No" goes to Part 4
 
 ## Part 2
@@ -86,7 +80,6 @@ Address questions about the survey to research@thenewstack.io
 * Yes
 * No
 * Don't know
->LH, note for survey coding, 4/22/20, "Yes" maps to "Formal" from previous years.
 >ROUTING: "Yes" goes to Part 2b; "No" and "Don't know" go to Part 2c
 
 ### Part 2b: Employees in formal programs
@@ -97,10 +90,9 @@ Address questions about the survey to research@thenewstack.io
 * 5-9
 * 10+
 * Don't know
->LH, note for coding, 4/22/20, new question
 
 ### Part 2c
-10. Where is the open source program or initiative located within the organization? If the effort is informal, answer based on or who the primary organizers report to.
+10. Where is the open source program or initiative located within the organization? If the effort is informal, answer based on who the primary organizers report to.
 * Legal
 * Software engineering and development
 * IT
@@ -122,7 +114,6 @@ Address questions about the survey to research@thenewstack.io
 * Committee member
 * No formal role
 * Other (please specify)
->LH, note for survey coding, 4/22/20 - added "Security". Changed word to "evangelism"
 
 12. In light of recent macroeconomic conditions, what is the likelihood that funding for your company's open source initiatives will increase or decrease in the upcoming fiscal year?
 * Very likely to increase
@@ -131,7 +122,6 @@ Address questions about the survey to research@thenewstack.io
 * Somewhat likely to decrease
 * Very likely to decrease
 * Don't know
->LH, note for coding, 4/22/20, new question
 
 13. How long ago was the program established?
 * 0-2 years
@@ -177,7 +167,7 @@ Address questions about the survey to research@thenewstack.io
 * Finding and recruiting open source developers
 * Ability to influence open source projects
 * Executive awareness and support
-* Insufficient budget; program costs
+* Insufficient budget, program costs
 * Internal awareness of the program
 * External awareness (marketing and communications)
 * License compliance overhead
@@ -185,7 +175,6 @@ Address questions about the survey to research@thenewstack.io
 * Vulnerability monitoring and remediation
 * Tracking metrics and performance
 * Tool selection and adoption
->LH, note for survey coding, 4/22/20 - "Talent..." became "Finding and recruiting:; added "Getting teams..." and "Vulnerability..."
 
 17. On a scale of 1-5, how business-critical is your open source program to the success of your engineering or product teams? (1= extremely critical, 5 = not at all critical)
 * 1 – Extremely critical
@@ -200,7 +189,7 @@ Address questions about the survey to research@thenewstack.io
 * Don't know
 >ROUTING: "Yes" goes to Part 2d; "No" and "Don't know" go to Part 5
 
-### Part 2c: Have Program - yes, specific impact
+### Part 2d: Have Program - yes, specific impact
 19. If yes, please provide one or two specific examples.
 * Example 1
 * Example 2
@@ -217,7 +206,7 @@ Address questions about the survey to research@thenewstack.io
 * Yes
 * No
 * Don't know
->LH, note for survey coding, 4/22/20, "Yes" maps to "Formal" from previous years.
+
 
 22. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
 * Legal
@@ -228,7 +217,6 @@ Address questions about the survey to research@thenewstack.io
 * Security, compliance and risk management
 * Don't know
 * Other (please specify)
->LH, note for survey coding, 4/20/20 - added "Security, compliance and risk management"
 
 23. What will be your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
@@ -240,7 +228,6 @@ Address questions about the survey to research@thenewstack.io
 * Open source developer or engineer (reporting to the open source office)
 * Committee member
 * No formal role
->LH, note for survey coding, 4/22/20 - added "Security". Changed word to "evangelism"
 
 24. What does your company aim to accomplish by starting an open source program? (Check all that apply)
 * Increased developer recruitment and retention
@@ -375,11 +362,8 @@ Address questions about the survey to research@thenewstack.io
 * Yes
 * No
 * Don't know
->LH, note for survey coding, 4/22/20, "inside and outside" becomes "inside or outside"
 
-NEW question
-
-35. In response to the COVID-19 pandemic, what is the likelihood that your organization will reallocate funds from events to recruiting and training actvities produced by an open source project, association or foundation?
+35. In response to the COVID-19 pandemic, what is the likelihood that your organization will reallocate funds from events to recruiting and training activities produced by an open source project, association or foundation?
 * Very likely
 * Somewhat likely
 * Neutral
@@ -391,7 +375,7 @@ NEW question
 * Yes
 * No
 * Don't know
->Routing "Yes" goes to the next question; "No" and "Don't know" skip to Part 8.
+>Routing "Yes" goes Part 5b; "No" and "Don't know" skip to Part 6.
 
 ### Part 5b: Foundation Value Follow-up
 37. How valuable is the support and return on your investment you have received from these open source foundations?
@@ -455,7 +439,7 @@ NEW question
 * Eclipse Oscano
 * Flexera
 * FOSSA
-* FOSSID
+* FossID
 * FOSSology
 * GitHub
 * GitLab
@@ -544,4 +528,4 @@ NEW question
 * Last name
 * Email address
 
-The New Stack is conducting a survey with the TODO Group, sponsored by The Linux Foundation and VMware, on the prevalence and outcomes of open source programs among enterprises across the globe. Personally identifiable information will not be used without your explicit permission. To enter our random drawing for one of five $100 Visa gift cards, please add your email at the end of the survey. See the [official rules](https://thenewstack.io/take-our-survey-managing-open-source-2), for more details.
+The New Stack is conducting a survey with the TODO Group, sponsored by The Linux Foundation and VMware, on the prevalence and outcomes of open source programs among enterprises across the globe. Personally identifiable information will not be used without your explicit permission. To enter our random drawing for one of two $250 Visa gift cards, please add your email at the end of the survey. See the [official rules](https://thenewstack.io/take-our-survey-managing-open-source-2), for more details.
