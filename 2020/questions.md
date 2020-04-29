@@ -51,10 +51,8 @@ Address questions about the survey to research@thenewstack.io.
 * Contributing upstream to open source projects
 * Sponsoring open source projects, events or foundations
 * Allowing employees to contribute to non-work-related open source projects in their personal time
->LH, 4/22/20, questions choices updated vs last year
 
 6. Does your company have a management initiative or program (either formal or informal) around open source?
->LH, note for survey coding, 4/20/20 - question wording improved. Make a note of it in chart, but the change does not impact the meaning of the question.
 * Yes
 * No, but planning one
 * No
@@ -101,7 +99,6 @@ Address questions about the survey to research@thenewstack.io.
 * Security, compliance and risk management
 * Don't know
 * Other (please specify)
->LH, note for survey coding, 4/20/20 - added "Security, compliance and risk management"
 
 11. What is your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
@@ -206,7 +203,6 @@ Address questions about the survey to research@thenewstack.io.
 * Yes
 * No
 * Don't know
-
 
 22. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
 * Legal
@@ -413,7 +409,6 @@ Address questions about the survey to research@thenewstack.io.
 * Quarterly
 * Annually
 * Don’t know
->LH, note for coding, 4/22/20, added "Quarterly" and Annually" and took out "Less than once a month"
 
 ## Part 7: Licensing, Compliance and Repos
 41. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? 
@@ -432,7 +427,6 @@ Address questions about the survey to research@thenewstack.io.
 * AGPL
 * No preference
 * Other (please specify)
->LH, note for survey coding, 4/22/20: Changed "No license" to "No preference", spilt GPL into two answers and made this question required.
 
 43. Which of the following open source compliance tools and methodologies does your organization utilize?
 * ClearlyDefined
@@ -458,13 +452,11 @@ Address questions about the survey to research@thenewstack.io.
 * We utilize a homegrown tool or methodology for open source compliance
 * We do not utilize or any tool or methodology for open source compliance
 * Other (please specify)
->LH, note for survey coding, 4/22/20: combined OSS compliance methodology and SW comp analysis tool questions. Added more choices. This question is requrired.
 
 44. Does the information security function within your organization access data from automated tools that are also used for open source compliance?
 * Yes
 * No
 * Don't know
->LH, note for survey coding, 4/22/20: new question
 
 45. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
@@ -473,7 +465,6 @@ Address questions about the survey to research@thenewstack.io.
 * Free version of a vendor solution
 * Homegrown solution
 * Other (please specify)
->LH, note for survey coding, 4/22/20: Separated GitLab from other vendor's paid version
 
 ## Part 8: Everybody
 46. Of the following options, what are the top three benefits your company receives by using open source software?
