@@ -311,7 +311,7 @@ Address questions about the survey to research@thenewstack.io.
 * Increased participation in external open source projects
 * Faster time to market with new products
 * Increased innovation
-* Culture change toward faster digital transformation, openness and agility
+* Culture change, with improved interaction among departments
 * Better security testing and vulnerability management
 * Other (please specify)
 >Routing: go to Part 5a
@@ -450,7 +450,7 @@ Address questions about the survey to research@thenewstack.io.
 * WhiteSource
 * Verifa
 * We utilize a homegrown tool or methodology for open source compliance
-* We do not utilize or any tool or methodology for open source compliance
+* We do not utilize a tool or methodology for open source compliance
 * Other (please specify)
 
 44. Does the information security function within your organization access data from automated tools that are also used for open source compliance?
