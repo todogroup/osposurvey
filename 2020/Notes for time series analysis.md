@@ -63,3 +63,6 @@ Does the information security function within your organization access data from
 
 What kinds of tools does your company use to manage open source code repositories? 
 >2020, Separated GitLab from other vendor's paid version
+
+What are the top three ways your company would benefit from an open source program? (Choose three)
+>For the question asked of those with no plans for an OSPO, we forgot to change the wording of the "culture change" choice in 2019. That has been updated in 2020.
