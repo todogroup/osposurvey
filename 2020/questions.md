@@ -426,6 +426,7 @@ Address questions about the survey to research@thenewstack.io.
 * LGPL
 * AGPL
 * No preference
+* Don't know
 * Other (please specify)
 
 43. Which of the following open source compliance tools and methodologies does your organization utilize?
