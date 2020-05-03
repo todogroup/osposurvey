@@ -431,7 +431,6 @@ Address questions about the survey to research@thenewstack.io.
 
 43. Which of the following open source compliance tools and methodologies does your organization utilize?
 * ClearlyDefined
-* Eclipse Oscano
 * Flexera
 * FOSSA
 * FossID
