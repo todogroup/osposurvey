@@ -53,7 +53,7 @@ How often does your average application development team release code into produ
 >In 2020, added "Quarterly" and Annually" and took out "Less than once a month"
 
 What is the preferred license for your company's open source projects? 
->In 2020,  Changed "No license" to "No preference", spilt GPL into two answers and made this question required, added AGPL
+>In 2020,  Changed "No license" to "No preference", spilt GPL into two answers and made this question required, added AGPL and "Don't know"
 
 Which of the following open source compliance tools and methodologies does your organization utilize? 
 >combined OSS compliance methodology and SW comp analysis tool questions. Added more choices. This question is required.
