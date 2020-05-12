@@ -1,1 +1,1 @@
-Please add your ideas for new questions as "issues". Also, tell us which questions from 2019 we should keep in the 2020 survey.
+The 2020 survey is currently in the field. Please answer the questions at https://www.surveymonkey.com/r/todo2020?ospo=todorepo. The non-personally identifiable results will be published in this repository.
