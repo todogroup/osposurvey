@@ -4,7 +4,7 @@ The TODO Group is proud to have run the first open source programs survey in the
 
 * [2018 Results](https://github.com/todogroup/survey/tree/master/2018)
 * [2019 Results](https://github.com/todogroup/survey/tree/master/2019)
-* [2020 Planning](https://github.com/todogroup/survey/blob/master/2020/README.md)
+* [2020 Planning](https://github.com/todogroup/survey/tree/master/2020)
 
 ## License
 
