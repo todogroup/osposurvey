@@ -224,6 +224,7 @@ Address questions about the survey to research@thenewstack.io.
 * Open source developer or engineer (reporting to the open source office)
 * Committee member
 * No formal role
+* Other (please specify)
 
 24. What does your company aim to accomplish by starting an open source program? (Check all that apply)
 * Increased developer recruitment and retention
