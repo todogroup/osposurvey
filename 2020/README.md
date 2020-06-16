@@ -1,1 +1,1 @@
-The 2020 survey is currently in the field. Please answer the questions at https://www.surveymonkey.com/r/todo2020?ospo=todorepo. The non-personally identifiable results will be published in this repository.
+The 2020 survey has closed. The results will be published in this repository soon.
