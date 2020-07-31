@@ -15,10 +15,41 @@ The raw data from the survey is located here [results_2020.csv](results_2020.csv
 Compared to 2019, respondents are slightly less likely to say an open source program is critical to the success of their engineering or product teams, but 56% still say it is very or extremely critical for success. Older programs are more valuable than younger ones, indicating that they have had success integrating into company processes.
 
 
-
 ## Charts
 
-SVG versions of charts from the survey will be posted here.
+### Most companies are still early in the open source journey. They consume open source but aren’t yet active in upstream communities.
+
+<img src="chart1.svg" width="800">
+
+### Open Source Programs Have Narrowed Their Focus in the Past Few Years
+
+<img src="chart2.svg" width="800">
+
+### Focus on Hiring Open Source Developers Drops for Existing Open Source Program Offices
+
+<img src="chart3.svg" width="800">
+
+### Open Source Programs Optimistic About Funding Amid Economic Change
+
+<img src="chart4.svg" width="800">
+
+### Financial Services, Government, Healthcare and Retail Saw Increased Upstream
+
+<img src="chart5.svg" width="800">
+
+### Larger Organizations More Likely to Have Formal Policies Governing Use and Contributions to Open Source
+
+<img src="chart6.svg" width="800">
+
+### Open Source Program Offices (OSPOs) Become More Critical to Engineering Success
+
+<img src="chart7.svg" width="800">
+
+### OSPOs Come in All Shapes and Sizes
+
+<img src="chart8.svg" width="800">
+
+
 ## License
 
 The survey results are licensed under [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
