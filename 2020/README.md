@@ -33,7 +33,7 @@ Compared to 2019, respondents are slightly less likely to say an open source pro
 
 <img src="chart4.svg" width="800">
 
-### Financial Services, Government, Healthcare and Retail Saw Increased Upstream
+### Financial Services, Government, Healthcare and Retail Saw Increased Upstream Contribution Upstream
 
 <img src="chart5.svg" width="800">
 
