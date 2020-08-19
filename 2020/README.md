@@ -49,7 +49,11 @@ Compared to 2019, respondents are slightly less likely to say an open source pro
 
 <img src="chart8.svg" width="800">
 
+### Red Hat Tops Ratings, but Google, IBM and Microsoft Also Get High Marks for Open Source Community Engagement
+<img src="chart9.svg" width="800">
 
+### Open Source Citizenship Ratings Rose for Most Companies
+<img src="chart10.svg" width="800">
 ## License
 
 The survey results are licensed under [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
