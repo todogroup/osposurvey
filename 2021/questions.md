@@ -342,6 +342,7 @@ Address questions about the survey to research@thenewstack.io.
 * IBM
 * Microsoft
 * Red Hat
+* Salesforce
 * SAP
 * Uber
 * Verizon
