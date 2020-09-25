@@ -54,6 +54,10 @@ Compared to 2019, respondents are slightly less likely to say an open source pro
 
 ### Open Source Citizenship Ratings Rose for Most Companies
 <img src="chart10.svg" width="800">
+
+### Frequent Contributors Get High ROI From Open Source Foundation Membership
+<img src="chart11.svg" width="800">
+
 ## License
 
 The survey results are licensed under [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
