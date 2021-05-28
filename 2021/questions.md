@@ -171,11 +171,13 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Developer velocity, efficiency, and/or productivity
 * Developer hiring and onboarding
 * Reach in open source communities
-* Open source culture within the company
+* Frequency of dependency updates
+* Mean time to detect vulnerabilities
 * Time to market with new products
 * Project code quality
 * Cost savings
 * Other (please specify)
+<!---got rid of culture, added Frequency... and Mean time.. --->
 
 16. What are the top three challenges your open source program faces? (Choose three)
 * Finding and recruiting open source developers
@@ -450,7 +452,6 @@ If you have questions regarding this survey, please email us at research@linuxfo
 
 43. Which of the following open source compliance tools and methodologies does your organization utilize?
 * ClearlyDefined
-* Flexera
 * FOSSA
 * FossID
 * FOSSology
@@ -463,11 +464,10 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Sonatype
 * SPDX Tools
 * Synopsys
-* Tern
+* Revenera
 * Veracode
 * WhiteHat Security
 * WhiteSource
-* Verifa
 * We utilize a homegrown tool or methodology for open source compliance
 * We do not utilize a tool or methodology for open source compliance
 * Other (please specify)
@@ -498,7 +498,23 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Total cost of ownership (licenses and developer time)
 
 ## Part 9: Audience
-47. Which category most closely defines your role?
+47. Which technology area does your company focus its open source activities on? (Check all that apply)
+* AI, ML, Data & Analytics
+* Blockchain
+* CI/CD & Site Reliability
+* Cloud
+* Containers & Virtualization
+* DevOps
+* IoT & Embedded
+* Networking & Edge
+* Open Hardware
+* Safety-Critical Systems
+* Security
+* Storage
+* System Administration
+* Web & Application Development
+
+48. Which category most closely defines your role?
 * Developer or software engineer
 * Other IT
 * Community manager or developer advocate
@@ -507,11 +523,18 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Marketing / PR
 * Other
 
-48. What industry vertical is your company in?
+49. What industry vertical is your company in?
 * Defense
-* Education
+* _Education_
+-- University
+-- For-profit services
+-- Other
 * Financial services
-* Government
+* _Public Sector_
+-- Local government
+-- National government
+-- International organization
+-- Non-governmental organization
 * Healthcare
 * Insurance
 * Manufacturing and raw materials
@@ -522,21 +545,14 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Utilities
 * Other
 
-49. If you would like to receive email about upcoming surveys and to receive a copy of these results, please provide your contact information.
-* First name
-* Last name
-* Email
+49. What is the name of your organization? (This information will not be published)
+* Name of Company / Organization / Academic Institution / Government Agency
 
-50. If you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+50. If you are interested in participating in an in-depth interview, please provide us with your name, email address, and the name of your organization.
 * Name
-* Enterprise or organization
-
-**Enter to win a $250 Visa gift card from The New Stack**
-
-51. Finally, if you want to participate in the sweepstakes, please enter your name and email address.
-* First name
-* Last name
+* Organization
 * Email address
+
 
 CUSTOM THANK YOU
 
