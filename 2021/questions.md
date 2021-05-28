@@ -367,7 +367,17 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Verizon
 * VMware
 
-33. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
+33. Excluding the aforementioned companies, please nominate up to three technology or software companies that exemplify good open source community citizenship in terms of contributions, collaboration and leadership on projects and initiatives within the open source ecosystems?
+* Nomination 1
+* Nomination 2
+* Nomination 3
+
+34. Excluding the aforementioned companies, please nominate up to three non-technology or software companies – so-called end users – that exemplify good open source community citizenship in terms of contributions, collaboration and leadership on projects and initiatives within the open source ecosystems?
+* Nomination 1
+* Nomination 2
+* Nomination 3
+
+35. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
 * Very influential 
 * Moderately influential
@@ -375,12 +385,12 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Not at all influential 
 * Don't know
 
-34. Does your organization have a program to reward and recognize open source contributors, inside or outside your organization?
+36. Does your organization have a program to reward and recognize open source contributors, inside or outside your organization?
 * Yes
 * No
 * Don't know
 
-35. In response to the COVID-19 pandemic, what is the likelihood that your organization will reallocate funds from events to recruiting and training activities produced by an open source project, association or foundation?
+37. In response to the COVID-19 pandemic, what is the likelihood that your organization will reallocate funds from events to recruiting and training activities produced by an open source project, association or foundation?
 * Very likely
 * Somewhat likely
 * Neutral
@@ -388,7 +398,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Very unlikely
 * Don't know
 
-36. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
+38. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
 * Yes
 * No
 * Don't know
@@ -405,7 +415,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 
 ## Part 6: Metrics for Everybody
 
-38. How many open source projects does your company maintain?
+39. How many open source projects does your company maintain?
 * 0
 * 1-10
 * 11-50
@@ -414,7 +424,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * More than 1,000
 * Don't know
 
-39. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
+40. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
 * 0
 * 1-5
 * 6-10
@@ -422,7 +432,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * More than 100
 * Don't know
 
-40. How often does your average application development team release code into production?
+41. How often does your average application development team release code into production?
 * Hourly
 * Daily
 * Weekly
@@ -432,12 +442,12 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Don’t know
 
 ## Part 7: Licensing, Compliance and Repos
-41. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? 
+42. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? 
 * Yes
 * No
 * Don't know
 
-42. What is the preferred license for your company's open source projects?
+43. What is the preferred license for your company's open source projects?
 * MIT
 * BSD 2-clause
 * BSD 3-clause
@@ -450,7 +460,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Don't know
 * Other (please specify)
 
-43. Which of the following open source compliance tools and methodologies does your organization utilize?
+44. Which of the following open source compliance tools and methodologies does your organization utilize?
 * ClearlyDefined
 * FOSSA
 * FossID
@@ -472,12 +482,12 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * We do not utilize a tool or methodology for open source compliance
 * Other (please specify)
 
-44. Does the information security function within your organization access data from automated tools that are also used for open source compliance?
+45. Does the information security function within your organization access data from automated tools that are also used for open source compliance?
 * Yes
 * No
 * Don't know
 
-45. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
+46. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
 * GitLab paid version 
 * Other vendor’s paid version (e.g., Bitbucket)
@@ -486,7 +496,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Other (please specify)
 
 ## Part 8: Everybody
-46. Of the following options, what are the top three benefits your company receives by using open source software?
+47. Of the following options, what are the top three benefits your company receives by using open source software?
 * Developer satisfaction
 * Development speed
 * Functionality
@@ -498,7 +508,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Total cost of ownership (licenses and developer time)
 
 ## Part 9: Audience
-47. Which technology area does your company focus its open source activities on? (Check all that apply)
+48. Which technology area does your company focus its open source activities on? (Check all that apply)
 * AI, ML, Data & Analytics
 * Blockchain
 * CI/CD & Site Reliability
