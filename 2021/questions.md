@@ -1,9 +1,26 @@
-## Introduction
-The New Stack is conducting a survey with the [TODO Group](https://todogroup.org/), sponsored by The Linux Foundation and VMware, on the prevalence and outcomes of open source programs among enterprises across the globe. Personally identifiable information will not be used without your explicit permission. To enter our random drawing for one of two $250 Visa gift cards, please add your email at the end of the survey. See the official rules, for more details.
+## Open Source Program Office (OSPO) 2021 Survey
+The TODO Group, together with Linux Foundation Research and The New Stack, is conducting a survey as part of a research project on the prevalence and outcomes of open source programs among enterprises across the globe. 
 
-The information collected in this survey will be used as part of a study. Only one response per company will be included in the study's results. Prior to analyzing the data, personally identifiable information and data represented in the published results will be aggregated and summarized at a group level.
+Personally identifiable information will not be used without your explicit permission. The information collected in this survey will be used as part of a research study. 
+Only one response per company will be included in the study's results. 
 
-Address questions about the survey to research@thenewstack.io.
+*This survey should take no more than 15 minutes of your time.*
+
+BONUS
+
+As a thank you for completing this survey, you will receive a 75% discount code on enrollment in The Linux Foundation’s Open Source Management & Strategy training program, a $375 savings. This seven-course online training series is designed to help executives, managers, and software developers understand and articulate the basic concepts for building effective open source practices within their organization.
+
+PRIVACY
+
+Your name and company name will not be published. Reviews are attributed to your role, company size, and industry. Responses will be subject to the Linux Foundation's Privacy Policy, available at https://linuxfoundation.org/privacy. Please note that survey partners who are not Linux Foundation employees will be involved in reviewing the survey results. If you do not want them to have access to your name or email address please do not provide this information.
+
+VISIBILITY
+
+We will summarize the survey data and share the findings during OSPOCon 2021. The summary report will be published on both the TODO Group and Linux Foundation websites. 
+
+QUESTIONS
+
+If you have questions regarding this survey, please email us at research@linuxfoundation.org.
 
 
 ## Part 1
