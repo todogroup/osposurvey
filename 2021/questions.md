@@ -203,12 +203,19 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Yes
 * No
 * Don't know
+
+19. Does your organization use its open source program office as a way to further its strategic relationships and build partnerships?
+* Yes
+* No
+* Don't know
+
 >ROUTING: "Yes" goes to Part 2d; "No" and "Don't know" go to Part 5
 
 ### Part 2d: Have Program - yes, specific impact
 19. If yes, please provide one or two specific examples.
 * Example 1
 * Example 2
+* 
 >Routing: go to Part 5a
 
 ## Part 3: Planning an Open Source Program
@@ -405,7 +412,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 >Routing "Yes" goes Part 5b; "No" and "Don't know" skip to Part 6.
 
 ### Part 5b: Foundation Value Follow-up
-37. How valuable is the support and return on your investment you have received from these open source foundations?
+39. How valuable is the support and return on your investment you have received from these open source foundations?
 * Extremely high value
 * High value
 * Average value
@@ -415,7 +422,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 
 ## Part 6: Metrics for Everybody
 
-39. How many open source projects does your company maintain?
+38. How many open source projects does your company maintain?
 * 0
 * 1-10
 * 11-50
@@ -424,7 +431,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * More than 1,000
 * Don't know
 
-40. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
+39. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
 * 0
 * 1-5
 * 6-10
@@ -432,7 +439,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * More than 100
 * Don't know
 
-41. How often does your average application development team release code into production?
+40. How often does your average application development team release code into production?
 * Hourly
 * Daily
 * Weekly
@@ -442,12 +449,12 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Don’t know
 
 ## Part 7: Licensing, Compliance and Repos
-42. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? 
+41. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? 
 * Yes
 * No
 * Don't know
 
-43. What is the preferred license for your company's open source projects?
+42. What is the preferred license for your company's open source projects?
 * MIT
 * BSD 2-clause
 * BSD 3-clause
@@ -460,7 +467,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Don't know
 * Other (please specify)
 
-44. Which of the following open source compliance tools and methodologies does your organization utilize?
+43. Which of the following open source compliance tools and methodologies does your organization utilize?
 * ClearlyDefined
 * FOSSA
 * FossID
@@ -482,12 +489,12 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * We do not utilize a tool or methodology for open source compliance
 * Other (please specify)
 
-45. Does the information security function within your organization access data from automated tools that are also used for open source compliance?
+44. Does the information security function within your organization access data from automated tools that are also used for open source compliance?
 * Yes
 * No
 * Don't know
 
-46. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
+45. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
 * GitLab paid version 
 * Other vendor’s paid version (e.g., Bitbucket)
@@ -495,19 +502,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Homegrown solution
 * Other (please specify)
 
-## Part 8: Everybody
-47. Of the following options, what are the top three benefits your company receives by using open source software?
-* Developer satisfaction
-* Development speed
-* Functionality
-* Performance and stability 
-* Quality of code
-* Reliable support and/or consulting services
-* Security
-* Technology flexibility and extensibility
-* Total cost of ownership (licenses and developer time)
-
-## Part 9: Audience
+## Part 8: Audience
 48. Which technology area does your company focus its open source activities on? (Check all that apply)
 * AI, ML, Data & Analytics
 * Blockchain
