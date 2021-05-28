@@ -42,7 +42,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * More than 10,000
 * Don't know
 
-3. How often does your company do the following activities?
+3. How often does your organization do the following activities?
 >{Never Rarely Sometimes Frequently Don't know}
 * Contribute code upstream
 * Use open source code for noncommercial or internal reasons
@@ -61,7 +61,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Our products do not have any software components
 * Don't know
 
-5. Does your company have a formal policy governing use and contribution to open source projects in the following areas?
+5. Does your organization have a formal policy governing use and contribution to open source projects in the following areas?
 >{Yes No Don't know}
 * Use of open source code in products (dependencies)
 * Releasing open source code or projects
@@ -69,7 +69,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Sponsoring open source projects, events or foundations
 * Allowing employees to contribute to non-work-related open source projects in their personal time
 
-6. Does your company have a management initiative or program (either formal or informal) around open source?
+6. Does your organization have a management initiative or program (either formal or informal) around open source?
 * Yes
 * No, but planning one
 * No
