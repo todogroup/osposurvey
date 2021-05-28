@@ -538,4 +538,20 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Last name
 * Email address
 
-The New Stack is conducting a survey with the TODO Group, sponsored by The Linux Foundation and VMware, on the prevalence and outcomes of open source programs among enterprises across the globe. Personally identifiable information will not be used without your explicit permission. To enter our random drawing for one of two $250 Visa gift cards, please add your email at the end of the survey. See the [official rules](https://thenewstack.io/take-our-survey-managing-open-source-2), for more details.
+CUSTOM THANK YOU
+
+Thank you for completing this survey. In appreciation, we’re pleased to offer you a 75% discount code on enrollment in The Linux Foundation’s Open Source Management & Strategy training program, a $375 savings. To redeem this offer:
+
+-Visit the program page (https://training.linuxfoundation.org/training/open-source-management-and-strategy/) and select Enroll Today.
+
+-Create a Linux Foundation Account (or log in if you already have an account)
+
+-You'll then be taken to a cart containing the selected product; click on Add Coupon and paste [OSPOSURVEY75] into the box.
+
+-Continue to complete the checkout process
+
+Restrictions: 
+
+This promotion is available to anyone who purchases the above-mentioned products with the specified coupon between June 7, 2021, and July 5, 2021, 23:59 UTC. It is not valid for any other combination of e-learning courses or certifications. Promotional price limited to individual purchases or groups of no more than 5.
+
+The Linux Foundation would like to thank VMware for their sponsorship of this research project.
