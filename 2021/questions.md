@@ -113,11 +113,22 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * IT
 * Office of the CTO
 * Developer relations, marketing or communications
-* Security, compliance and risk management
+* Security, compliance or risk management
 * Don't know
 * Other (please specify)
+<!---changed to "or risk management" --->
 
-11. What is your role in the open source program?
+11. What percentage of your open source program’s time is spent collaborating with the following departments?  (Total can equal more than 100%)
+>{< 20%        21-40%        41-60%        61-80%        > 80%}
+* Engineering 
+* IT
+* Legal
+* Security
+* Upstream open source projects
+* Don’t know
+* Other (please specify)
+
+12. What is your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
 * Program manager
 * Legal compliance
@@ -129,7 +140,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * No formal role
 * Other (please specify)
 
-12. In light of recent macroeconomic conditions, what is the likelihood that funding for your company's open source initiatives will increase or decrease in the upcoming fiscal year?
+13. In light of recent macroeconomic conditions, what is the likelihood that funding for your company's open source initiatives will increase or decrease in the upcoming fiscal year?
 * Very likely to increase
 * Somewhat likely to increase
 * Neutral
@@ -137,14 +148,14 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Very likely to decrease
 * Don't know
 
-13. How long ago was the program established?
+14. How long ago was the program established?
 * 0-2 years
 * 3-5 years
 * 6-10 years
 * More than 10 years
 * Don't know
 
-14. What are the areas where your company has most benefited from the open source program? (Check all that apply)
+15. What are the areas where your company has most benefited from the open source program? (Check all that apply)
 * Increased developer recruitment and retention
 * Increased speed and agility in the development cycle
 * Better license compliance
@@ -161,7 +172,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Better security testing and vulnerability management
 * Other (please specify)
 
-15. What are the ways your open source program quantifies success? (Check all that apply)
+16. What are the ways your open source program quantifies success? (Check all that apply)
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -179,7 +190,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Other (please specify)
 <!---got rid of culture, added Frequency... and Mean time.. --->
 
-16. What are the top three challenges your open source program faces? (Choose three)
+17. What are the top three challenges your open source program faces? (Choose three)
 * Finding and recruiting open source developers
 * Ability to influence open source projects
 * Executive awareness and support
@@ -192,19 +203,19 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Tracking metrics and performance
 * Tool selection and adoption
 
-17. On a scale of 1-5, how business-critical is your open source program to the success of your engineering or product teams? (1= extremely critical, 5 = not at all critical)
+18. On a scale of 1-5, how business-critical is your open source program to the success of your engineering or product teams? (1= extremely critical, 5 = not at all critical)
 * 1 – Extremely critical
 * 2 – Very critical
 * 3 – Somewhat critical
 * 4 – Not so critical
 * 5 – Not at all critical
 
-18. Has the open source program had a positive impact on your company's software practices?
+19. Has the open source program had a positive impact on your company's software practices?
 * Yes
 * No
 * Don't know
 
-19. Does your organization use its open source program office as a way to further its strategic relationships and build partnerships?
+20. Does your organization use its open source program office as a way to further its strategic relationships and build partnerships?
 * Yes
 * No
 * Don't know
@@ -212,25 +223,25 @@ If you have questions regarding this survey, please email us at research@linuxfo
 >ROUTING: "Yes" goes to Part 2d; "No" and "Don't know" go to Part 5
 
 ### Part 2d: Have Program - yes, specific impact
-19. If yes, please provide one or two specific examples.
+21. If yes, please provide one or two specific examples.
 * Example 1
 * Example 2
-* 
+
 >Routing: go to Part 5a
 
 ## Part 3: Planning an Open Source Program
-20. When does your company plan to start a program?
+22. When does your company plan to start a program?
 * In the next 6 months
 * In the next year
 * 1-2 years from now
 * Over 2 years from now
 
-21. Will the program or initiative be formally structured with dedicated person-hours, reporting structure and/or job titles?
+23. Will the program or initiative be formally structured with dedicated person-hours, reporting structure and/or job titles?
 * Yes
 * No
 * Don't know
 
-22. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
+23. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
 * Legal
 * Software engineering and development
 * IT
@@ -240,7 +251,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Don't know
 * Other (please specify)
 
-23. What will be your role in the open source program?
+24. What will be your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
 * Program manager
 * Legal compliance
@@ -252,7 +263,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * No formal role
 * Other (please specify)
 
-24. What does your company aim to accomplish by starting an open source program? (Check all that apply)
+25. What does your company aim to accomplish by starting an open source program? (Check all that apply)
 * Increased developer recruitment and retention
 * Increased speed and agility in development cycle
 * Better license compliance
@@ -269,7 +280,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Better security testing and vulnerability management
 * Other (please specify)
 
-25. What are the top three ways your open source program will quantify success? (Choose three) 
+26. What are the top three ways your open source program will quantify success? (Choose three) 
 * Fewer license violations
 * Faster compliance process
 * Volume of upstream code contributions
@@ -285,7 +296,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Cost savings
 * Other (please specify)
 
-26. What have been the top three biggest challenges in establishing an open source program? (Choose three)
+27. What have been the top three biggest challenges in establishing an open source program? (Choose three)
 * Developing an open source strategy
 * Finding an open source program manager
 * Finding legal staff with open source expertise
@@ -302,7 +313,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 
 ## Part 4
 ### Part 4a: Do Not Have an Open Source Program
-27. Why doesn’t your company have an open source program? (Check all that apply)
+28. Why doesn’t your company have an open source program? (Check all that apply)
 * Used to have one, but it ended
 * Have never heard of an open source program
 * Haven’t considered it
@@ -315,17 +326,17 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Want one but can’t justify it
 * Other (please specify)
 
-28. Would your company benefit from an open source program?
+29. Would your company benefit from an open source program?
 * Yes
 * No
 * Unknown
 >Routing: "Yes" goes to Part 4b, "No" goes to Part 4c
 
 ## Part 4b: Not Using - Yes, employer would benefit
-29. How would you approach creating an open source program within your organization?
+30. How would you approach creating an open source program within your organization?
 {open ended}
 
-30. What are the top three ways your company would benefit from an open source program? (Choose three)
+31. What are the top three ways your company would benefit from an open source program? (Choose three)
 * Increased developer recruitment and retention
 * Increased speed and agility in development cycle
 * Better license compliance
@@ -344,7 +355,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 >Routing: go to Part 5a
 
 ### Part 4c: Not Using - No, employer would not benefit
-31. Why not?
+32. Why not?
 * Used to have one, but it ended
 * Have never heard of an open source program
 * Haven’t considered it
@@ -359,7 +370,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 
 ## Part 5
 ### Part 5a: Value of Companies and Foundations
-32. "The following list represents a range of large companies that participate in open source communities. To what degree do you perceive each of them to be “good open source community citizens” in terms of contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem?"
+33. "The following list represents a range of large companies that participate in open source communities. To what degree do you perceive each of them to be “good open source community citizens” in terms of contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem?"
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
 * Comcast 
@@ -374,17 +385,17 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Verizon
 * VMware
 
-33. Excluding the aforementioned companies, please nominate up to three technology or software companies that exemplify good open source community citizenship in terms of contributions, collaboration and leadership on projects and initiatives within the open source ecosystems?
+34. Excluding the aforementioned companies, please nominate up to three technology or software companies that exemplify good open source community citizenship in terms of contributions, collaboration and leadership on projects and initiatives within the open source ecosystems?
 * Nomination 1
 * Nomination 2
 * Nomination 3
 
-34. Excluding the aforementioned companies, please nominate up to three non-technology or software companies – so-called end users – that exemplify good open source community citizenship in terms of contributions, collaboration and leadership on projects and initiatives within the open source ecosystems?
+35. Excluding the aforementioned companies, please nominate up to three non-technology or software companies – so-called end users – that exemplify good open source community citizenship in terms of contributions, collaboration and leadership on projects and initiatives within the open source ecosystems?
 * Nomination 1
 * Nomination 2
 * Nomination 3
 
-35. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
+36. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
 * Very influential 
 * Moderately influential
@@ -397,15 +408,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * No
 * Don't know
 
-37. In response to the COVID-19 pandemic, what is the likelihood that your organization will reallocate funds from events to recruiting and training activities produced by an open source project, association or foundation?
-* Very likely
-* Somewhat likely
-* Neutral
-* Somewhat unlikely
-* Very unlikely
-* Don't know
-
-38. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
+37. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
 * Yes
 * No
 * Don't know
