@@ -247,9 +247,10 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * IT
 * Office of the CTO
 * Developer relations, marketing or communications
-* Security, compliance and risk management
+* Security, compliance or risk management
 * Don't know
 * Other (please specify)
+<!---changed to "or risk management" --->
 
 24. What will be your role in the open source program?
 * Executive leadership or oversight (program manager reports to me)
@@ -280,23 +281,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Better security testing and vulnerability management
 * Other (please specify)
 
-26. What are the top three ways your open source program will quantify success? (Choose three) 
-* Fewer license violations
-* Faster compliance process
-* Volume of upstream code contributions
-* Number of open source projects initiated
-* Number of contributors
-* Market adoption or use of projects
-* Developer velocity, efficiency, and/or productivity
-* Developer hiring and onboarding
-* Reach in open source communities
-* Open source culture within the company
-* Time to market with new products
-* Project code quality
-* Cost savings
-* Other (please specify)
-
-27. What have been the top three biggest challenges in establishing an open source program? (Choose three)
+26. What have been the top three biggest challenges in establishing an open source program? (Choose three)
 * Developing an open source strategy
 * Finding an open source program manager
 * Finding legal staff with open source expertise
@@ -313,7 +298,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 
 ## Part 4
 ### Part 4a: Do Not Have an Open Source Program
-28. Why doesn’t your company have an open source program? (Check all that apply)
+27. Why doesn’t your company have an open source program? (Check all that apply)
 * Used to have one, but it ended
 * Have never heard of an open source program
 * Haven’t considered it
@@ -326,17 +311,17 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Want one but can’t justify it
 * Other (please specify)
 
-29. Would your company benefit from an open source program?
+28. Would your company benefit from an open source program?
 * Yes
 * No
 * Unknown
 >Routing: "Yes" goes to Part 4b, "No" goes to Part 4c
 
 ## Part 4b: Not Using - Yes, employer would benefit
-30. How would you approach creating an open source program within your organization?
+29. How would you approach creating an open source program within your organization?
 {open ended}
 
-31. What are the top three ways your company would benefit from an open source program? (Choose three)
+30. What are the top three ways your company would benefit from an open source program? (Choose three)
 * Increased developer recruitment and retention
 * Increased speed and agility in development cycle
 * Better license compliance
@@ -355,7 +340,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 >Routing: go to Part 5a
 
 ### Part 4c: Not Using - No, employer would not benefit
-32. Why not?
+31. Why not?
 * Used to have one, but it ended
 * Have never heard of an open source program
 * Haven’t considered it
@@ -370,7 +355,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 
 ## Part 5
 ### Part 5a: Value of Companies and Foundations
-33. "The following list represents a range of large companies that participate in open source communities. To what degree do you perceive each of them to be “good open source community citizens” in terms of contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem?"
+32. "The following list represents a range of large companies that participate in open source communities. To what degree do you perceive each of them to be “good open source community citizens” in terms of contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem?"
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
 * Comcast 
@@ -385,12 +370,12 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Verizon
 * VMware
 
-34. Excluding the aforementioned companies, please nominate up to three technology or software companies that exemplify good open source community citizenship in terms of contributions, collaboration and leadership on projects and initiatives within the open source ecosystems?
+33. Excluding the aforementioned companies, please nominate up to three technology or software companies that exemplify good open source community citizenship in terms of contributions, collaboration and leadership on projects and initiatives within the open source ecosystems?
 * Nomination 1
 * Nomination 2
 * Nomination 3
 
-35. Excluding the aforementioned companies, please nominate up to three non-technology or software companies – so-called end users – that exemplify good open source community citizenship in terms of contributions, collaboration and leadership on projects and initiatives within the open source ecosystems?
+34. Excluding the aforementioned companies, please nominate up to three non-technology or software companies – so-called end users – that exemplify good open source community citizenship in terms of contributions, collaboration and leadership on projects and initiatives within the open source ecosystems?
 * Nomination 1
 * Nomination 2
 * Nomination 3
@@ -415,7 +400,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 >Routing "Yes" goes Part 5b; "No" and "Don't know" skip to Part 6.
 
 ### Part 5b: Foundation Value Follow-up
-39. How valuable is the support and return on your investment you have received from these open source foundations?
+38. How valuable is the support and return on your investment you have received from these open source foundations?
 * Extremely high value
 * High value
 * Average value
@@ -425,7 +410,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 
 ## Part 6: Metrics for Everybody
 
-38. How many open source projects does your company maintain?
+39. How many open source projects does your company maintain?
 * 0
 * 1-10
 * 11-50
@@ -434,7 +419,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * More than 1,000
 * Don't know
 
-39. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
+40. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
 * 0
 * 1-5
 * 6-10
@@ -442,7 +427,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * More than 100
 * Don't know
 
-40. How often does your average application development team release code into production?
+41. How often does your average application development team release code into production?
 * Hourly
 * Daily
 * Weekly
@@ -452,12 +437,12 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Don’t know
 
 ## Part 7: Licensing, Compliance and Repos
-41. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? 
+42. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? 
 * Yes
 * No
 * Don't know
 
-42. What is the preferred license for your company's open source projects?
+43. What is the preferred license for your company's open source projects?
 * MIT
 * BSD 2-clause
 * BSD 3-clause
@@ -470,34 +455,37 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Don't know
 * Other (please specify)
 
-43. Which of the following open source compliance tools and methodologies does your organization utilize?
+44. Which of the following tools and methodologies does your organization utilize for open source compliance?
 * ClearlyDefined
+* Debricked
 * FOSSA
-* FossID
 * FOSSology
 * GitHub
 * GitLab
 * JFrog
 * OpenChain
 * OSS Review Toolkit
+* Revenera
 * Snyk
 * Sonatype
 * SPDX Tools
 * Synopsys
-* Revenera
+* Tern
 * Veracode
 * WhiteHat Security
 * WhiteSource
 * We utilize a homegrown tool or methodology for open source compliance
 * We do not utilize a tool or methodology for open source compliance
 * Other (please specify)
+<!---question wording is different than last year --->
 
-44. Does the information security function within your organization access data from automated tools that are also used for open source compliance?
+45. Does the information security function within your organization access data from software composition analysis tools that are used for automated open source compliance?
 * Yes
 * No
 * Don't know
+<!---wording is different enough to make it a new question--->
 
-45. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
+46. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
 * GitLab paid version 
 * Other vendor’s paid version (e.g., Bitbucket)
@@ -506,7 +494,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Other (please specify)
 
 ## Part 8: Audience
-48. Which technology area does your company focus its open source activities on? (Check all that apply)
+47. Which technology area does your company focus its open source activities on? (Check all that apply)
 * AI, ML, Data & Analytics
 * Blockchain
 * CI/CD & Site Reliability
@@ -553,10 +541,10 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Utilities
 * Other
 
-49. What is the name of your organization? (This information will not be published)
+50. What is the name of your organization? (This information will not be published)
 * Name of Company / Organization / Academic Institution / Government Agency
 
-50. If you are interested in participating in an in-depth interview, please provide us with your name, email address, and the name of your organization.
+51. If you are interested in participating in an in-depth interview, please provide us with your name, email address, and the name of your organization.
 * Name
 * Organization
 * Email address
