@@ -522,14 +522,14 @@ If you have questions regarding this survey, please email us at research@linuxfo
 -- For-profit services
 -- Other
 * Financial services
+* Healthcare
+* Insurance
+* Manufacturing and raw materials
 * _Public Sector_
 -- Local government
 -- National government
 -- International organization
 -- Non-governmental organization
-* Healthcare
-* Insurance
-* Manufacturing and raw materials
 * Retail
 * Technology (software or IT)
 * Telecom, communications or media
