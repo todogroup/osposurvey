@@ -120,13 +120,12 @@ If you have questions regarding this survey, please email us at research@linuxfo
 <!---changed to "or risk management" --->
 
 11. What percentage of your open source program’s time is spent collaborating with the following departments?  (Total can equal more than 100%)
->{< 20%        21-40%        41-60%        61-80%        > 80%}
+>{< 20%        21-40%        41-60%        61-80%        > 80%    Don't know}
 * Engineering 
 * IT
 * Legal
 * Security
 * Upstream open source projects
-* Don’t know
 * Other (please specify)
 
 12. What is your role in the open source program?
