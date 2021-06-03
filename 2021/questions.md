@@ -12,7 +12,8 @@ As a thank you for completing this survey, you will receive a 75% discount code 
 
 PRIVACY
 
-Your name and company name will not be published. Reviews are attributed to your role, company size, and industry. Responses will be subject to the Linux Foundation's Privacy Policy, available at https://linuxfoundation.org/privacy. Please note that survey partners who are not Linux Foundation employees will be involved in reviewing the survey results. If you do not want them to have access to your name or email address please do not provide this information.
+Your name and company name will not be published. Reviews are attributed to your role, company size, and industry. Responses will be subject to the Linux Foundation's Privacy Policy, available at https://linuxfoundation.org/privacy. Please note that survey partners who are not Linux Foundation employees will be involved in reviewing the survey results. Although survey partners are not permitted to use your personal data for other purposes, if you would prefer that your name or email address would not be visible in the results that the survey partners review, then please do not include them in your responses.
+
 
 VISIBILITY
 
