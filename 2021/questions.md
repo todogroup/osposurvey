@@ -382,20 +382,18 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Decision to select a new vendor, supplier or partner
 * Decision to discontinue a relationship with an existing vendor supplier or partner
 
->Routing: If “Yes” to any of the three above, then go to Part 5b, otherwise go to Part 5C]
-
-### Part 5b: Participation Assessment Criteria
 37. If your organization has assessed vendor, supplier or partner participation in open source ecosystems, what were the criteria or metrics used to evaluate performance? What would you tell your peers seeking to conduct similar evaluations?
 * Open-ended comments
+* <!---had to change the routing b/c of SurveyMonkey. When doing analysis, filter for only those that said yes to at least one of the three bullets above --->
 
-### Part 5c: Foundation Value
+### Part 5b: Foundation Value
 38. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
 * Yes
 * No
 * Don't know
 >Routing: "Yes" goes Part 5b; "No" and "Don't know" skip to Part 6.
 
-### Part 5d: Foundation Value Follow-up
+### Part 5c: Foundation Value Follow-up
 
 39. How valuable is the support and return on your investment you have received from these open source foundations?
 * Extremely high value
@@ -506,6 +504,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Storage
 * System Administration
 * Web & Application Development
+* Other (please specify)
 
 49. Which category most closely defines your role?
 * Developer or software engineer
@@ -539,7 +538,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Other
 
 51. What is the name of your organization? (This information will not be published)
-* Name of Company / Organization / Academic Institution / Government Agency
+* Name of Company / Organization / Institution
 
 52. If you are interested in participating in an in-depth interview, please provide us with your name, email address, and the name of your organization.
 * Name
