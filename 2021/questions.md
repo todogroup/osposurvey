@@ -210,12 +210,12 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * 4 – Not so critical
 * 5 – Not at all critical
 
-19. Has the open source program had a positive impact on your company's software practices?
+19. Does your organization use its open source program office as a way to further its strategic relationships and build partnerships?
 * Yes
 * No
 * Don't know
 
-20. Does your organization use its open source program office as a way to further its strategic relationships and build partnerships?
+20. Has the open source program had a positive impact on your company's software practices?
 * Yes
 * No
 * Don't know
@@ -241,7 +241,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * No
 * Don't know
 
-23. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
+24. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
 * Legal
 * Software engineering and development
 * IT
@@ -251,18 +251,6 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Don't know
 * Other (please specify)
 <!---changed to "or risk management" --->
-
-24. What will be your role in the open source program?
-* Executive leadership or oversight (program manager reports to me)
-* Program manager
-* Legal compliance
-* Engineering compliance
-* Security
-* Developer relations, advocacy and evangelism
-* Open source developer or engineer (reporting to the open source office)
-* Committee member
-* No formal role
-* Other (please specify)
 
 25. What does your company aim to accomplish by starting an open source program? (Check all that apply)
 * Increased developer recruitment and retention
@@ -380,7 +368,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Nomination 2
 * Nomination 3
 
-36. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
+35. To what degree does a company’s participation in, and contributions to, the open source community influence your organization’s buying decisions?
 * Extremely influential
 * Very influential 
 * Moderately influential
@@ -388,19 +376,28 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Not at all influential 
 * Don't know
 
-36. Does your organization have a program to reward and recognize open source contributors, inside or outside your organization?
+36. In the last five years, has anyone in your organization included participation in open source ecosystems as criteria for the following?
+{Yes       No          Don’t know}
+* Review or audit of software and IT vendor contracts
+* Decision to select a new vendor, supplier or partner
+* Decision to discontinue a relationship with an existing vendor supplier or partner
+
+>Routing: If “Yes” to any of the three above, then go to Part 5b, otherwise go to Part 5C]
+
+### Part 5b: Participation Assessment Criteria
+37. If your organization has assessed vendor, supplier or partner participation in open source ecosystems, what were the criteria or metrics used to evaluate performance? What would you tell your peers seeking to conduct similar evaluations?
+* Open-ended comments
+
+### Part 5c: Foundation Value
+38. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
 * Yes
 * No
 * Don't know
+>Routing: "Yes" goes Part 5b; "No" and "Don't know" skip to Part 6.
 
-37. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
-* Yes
-* No
-* Don't know
->Routing "Yes" goes Part 5b; "No" and "Don't know" skip to Part 6.
+### Part 5d: Foundation Value Follow-up
 
-### Part 5b: Foundation Value Follow-up
-38. How valuable is the support and return on your investment you have received from these open source foundations?
+39. How valuable is the support and return on your investment you have received from these open source foundations?
 * Extremely high value
 * High value
 * Average value
@@ -410,7 +407,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 
 ## Part 6: Metrics for Everybody
 
-39. How many open source projects does your company maintain?
+40. How many open source projects does your company maintain?
 * 0
 * 1-10
 * 11-50
@@ -419,7 +416,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * More than 1,000
 * Don't know
 
-40. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
+41. How many developers (full time or part time) in your organization contribute to open source projects you depend on?
 * 0
 * 1-5
 * 6-10
@@ -427,7 +424,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * More than 100
 * Don't know
 
-41. How often does your average application development team release code into production?
+42. How often does your average application development team release code into production?
 * Hourly
 * Daily
 * Weekly
@@ -437,12 +434,12 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Don’t know
 
 ## Part 7: Licensing, Compliance and Repos
-42. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? 
+43. Does your company require a Contributor License Agreement (CLA) for external contributions to your open source projects? 
 * Yes
 * No
 * Don't know
 
-43. What is the preferred license for your company's open source projects?
+44. What is the preferred license for your company's open source projects?
 * MIT
 * BSD 2-clause
 * BSD 3-clause
@@ -455,7 +452,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Don't know
 * Other (please specify)
 
-44. Which of the following tools and methodologies does your organization utilize for open source compliance?
+45. Which of the following tools and methodologies does your organization utilize for open source compliance?
 * ClearlyDefined
 * Debricked
 * FOSSA
@@ -479,13 +476,13 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Other (please specify)
 <!---question wording is different than last year --->
 
-45. Does the information security function within your organization access data from software composition analysis tools that are used for automated open source compliance?
+46. Does the information security function within your organization access data from software composition analysis tools that are used for automated open source compliance?
 * Yes
 * No
 * Don't know
 <!---wording is different enough to make it a new question--->
 
-46. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
+47. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
 * GitLab paid version 
 * Other vendor’s paid version (e.g., Bitbucket)
@@ -494,7 +491,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Other (please specify)
 
 ## Part 8: Audience
-47. Which technology area does your company focus its open source activities on? (Check all that apply)
+48. Which technology area does your company focus its open source activities on? (Check all that apply)
 * AI, ML, Data & Analytics
 * Blockchain
 * CI/CD & Site Reliability
@@ -510,7 +507,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * System Administration
 * Web & Application Development
 
-48. Which category most closely defines your role?
+49. Which category most closely defines your role?
 * Developer or software engineer
 * Other IT
 * Community manager or developer advocate
@@ -519,7 +516,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Marketing / PR
 * Other
 
-49. What industry vertical is your company in?
+50. What industry vertical is your company in?
 * Defense
 * _Education_
 -- University
@@ -541,10 +538,10 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Utilities
 * Other
 
-50. What is the name of your organization? (This information will not be published)
+51. What is the name of your organization? (This information will not be published)
 * Name of Company / Organization / Academic Institution / Government Agency
 
-51. If you are interested in participating in an in-depth interview, please provide us with your name, email address, and the name of your organization.
+52. If you are interested in participating in an in-depth interview, please provide us with your name, email address, and the name of your organization.
 * Name
 * Organization
 * Email address
