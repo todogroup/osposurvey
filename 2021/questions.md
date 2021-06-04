@@ -307,7 +307,8 @@ If you have questions regarding this survey, please email us at research@linuxfo
 
 ## Part 4b: Not Using - Yes, employer would benefit
 29. How would you approach creating an open source program within your organization?
-{open ended}
+* Don't know / unsure
+* {open ended}
 
 30. What are the top three ways your company would benefit from an open source program? (Choose three)
 * Increased developer recruitment and retention
