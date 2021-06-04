@@ -265,7 +265,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Increased participation in external open source projects
 * Faster time to market with new products
 * Increased innovation
-* Culture change improving interaction among departments
+* Culture change, improving interaction among departments
 * Better security testing and vulnerability management
 * Other (please specify)
 
