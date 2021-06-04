@@ -303,11 +303,11 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Yes
 * No
 * Unknown
+
 >Routing: "Yes" goes to Part 4b, "No" goes to Part 4c
 
 ## Part 4b: Not Using - Yes, employer would benefit
 29. How would you approach creating an open source program within your organization?
-* I have no idea where to begin.
 * {open ended}
 
 30. What are the top three ways your company would benefit from an open source program? (Choose three)
