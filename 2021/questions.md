@@ -385,7 +385,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 
 37. If your organization has assessed vendor, supplier or partner participation in open source ecosystems, what were the criteria or metrics used to evaluate performance? What would you tell your peers seeking to conduct similar evaluations?
 * Open-ended comments
-* <!---had to change the routing b/c of SurveyMonkey. When doing analysis, filter for only those that said yes to at least one of the three bullets above --->
+<!---had to change the routing b/c of SurveyMonkey. When doing analysis, filter for only those that said yes to at least one of the three bullets above --->
 
 ### Part 5b: Foundation Value
 38. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
