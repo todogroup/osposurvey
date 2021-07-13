@@ -353,7 +353,6 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * IBM
 * Microsoft
 * Red Hat
-* Salesforce
 * SAP
 * Uber
 * Verizon
