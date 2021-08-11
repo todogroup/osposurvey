@@ -1,6 +1,6 @@
 # 2020 Open Source Program Survey Results
 
-The raw data from the survey is located here [results_2020.csv](results_2020.csv)
+The raw data from the survey is located here: [results_2020.csv](results_2020.csv)
 
 1026 people participated in the survey, which was conducted from May 5, 2020 to June 15, 2020. Company size was broadly represented, with 24% of respondents working at large companies with more than 10,000 employees, and 37% from small and mid-size companies with 250 or fewer employees. Developers and software engineers represented 40% of respondents, with at least another 34% holding an IT-related role.  
 
