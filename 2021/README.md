@@ -1,8 +1,10 @@
 # 2021 Open Source Program Survey Results
 
+The raw data from the survey is located here: [results_2021.csv](results_2021.csv)
+
 The fourth annual Open Source Program Office survey included 1,141 participants. This year’s dataset was more representative than ever of the broader business world.
 
-# Key Findings
+## Key Findings
 
 The findings indicated there are many opportunities ahead to educate companies about how OSPOs can benefit them.
 
@@ -20,29 +22,29 @@ The findings indicated there are many opportunities ahead to educate companies a
 
 # Charts
 
-## OSPO adoption is still highest among tech,but the public sector and education categories are also coming on strong
+## OSPO adoption is still highest among tech, but the public sector and education categories are also coming on strong.
 
 ![LFResearch_TODOGroupOSPOSurvey_v5-21](https://user-images.githubusercontent.com/43671777/134657300-2d04c952-2421-4253-82b8-4562a1be1fe8.png)
 
 
-## Those saying the OSPO is very or extremely critical to the success of engineering or product teams rose from 54% to 63% in the last year
+## Those saying the OSPO is very or extremely critical to the success of engineering or product teams rose from 54% to 63% in the last year.
 
 ![LFResearch_TODOGroupOSPOSurvey_v5-22](https://user-images.githubusercontent.com/43671777/134657472-16cb6c37-41e5-418e-8ee3-927287d33ef9.png)
 
-## The professionalization of OSPOs continues,with 58% of OSPOs being formally structured,up from 54% last year
+## The professionalization of OSPOs continues, with 58% of OSPOs being formally structured,up from 54% last year.
 
 ![LFResearch_TODOGroupOSPOSurvey_v5-30](https://user-images.githubusercontent.com/43671777/134661094-e33b9d5f-1544-4f9b-9461-d20c30680246.png)
 
-## Increase in funding for their open source initiatives is very or somewhat likely this ﬁscal year
+## An increase in funding for their open source initiatives is very or somewhat likely this ﬁscal year.
 
 
 ![LFResearch_TODOGroupOSPOSurvey_v5-37](https://user-images.githubusercontent.com/43671777/134661382-3a26fd21-9c93-407b-a019-992b4d772d9f.png)
 
-## Open source program had a positive impact on their company’s software practices
+## Open source program had a positive impact on their company’s software practices.
 
 ![LFResearch_TODOGroupOSPOSurvey_v5-39](https://user-images.githubusercontent.com/43671777/134661528-40d79250-ed82-45ff-9957-8cfa272af083.png)
 
-## 63% of plans to create an OSPO are expected to be initiated within a year
+## 63% of plans to create an OSPO are expected to be initiated within a year.
 
 ![LFResearch_TODOGroupOSPOSurvey_v5-45](https://user-images.githubusercontent.com/43671777/134661711-0f8fa8b0-5438-40c3-b6cc-e1ecad126eeb.png)
 
