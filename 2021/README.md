@@ -6,7 +6,7 @@ The fourth annual Open Source Program Office survey included 1,141 participants.
 
 ## Key Findings
 
-The findings indicated there are many opportunities ahead to educate companies about how OSPOs can benefit them.
+The findings indicated there are many opportunities ahead to educate organizations about how OSPOs can benefit them.
 
 ![LFResearch_TODOGroupOSPOSurvey_v5-02](https://user-images.githubusercontent.com/43671777/134656391-58e0cd51-89dd-4de7-84e7-c513fc423815.png)
 
