@@ -14,3 +14,11 @@ Please, add your survey question ideas and analysis by opening an [Issue](https:
 | | OSPO survey closes |
 | | OSPO survey results are published |
 
+## Feedback / Idea tracker
+
+
+* https://github.com/todogroup/osposurvey/issues/89
+* https://github.com/todogroup/osposurvey/issues/88
+* https://github.com/todogroup/osposurvey/issues/83
+* https://github.com/todogroup/osposurvey/issues/81
+* https://github.com/todogroup/osposurvey/issues/70
