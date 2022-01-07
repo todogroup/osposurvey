@@ -6,7 +6,7 @@ Please, add your survey question ideas and analysis by opening an [Issue](https:
 
 | Deadline | Description |
 | --- | --- |
-| 2022-02-01 | Accepting questionnaire ideas for OSPO survey 2022 |
+| 2022-02-01 | Accepting ideas for OSPO survey 2022 |
 | | Questionnaire draft is published |
 | | Questionnaire draft is reviewed by TODO Community |
 | | Final version from the OSPO survey is approved by TODO Steering Committee |
