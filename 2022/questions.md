@@ -347,6 +347,7 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Uber
 * Verizon
 * VMware
+
 33. Excluding the aforementioned companies, please nominate up to three technology or software companies that exemplify good open source community citizenship in terms of contributions, collaboration and leadership on projects and initiatives within the open source ecosystems?
 * Nomination 1
 * Nomination 2
