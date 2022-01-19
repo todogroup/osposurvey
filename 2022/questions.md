@@ -22,14 +22,15 @@ If you have questions regarding this survey, please email us at research@linuxfo
 
 
 ## Part 1
+
 1. Where is your company or organization on its open source journey? (Check all that apply) 
-* Consuming open source code in products or services
-* Contributing to upstream open source projects
-* Influencing open source projects via leadership or maintainer roles
-* Initiating or releasing open source projects
-* Collaborating with peers across open source projects and/or foundations
-* Not involved in open source
-* Don’t know
+    * Consuming open source code in products or services
+    * Contributing to upstream open source projects
+    * Influencing open source projects via leadership or maintainer roles
+    * Initiating or releasing open source projects
+    * Collaborating with peers across open source projects and/or foundations
+    * Not involved in open source
+    * Don’t know
 
 2. How many people work for your company or organization?
 * Self-employed or not working
