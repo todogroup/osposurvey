@@ -276,7 +276,9 @@ If you have questions regarding this survey, please email us at research@linuxfo
 * Other (please specify)
 >Routing: go to Part 5a
 ## Part 4
+
 ### Part 4a: Do Not Have an Open Source Program
+
 27. Why doesn’t your company have an open source program? (Check all that apply)
 * Used to have one, but it ended
 * Have never heard of an open source program
