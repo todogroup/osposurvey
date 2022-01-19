@@ -14,6 +14,16 @@ Please, add your survey question ideas and analysis by opening an [Issue](https:
 | | OSPO survey closes |
 | | OSPO survey results are published |
 
+## How to Contribute
+
+There are many ways you can directly contribute to the 2022 OSPO Survey:
+
+* 💬 **Provide feedback on the proposed questions:** open an issue and comment between lines using the dedicated [PR](https://github.com/todogroup/osposurvey/pull/99)
+* ✏️ **Fix inconsistencies or inaccuracies:** open an issue and comment between lines using the dedicated [PR](https://github.com/todogroup/osposurvey/pull/99)
+* 🙋 **Suggest new questions for existing sections:** open an issue and comment between lines using the dedicated [PR](https://github.com/todogroup/osposurvey/pull/99)
+* 🧩 **Suggest new sections:** [open a new issue](https://github.com/todogroup/osposurvey/issues) explaining how this new section would benefit the OSPO ecosystem and the set of desired questions to be added in the 2022 OSPO Survey.
+* 🌏 **Translate 2022 OSPO Survey Questions into other languages:** open a new [PR](https://github.com/todogroup/osposurvey/pull/) with the translated document in a `.md`file 
+
 ## Feedback / Idea tracker
 
 
