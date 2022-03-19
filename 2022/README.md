@@ -7,8 +7,8 @@ Please, add your survey question ideas and analysis by opening an [Issue](https:
 | Deadline | Description |
 | --- | --- |
 | 2022-01-17| `Questions.md` file is created |
-| 2022-02-28| `Questions.md` PR is reviewed by TODO Community |
-| 2022-02-28| deadline for accepting ideas for OSPO survey 2022 |
+| 2022-03-30| `Questions.md` PR is reviewed by TODO Community |
+| 2022-03-30| deadline for accepting ideas for OSPO survey 2022 |
 | | Final version from the Question.md is approved/rejected |
 | | OSPO survey is published |
 | | OSPO survey closes |
