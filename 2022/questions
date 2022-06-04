@@ -6,7 +6,7 @@ When respondents identify the name of their organization, pnly one response per 
 
 *This survey should take no more than 15 minutes of your time.*
 
-## Part 1
+## Introduction
 1. Where is your company or organization on its open source journey? (Check all that apply) 
 * Consuming open source code in products or services
 * Contributing to upstream open source projects
@@ -56,10 +56,10 @@ When respondents identify the name of their organization, pnly one response per 
 * Yes
 * No, but planning one
 * No
->ROUTING: "Yes" goes to Part 2; "No, but planning one" goes to Part 3; "No" goes to Part 4
+>ROUTING: "Yes" goes to Existing OSPO; "No, but planning one" goes to Planned OSPO; "No" goes to No Planned OSPO
 
-## Part 2
-### Part 2a: Have Open Source Program
+## Existing OSPO
+### Existing OSPO A: Tell us about the open source program
 
 7. What are the primary responsibilities of the open source program? (Check all that apply)
 * Owning and overseeing the execution of open source strategy
@@ -78,9 +78,7 @@ When respondents identify the name of their organization, pnly one response per 
 * Yes
 * No
 * Don't know
->ROUTING: "Yes" goes to Part 2b; "No" and "Don't know" go to Part 2c
 
-### Part 2b: Employees in formal programs
 9. How many employees are part of your open source program?
 * 0 (no dedicated staff yet)
 * 1
@@ -89,7 +87,6 @@ When respondents identify the name of their organization, pnly one response per 
 * 10+
 * Don't know
 
-### Part 2c
 10. Where is the open source program or initiative located within the organization? If the effort is informal, answer based on who the primary organizers report to.
 * Legal
 * Software engineering and development
@@ -99,7 +96,6 @@ When respondents identify the name of their organization, pnly one response per 
 * Security, compliance or risk management
 * Don't know
 * Other (please specify)
-<!---changed to "or risk management" --->
 
 11. What percentage of your open source program’s time is spent collaborating with the following departments?  (Total can equal more than 100%)
 >{< 20%        21-40%        41-60%        61-80%        > 80%    Don't know}
@@ -170,7 +166,6 @@ When respondents identify the name of their organization, pnly one response per 
 * Project code quality
 * Cost savings
 * Other (please specify)
-<!---got rid of culture, added Frequency... and Mean time.. --->
 
 17. What are the top three challenges your open source program faces? (Choose three)
 * Finding and recruiting open source developers
@@ -232,7 +227,6 @@ When respondents identify the name of their organization, pnly one response per 
 * Security, compliance or risk management
 * Don't know
 * Other (please specify)
-<!---changed to "or risk management" --->
 
 25. What does your company aim to accomplish by starting an open source program? (Check all that apply)
 * Increased developer recruitment and retention
