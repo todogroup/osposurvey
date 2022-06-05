@@ -59,9 +59,14 @@ When respondents identify the name of their organization, pnly one response per 
 >ROUTING: "Yes" goes to Existing OSPO; "No, but planning one" goes to Planned OSPO; "No" goes to No Planned OSPO
 
 ## Existing OSPO
-### Existing OSPO A: Tell us about the open source program
+### Existing OSPO: Tell us about the open source program and its structure
 
-7. What are the primary responsibilities of the open source program? (Check all that apply)
+7. Is the program or initiative formally structured with dedicated person-hours, reporting structure and/or job titles?
+* Yes
+* No
+* Don't know
+
+8. What are the primary responsibilities of the open source program? (Check all that apply)
 * Owning and overseeing the execution of open source strategy
 * Clearly communicating the open source strategy within and outside the company
 * Facilitating the effective use of open source in commercial products and services
@@ -73,11 +78,6 @@ When respondents identify the name of their organization, pnly one response per 
 * Selecting and/or setting up infrastructure and tooling for open source use, contribution and creation
 * Developing and delivering open source training, resources and documentation
 * Other (please explain)
-
-8. Is the program or initiative formally structured with dedicated person-hours, reporting structure and/or job titles?
-* Yes
-* No
-* Don't know
 
 9. How many employees are part of your open source program?
 * 0 (no dedicated staff yet)
@@ -197,16 +197,18 @@ When respondents identify the name of their organization, pnly one response per 
 * No
 * Don't know
 
->ROUTING: "Yes" goes to Part 2d; "No" and "Don't know" go to Part 5
+>ROUTING: "Yes" go to Existing OSPO B. OTHERWISE, Go to Value
 
-### Part 2d: Have Program - yes, specific impact
+## Existing OSPO
+### Existing OSPO B: Tell us about the open source program
+
 21. If yes, please provide one or two specific examples.
 * Example 1
 * Example 2
 
->Routing: go to Part 5a
+>Routing: Planned OSPO
 
-## Part 3: Planning an Open Source Program
+## Planned OSPO
 22. When does your company plan to start a program?
 * In the next 6 months
 * In the next year
@@ -258,10 +260,11 @@ When respondents identify the name of their organization, pnly one response per 
 * Finding commercial dependencies
 * Tool selection
 * Other (please specify)
->Routing: go to Part 5a
 
-## Part 4
-### Part 4a: Do Not Have an Open Source Program
+>Routing: No Planned OSPO
+
+## No Planned OSPO
+### Follow-up Disscusion
 27. Why doesn’t your company have an open source program? (Check all that apply)
 * Used to have one, but it ended
 * Have never heard of an open source program
@@ -276,13 +279,13 @@ When respondents identify the name of their organization, pnly one response per 
 * Other (please specify)
 
 28. Would your company benefit from an open source program?
-* Yes
+* Yes 
 * No
 * Unknown
 
->Routing: "Yes" goes to Part 4b, "No" goes to Part 4c
+>Routing: "Yes" goes to No Planned OSPO A, "No" goes to No Planned OSPO B. OTHERWISE go to Value
 
-## Part 4b: Not Using - Yes, employer would benefit
+## No Planned OSPO A - Yes, employer would benefit
 29. How would you approach creating an open source program within your organization?
 * {open ended}
 
@@ -302,9 +305,9 @@ When respondents identify the name of their organization, pnly one response per 
 * Culture change, with improved interaction among departments
 * Better security testing and vulnerability management
 * Other (please specify)
->Routing: go to Part 5a
+>Routing: go to Value
 
-### Part 4c: Not Using - No, employer would not benefit
+### No Planned OSPO B - Not Using - No, employer would not benefit
 31. Why not?
 * Used to have one, but it ended
 * Have never heard of an open source program
@@ -316,10 +319,10 @@ When respondents identify the name of their organization, pnly one response per 
 * Don’t want to regulate or standardize open source practices
 * I don’t know
 * Other (please specify)
->Routing: go to Part 5a
+>Routing: go to Value
 
-## Part 5
-### Part 5a: Value of Companies and Foundations
+## Value
+### Value A - Value of Companies and Foundations
 32. "The following list represents a range of large companies that participate in open source communities. To what degree do you perceive each of them to be “good open source community citizens” in terms of contributions, collaboration and leadership on open source projects and initiatives within the open source ecosystem?"
 >{Excellent Above Average Average Below Average Very Poor Don't know}
 * AWS
@@ -360,16 +363,15 @@ When respondents identify the name of their organization, pnly one response per 
 
 37. If your organization has assessed vendor, supplier or partner participation in open source ecosystems, what were the criteria or metrics used to evaluate performance? What would you tell your peers seeking to conduct similar evaluations?
 * Open-ended comments
-<!---had to change the routing b/c of SurveyMonkey. When doing analysis, filter for only those that said yes to at least one of the three bullets above --->
 
-### Part 5b: Foundation Value
+### Value B = Foundation Value
 38. Is your company a member or sponsor of an open source foundation(s)? (e.g., The Linux Foundation, The Apache Foundation, Eclipse Foundation, OpenJS Foundation)
 * Yes
 * No
 * Don't know
->Routing: "Yes" goes Part 5b; "No" and "Don't know" skip to Part 6.
+>Routing: "Yes" goe to Value C; OTHERWISE go to "Metrics for Everybody"
 
-### Part 5c: Foundation Value Follow-up
+### Value C
 
 39. How valuable is the support and return on your investment you have received from these open source foundations?
 * Extremely high value
@@ -379,7 +381,7 @@ When respondents identify the name of their organization, pnly one response per 
 * Extremely low value
 * Don't know
 
-## Part 6: Metrics for Everybody
+## Metrics for Everybody
 
 40. How many open source projects does your company maintain?
 * 0
@@ -448,13 +450,11 @@ When respondents identify the name of their organization, pnly one response per 
 * We utilize a homegrown tool or methodology for open source compliance
 * We do not utilize a tool or methodology for open source compliance
 * Other (please specify)
-<!---question wording is different than last year --->
 
 46. Does the information security function within your organization access data from software composition analysis tools that are used for automated open source compliance?
 * Yes
 * No
 * Don't know
-<!---wording is different enough to make it a new question--->
 
 47. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
 * GitHub paid version
@@ -536,6 +536,6 @@ Thank you for completing this survey. In appreciation, we’re pleased to offer 
 
 Restrictions: 
 
-This promotion is available to anyone who purchases the above-mentioned products with the specified coupon between June 7, 2021, and July 5, 2021, 23:59 UTC. It is not valid for any other combination of e-learning courses or certifications. Promotional price limited to individual purchases or groups of no more than 5.
+This promotion is available to anyone who purchases the above-mentioned products with the specified coupon between June 14, 2022, and July 4, 2021, 23:59 UTC. It is not valid for any other combination of e-learning courses or certifications. Promotional price limited to individual purchases or groups of no more than 5.
 
 The Linux Foundation would like to thank VMware for their sponsorship of this research project.
