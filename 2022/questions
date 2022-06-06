@@ -395,7 +395,7 @@ The following three lists represents a range of large technology-oriented compan
 * Don't know
 >Routing: "Yes" goe to Value B; OTHERWISE go to "Metrics for Everybody"
 
-### Value 
+### Value B
 
 39. How valuable is the support and return on your investment you have received from these open source foundations?
 * Extremely high value
@@ -452,35 +452,36 @@ The following three lists represents a range of large technology-oriented compan
 * Don't know
 * Other (please specify)
 
-45. Which of the following tools and methodologies does your organization utilize for open source compliance?
-* ClearlyDefined
-* Debricked
-* FOSSA
-* FOSSology
-* GitHub
-* GitLab
-* JFrog
-* OpenChain
-* OSS Review Toolkit
-* Revenera
-* Snyk
-* Sonatype
-* SPDX Tools
-* Synopsys
-* Tern
-* Veracode
-* WhiteHat Security
-* WhiteSource
-* We utilize a homegrown tool or methodology for open source compliance
-* We do not utilize a tool or methodology for open source compliance
-* Other (please specify)
+45. How does your organization check for open source license compliance?
+* Organizational processes
+* Departmental-level processes
+* Automation of processes
+* Case-by-case basis
+* No processes or approaches
+* Don't know or not applicable
 
-46. Does the information security function within your organization access data from software composition analysis tools that are used for automated open source compliance?
-* Yes
-* No
-* Don't know
+46. How does your organization check for open source security?
+* Organizational processes
+* Departmental-level processes
+* Automation of processes
+* Case-by-case basis
+* No processes or approaches
+* Don't know or not applicable
 
-47. What kinds of tools does your company use to manage open source code repositories? (select all that apply)
+47. How does your organization check for open source export-control?
+* Organizational processes
+* Departmental-level processes
+* Automation of processes
+* Case-by-case basis
+* No processes or approaches
+* Don't know or not applicable
+
+48. Do you use open source and proprietary tools do you personally or visibility into the usage of regarding the enforcement of license compliance, export-control or security?
+# Open source tools
+# Proprietary tools
+
+
+49. What kinds of tools does your company use to manage open source code repositories? (select all that apply)
 For each of the following, please indicate if your company uses the free and/or paid versions of the vendor offerings to manage open source repositories. (select one per row) 
 [Free, Paid, Don't know]
 * GitHub
@@ -490,8 +491,8 @@ For each of the following, please indicate if your company uses the free and/or 
 * Other Vendor
 * Don't use a vendor or don't use repository
 
-## Part 8: Audience
-48. Which technology area does your company focus its open source activities on? (Check all that apply)
+## Audience
+50. Which technology area does your company focus its open source activities on? (Check all that apply)
 * AI, ML, Data & Analytics
 * Blockchain
 * CI/CD & Site Reliability
@@ -508,7 +509,7 @@ For each of the following, please indicate if your company uses the free and/or 
 * Web & Application Development
 * Other (please specify)
 
-49. Which category most closely defines your role?
+51. Which category most closely defines your role?
 * Developer or software engineer
 * Other IT
 * Community manager or developer advocate
@@ -517,7 +518,7 @@ For each of the following, please indicate if your company uses the free and/or 
 * Marketing / PR
 * Other
 
-50. What industry vertical is your company in?
+52. What industry vertical is your company in?
 * Defense
 * _Education_
 -- University
@@ -539,10 +540,10 @@ For each of the following, please indicate if your company uses the free and/or 
 * Utilities
 * Other
 
-51. What is the name of your organization? (This information will not be published)
+53. What is the name of your organization? (This information will not be published)
 * Name of Company / Organization / Institution
 
-52. If you are interested in participating in an in-depth interview, please provide us with your name, email address, and the name of your organization.
+54. If you are interested in participating in an in-depth interview, please provide us with your name, email address, and the name of your organization.
 * Name
 * Organization
 * Email address
