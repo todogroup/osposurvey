@@ -6,6 +6,10 @@
     * Raw data is located [here](https://github.com/todogroup/osposurvey/blob/master/2022/RawData.csv)
     * Filtering criteria used is located [here](https://github.com/todogroup/osposurvey/blob/master/2022/FilteringCriteria.csv)
 
+## Key Findings
+
+![ospo-survey-insights-2022](https://user-images.githubusercontent.com/43671777/189916124-8cb0631d-5c20-4d14-98c0-53b2941305c1.png)
+
 
 The 2022 Open Source Program Office (OSPO) Survey was fielded by the TODO Group, Linux Foundation Research, and partners between June 21 through August 1, 2022. The goal was to gauge prevalence and outcomes of open source programs and similar open source initiatives operating across the globe.
 
