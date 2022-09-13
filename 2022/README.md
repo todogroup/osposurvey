@@ -1,4 +1,4 @@
-# 2021 Open Source Program Survey Results
+# 2022 Open Source Program Survey Results
 
 * The announcements with Survey Key findings can be found [here](https://todogroup.org/blog/)
 * The PDF report can be found here (TBD)
