@@ -1,7 +1,7 @@
 # 2022 Open Source Program Survey Results
 
 * The announcements with Survey Key findings can be found [here](https://todogroup.org/blog/)
-* The PDF report can be found [here](https://github.com/todogroup/todogroup.org/files/9557802/OSPOSurveyResults_2022-3.pdf)
+* The PDF report can be found [here](https://github.com/todogroup/osposurvey/blob/main/OSPOSurveyResults_2022-3.pdf)
 * The Guide to use the CSV files and data can be found [here](https://github.com/todogroup/osposurvey/blob/master/2022/csv-files-and-data-guide.md#guide-to-using-the-csv-files-and-data)
     * Raw data is located [here](https://github.com/todogroup/osposurvey/blob/master/2022/RawData.csv)
     * Filtering criteria used is located [here](https://github.com/todogroup/osposurvey/blob/master/2022/FilteringCriteria.csv)
