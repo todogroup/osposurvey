@@ -182,7 +182,7 @@ To a certain degree, any organization calling itself an OSPO (or similar open so
 * Cost savings
 * Other (please specify)
 
-* 18. What are the top three challenges your open source program or initiative faces?(select three)
+18. What are the top three challenges your open source program or initiative faces? (select three)
 * Finding and recruiting open source developers
 * Ability to inﬂuence open source projects
 * Executive awareness and support
@@ -202,7 +202,7 @@ To a certain degree, any organization calling itself an OSPO (or similar open so
 * Not so critical
 * Not at all critical
 
-* 20. Has the open source program or initiative had a positive impact on your organization's software practices? (select one)
+20. Has the open source program or initiative had a positive impact on your organization's software practices? (select one)
 * Yes
 * No
 * Don't know
