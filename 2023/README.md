@@ -1,11 +1,11 @@
 # 2023 Open Source Program Survey Results
 
-* The announcements with Survey Key findings can be found [here](https://todogroup.org/blog/)
+* The announcements with Survey Key findings can be found [here](https://todogroup.org/blog/2023-state-of-ospo/)
 * The PDF report can be found [here](https://github.com/todogroup/osposurvey/files/12658370/2023StateofOSPOs-Infographic.pdf)
 
-* The Guide to use the CSV files and data can be found [here]()
-    * Raw data is located [here]()
-    * Filtering criteria used is located [here]()
+* The Guide to use the CSV files and data can be found [here](https://github.com/todogroup/osposurvey/blob/main/2023/csv-files-and-data-guide.md)
+    * Raw data is located [here](https://github.com/todogroup/osposurvey/blob/main/2023/RawData.csv)
+    * Filtering criteria used is located [here](https://github.com/todogroup/osposurvey/blob/main/2023/FilteringCriteria.csv)
 
 ## Key Findings
 
