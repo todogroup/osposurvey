@@ -5,9 +5,9 @@ Interested contributors are invited to submit their suggestions on the 2024 ques
 ## Timeline:
 
 - ✅ January - March: Call for Sponsors
-- 🕐 April: Request for Community Feedback, Call for Distribution partners, and Finalize Questionnaire in Multiple Languages
-- May-June 2024: Public Survey and Begin Distribution Campaign
-- July 2024: Data analysis and presentation of results
+- ✅ April - May: Request for Community Feedback, Call for Distribution partners, and Finalize Questionnaire in Multiple Languages
+- 🕐 June - July 2024: Public Survey and Begin Distribution Campaign
+- August 2024: Data analysis and presentation of results
 - August 2024: Report drafting and production
 - September 2024: Publication
 
