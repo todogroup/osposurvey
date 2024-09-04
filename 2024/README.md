@@ -5,11 +5,12 @@ Interested contributors are invited to submit their suggestions on the 2024 ques
 ## Timeline:
 
 - ✅ January - March: Call for Sponsors
-- ✅ April - May: Request for Community Feedback, Call for Distribution partners, and Finalize Questionnaire in Multiple Languages
-- 🕐 June - July 2024: Public Survey and Begin Distribution Campaign
-- August 2024: Data analysis and presentation of results
-- August 2024: Report drafting and production
-- September 2024: Publication
+- ✅ April - May: Request Community Feedback, Call for Distribution Partners, Finalize Questionnaire in Multiple Languages
+- ✅ June - August 2024: Public Survey and Distribution Campaign
+- ✅ August 2024: Data Analysis and Preliminary Results
+- 🕐 September 2024: Preliminary Results presented at OSSummit Europe OSPOCon Keynote. Presentation shared in this repo. Survey Closes
+- October 2024: Report Drafting and Production
+- November 2024: OSPO Survey Results presented at Linux Foundation Member Summit. The research final report, as well as its raw data, filtering criteria, and survey reference model is included in this repo. Annual OSPO Report is published
 
 ## 2024 Scope
 
