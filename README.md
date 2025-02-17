@@ -1,4 +1,4 @@
-# Open Source Programs Survey
+# State of Open Source Program Offices and Open Source Management Survey
 
 The TODO Group is proud to have run the first open source programs survey in the industry. Formal open source programs are quickly becoming an emerging best practice for all organizations. The TODO Group is committed to running this survey on an annual basis moving forward and sharing the results with the wider community.
 
