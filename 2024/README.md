@@ -1,22 +1,24 @@
-# OSPO Survey 2024 Planning
+# 2024 Open Source Program Survey Results
 
-Interested contributors are invited to submit their suggestions on the 2024 questionnaire by opening an [Issue](https://github.com/todogroup/osposurvey/issues).
+- The announcements with Survey Key findings can be found [here](https://todogroup.org/blog/state-of-ospo-2024/)
+- The PDF report can be found [here](https://www.linuxfoundation.org/research/ospo-2024)
+- The Guide to use the CSV files and data can be found [here]()
+   - Raw data is located [here]()
+   - Filtering criteria used is located [here]()
 
-## Timeline:
+## Key Findings
 
-- ✅ January - March: Call for Sponsors
-- ✅ April - May: Request Community Feedback, Call for Distribution Partners, Finalize Questionnaire in Multiple Languages
-- ✅ June - August 2024: Public Survey and Distribution Campaign
-- ✅ August 2024: Data Analysis and Preliminary Results
-- 🕐 September 2024: Preliminary Results presented at OSSummit Europe OSPOCon Keynote. Presentation shared in this repo. Survey Closes
-- October 2024: Report Drafting and Production
-- November 2024: OSPO Survey Results presented at Linux Foundation Member Summit. The research final report, as well as its raw data, filtering criteria, and survey reference model is included in this repo. Annual OSPO Report is published
+The State of OSPOs and Open Source Management 2024 report highlights the evolving role of OSPOs (Open Source Program Offices) and similar initiatives in driving the effective integration of open source management across diverse specializations and sectors, including security, AI infrastructure, and beyond. 
 
-## 2024 Scope
+- 91% of OSPOs are involved in managing security issues. This shows the role OSPOs play in bridging security and open source management
+- 84% of OSPOs are involved in managing GenAI infrastructure. OSPOs are becoming integral partners in digital transformation efforts, especially in the adoption and management of Generative AI (GenAI) technologies
+- 80% of organizations report that their OSPOs have a meaningful impact on their ability to collaborate with open source communities
+- 77% of large organizations have an OSPO, while only 19% of small organizations do. These figures reveal a gap not only in adoption rates but also in how the OSPO and dedicated satff involved in Open Source Management is used:
 
-The 2024 survey aims to generate insights into the following areas:
+   - Larger organizations focus on leveraging their use of open source to mitigate risk, stay current with industry trends and practices, and align with broader policy objectives
+   - Smaller organizations, on the other hand, prioritize developing an open source strategy, executing that strategy, and implementing processes and best practices to guide their efforts effectively
+ 
+![lfr_ospo24_infogfx_111824](https://github.com/user-attachments/assets/217ddad2-0909-4301-a347-994452a7f65e)
 
-- Adoption and impact of OSPOs across sectors and industries, including perceived benefits and challenges of open source offices, and trends in hiring for open source development.
-- The role of OSPOs in critical AI infrastructure, including how OSPOs enable open source knowledge, infrastructure within organizations, tools, and skilled people to contribute to the open source projects that power modern AI infrastructure.
-- The role of OSPOs in the security and sustainability of open source ecosystems, including how OSPOs contribute to building more secure software within the software supply chain, and how they enable long-term sustainable ecosystems by aligning organizational goals with open source goals and engaging stakeholders, teams, and executives.
-- Industry or geographical segmentation, including additional survey questions to gain insight into specific regions or industries (e.g., OSPOs in finance, OSPOs in Japan).
+# OSPO Survey 2025 Planning
+Your insights will guide our improvements in the coming year. Interested contributors are invited to submit their suggestions by opening an Issue
