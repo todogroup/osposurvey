@@ -1,10 +1,3 @@
-> We are currently seeking community feedback. Below is a copy of the 2023 questionnaire for reference, so the community can review it and open an issue to share feedback on new questions,
-> suggest topics to cover, or propose changes to existing ones.
-
-
-## ⚠️ Draft Version: Not Final - Request for Community Input Open Until April 30
-
-
 ## Introduction
 
 1. Where is your organization on its open source journey? (select all that apply)
