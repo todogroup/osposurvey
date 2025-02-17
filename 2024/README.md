@@ -2,9 +2,10 @@
 
 - The announcements with Survey Key findings can be found [here](https://todogroup.org/blog/state-of-ospo-2024/)
 - The PDF report can be found [here](https://www.linuxfoundation.org/research/ospo-2024)
-- The Guide to use the CSV files and data can be found [here]()
-   - Raw data is located [here]()
-   - Filtering criteria used is located [here]()
+- Survey Instrument pdf can be found [here](./2024_Survey_Instrument.pdf)
+- Raw data is located [here](./Raw_Data)
+- Filtering criteria used can be found [here](./2024_Filter_Criteria.csv)
+- Survey Reference Model can be found [here](./2024_Survey_Reference_Model.csv)
 
 ## Key Findings
 
