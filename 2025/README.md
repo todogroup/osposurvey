@@ -1,11 +1,10 @@
 # 2025 State of the OSPO and Open Source Management Survey Results
 
-- The announcements with Survey Key findings can be found [here]()
+- The announcement with Survey Key findings can be found [here](https://www.linuxfoundation.org/research/ospo-2025)
 - The PDF report can be found [here](https://www.linuxfoundation.org/research/ospo-2025)
-- Survey Instrument pdf can be found [here](https://data.world/thelinuxfoundation/2025-ospo-survey)
-- Raw data is located [here](https://data.world/thelinuxfoundation/2025-ospo-survey)
-- Filtering criteria used can be found [here](https://data.world/thelinuxfoundation/2025-ospo-survey)
-- Survey Reference Model can be found [here](https://data.world/thelinuxfoundation/2025-ospo-survey)
+- Survey Instrument, raw data, filtering criteria, and Survey reference model can be found [here](https://data.world/thelinuxfoundation/2025-state-of-ospos-and-open-source-management)
+- Report figures are located [here](./Figures)
+- Infographics are [here](./infographics)
 
 The State of OSPOs and Open Source Management 2025 report highlights how OSPOs continue to evolve as strategic drivers of open source management, playing central roles in security, AI governance, upstream engagement, and institutional growth
 
@@ -17,7 +16,8 @@ The State of OSPOs and Open Source Management 2025 report highlights how OSPOs c
 - 92% of academic OSPOs cite improved open source skills as their top impact
 - The share of organizations planning to launch an OSPO in the next 1–2 years has tripled (from 15% to 45%)
   
-![lfr_ospo24_infogfx_111824](https://github.com/user-attachments/assets/0fe0c6b5-ec93-4ad7-a40b-d0ae5c48ce2b)
+![lfr_ospo24_infogfx_111824](https://github.com/user-attachments/assets/002ab78f-3127-464a-9f3a-457187022fa2)
+
 
 # OSPO Survey 2026 Planning
 
