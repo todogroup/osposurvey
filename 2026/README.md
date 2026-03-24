@@ -22,7 +22,7 @@ For further details please see the [sponsorship prospectus](https://github.com/u
 
 TODO General members, associates, working group maintainers, and ambassadors are welcome to contribute to the 2026 edition by:
 
-- Sharing suggestions and feedback on the draft survey instrument
+- Sharing suggestions and feedback on the [draft survey instrument](https://docs.google.com/document/d/1ejNwPAJQuTALZGywors7ZiJrjCLOCv2pBab8RRg_OPM/edit?usp=sharing)
 - Participating in a short interview to be quoted in the final report as a supporting case study
 
 
